@@ -5,8 +5,12 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "bs4>=0.0.2",
+    "lxml>=6.0.2",
     "matplotlib>=3.10.8",
     "pandas>=2.3.3",
     "plotly>=6.5.2",
+    "selenium>=4.40.0",
     "streamlit>=1.53.1",
+    "webdriver-manager>=4.0.2",
 ]
