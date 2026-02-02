@@ -963,7 +963,7 @@ def main():
     
     # Footer
     st.divider()
-    st.caption("Data source: BrighterMonday, MyJobMag, OYK | Last updated: Feb 2026")
+    st.caption("Data source: OYK | Last updated: Feb 2026")
 
 
 if __name__ == "__main__":

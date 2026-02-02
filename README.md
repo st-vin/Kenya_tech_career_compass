@@ -2,6 +2,9 @@
 
 A data-driven project to map the Kenyan technology job market, helping students and professionals navigate their careers with real-time insights.
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://kenyatechcareercompass.streamlit.app/)
+**Live Demo:** [https://kenyatechcareercompass.streamlit.app/](https://kenyatechcareercompass.streamlit.app/)
+
 ## Overview
 
 This project scrapes and analyzes job postings to provide clear, actionable insights into the skills, experience, and domains currently in demand in Kenya's tech ecosystem. 
