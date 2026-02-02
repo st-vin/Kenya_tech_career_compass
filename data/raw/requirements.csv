@@ -1,0 +1,237 @@
+id,job_id,requirement_type,requirement_value,is_required
+1,1,education,Degree In Mathematics,1
+2,2,education,Degree In Statistics,1
+3,3,education,Degree In Statistics,1
+4,4,education,Degree In Statistics,1
+5,5,education,Degree In Statistics,1
+6,6,education,Degree In Statistics,1
+7,7,education,Degree In Mathematics,1
+8,8,education,Degree In Mathematics,1
+9,9,education,Degree In Mathematics,1
+10,10,education,Degree In Mathematics,1
+11,11,education,Degree In Mathematics,1
+12,12,education,Degree In Mathematics,1
+13,14,education,Degree In Mathematics,1
+14,19,education,Degree In Computer Science,1
+15,19,education,Phd,1
+16,20,education,Degree In Computer Science,1
+17,20,education,Phd,1
+18,21,education,Degree In Computer Science,1
+19,21,education,Phd,1
+20,24,education,Degree In Mathematicsstatistics,1
+21,25,education,Degree In Statistics,1
+22,26,education,Degree In Statistics,1
+23,27,education,Degree In Computer Science Or Technical,1
+24,28,education,Degree In Statistics,1
+25,30,education,Degree In Statistics,1
+26,31,education,Degree In Information Technology,1
+27,32,education,Degree In Computer Science,1
+28,33,education,Degree In Computer Science,1
+29,34,education,Degree In Computer Science,1
+30,35,education,Degree Of Self,1
+31,36,education,Degree In Information Management,1
+32,41,education,Degree In Statistics,1
+33,42,education,Degree In Data Science,1
+34,44,education,Degree In Data Science,1
+35,45,education,Degree In Data Science,1
+36,46,education,Degree In Data Science,1
+37,47,education,Degree In Data Science,1
+38,48,education,Degree In Data Science,1
+39,50,education,Degree In Data Science,1
+40,52,education,Degree In Information Technology It,1
+41,53,education,Degree In Information Technology It,1
+42,55,education,Degree In Information Technology It,1
+43,56,education,Degree In Statistics,1
+44,59,education,Degree In Computer Science,1
+45,61,education,Degree In Computer Science,1
+46,62,education,Degree In Computer Science,1
+47,63,education,Degree In Data Science,1
+48,64,education,Diploma In Mechanical Engineering 3,1
+49,65,education,Diploma In Mechanical Engineering 3,1
+50,66,education,Diploma In Mechanical Engineering 3,1
+51,67,education,Certificate In Dairy Technology,1
+52,67,education,Certificate In Electrical Engineering Or Mechanical Engineering,1
+53,68,education,Degree In Mathematics,1
+54,68,education,Degree In Health Informatics,1
+55,69,education,Diploma In Mechanical Or Electrical Engineering,1
+56,71,education,Degree In A Relevant Field Is An Added Advantage,1
+57,72,education,Phd,1
+58,73,education,Degree In A Relevant Field,1
+59,73,education,Phd,1
+60,73,education,Doctorate,1
+61,74,education,Degree In A Relevant Field,1
+62,74,education,Phd,1
+63,74,education,Doctorate,1
+64,79,education,Degree In Data Analytics,1
+65,79,education,Degree In Statistics,1
+66,81,education,Diploma In Public Health,1
+67,82,education,Diploma In Public Health,1
+68,85,education,Bachelor Of Science Degree In Computer Science,1
+69,85,education,Degree In Related Fields,1
+70,85,education,Degree In Computer Science,1
+71,86,education,Degree In Statistics,1
+72,87,education,Degree In Statistics,1
+73,88,education,Degree In Computer Science,1
+74,94,education,Degree In Computer Science,1
+75,95,education,Degree In Computer Science,1
+76,106,education,Degree In Statistics,1
+77,109,education,Degree In Computer Science,1
+78,111,education,Degree In A Relevant Area Or Equivalent Experience,1
+79,116,education,Degree Of Self,1
+80,116,education,Degree Of Innovation,1
+81,117,education,Degree Of Self,1
+82,117,education,Degree Of Innovation,1
+83,118,education,Degree Of Self,1
+84,126,education,Degree In Computer Science,1
+85,127,education,Diploma In Electronics,1
+86,128,education,Diploma In Electronics,1
+87,129,education,Degree In Computer Science,1
+88,130,education,Degree In Engineering Mechanical,1
+89,131,education,Degree In Computer Science,1
+90,132,education,Degree In Computer Science,1
+91,133,education,Degree In Mechanical Engineering,1
+92,137,education,Degree In Business,1
+93,138,education,Degree In Business Analytics,1
+94,139,education,Degree In Information Technology Or A Related Field,1
+95,140,education,Degree In Computer Science,1
+96,141,education,Degree In Computer Science,1
+97,143,education,Degree In Computer Science,1
+98,144,education,Degree In Commerce,1
+99,145,education,Degree In Strategy Degree In Economics Organization,1
+100,146,education,Degree In Strategy Degree In Economics Organization,1
+101,147,education,Degree In Data Science,1
+102,148,education,Degree In Data Science,1
+103,149,education,Degree In Business,1
+104,150,education,Masters In Data Analytics,1
+105,150,education,Degree In Statistics,1
+106,151,education,Degree Of Organization,1
+107,151,education,Degree In Social Sciences  Law,1
+108,152,education,Degree Of Organization,1
+109,152,education,Degree In Social Sciences  Law,1
+110,153,education,Degree Of Organization,1
+111,153,education,Degree In Social Sciences  Law,1
+112,154,education,Degree In Business Information Technology,1
+113,156,education,Masters In Environmental Science,1
+114,157,education,Degree In Health,1
+115,157,education,Degree In Economics,1
+116,157,education,Degree In Health Economics,1
+117,158,education,Bachelor Of Arts In International Development Or Related Field,1
+118,160,education,Degree In Finance,1
+119,161,education,Degree In Finance,1
+120,167,education,Degree In Business,1
+121,168,education,Degree In Finance  Related Fields Accounting Qualifications Experience Required,1
+122,169,education,Degree In Finance  Related Fields Accounting Qualifications Experience Required,1
+123,173,education,Degree In Business,1
+124,174,education,Degree In Computer Science,1
+125,175,education,Degree In Computer Science,1
+126,176,education,Degree In Computer Science,1
+127,177,education,Degree In Computer Science,1
+128,178,education,Degree In Computer Science,1
+129,180,education,Degree In Computer Science,1
+130,181,education,Degree In Computer Science,1
+131,182,education,Degree In A Quantitative Field Such As Mathematics,1
+132,184,education,Degree In A Quantitative Field Such As Mathematics,1
+133,185,education,Degree In A Quantitative Field Such As Mathematics,1
+134,187,education,Degree In A Quantitative Field Such As Mathematics,1
+135,188,education,Degree In A Quantitative Field Such As Mathematics,1
+136,189,education,Degree In Data Science,1
+137,190,education,Degree In Computer Science,1
+138,191,education,Degree In Computer Science,1
+139,192,education,Degree In Mba  Msc Is Added Advantage,1
+140,195,education,Degree In Computer Science,1
+141,196,education,Degree In Information Technology  Computer Science  Cybersecurity  Engineering Electrical,1
+142,197,education,Degree In Information Technology,1
+143,197,education,Masters  Bachelors Degree In Information Technology,1
+144,199,education,Degree In Bsc,1
+145,199,education,Degree In Mbamsc Is An Added Advantage,1
+146,200,education,Bachelor Of Science In Information Technologycomputer Sciencetelecommunications Engineering Electrical,1
+147,201,education,Bachelor Of Science In Information Technologycomputer Sciencetelecommunications Engineering Electrical,1
+148,202,education,Degree In Business,1
+149,203,education,Degree In Bsc Information Technologycomputer Sciencecybersecurityengineering Electrical,1
+150,204,education,Degree In Business,1
+151,205,education,Degree In Business,1
+152,206,education,Degree In Business,1
+153,220,education,Degree In Any Of The Following Specializations,1
+154,221,education,Degree In Any Of The Following Specializations,1
+155,223,education,Degree In Any Of The Following Specializations,1
+156,224,education,Degree In Computer Science,1
+157,225,education,Degree In Computer Science,1
+158,226,education,Degree In Computer Science,1
+159,227,education,Degree In Cybersecurity,1
+160,228,education,Degree In Cybersecurity,1
+161,229,education,Degree In Cybersecurity,1
+162,230,education,Degree In Cybersecurity,1
+163,233,education,Degree In Information Technology,1
+164,234,education,Degree In Information Technology,1
+165,235,education,Degree In Information Technology,1
+166,243,education,Degree In Computer Science,1
+167,244,education,Degree In Computer Science  Information Technology Nqf Level No,1
+168,245,education,Degree In A Quantitative Field Experience,1
+169,247,education,Degree In Commerce,1
+170,258,education,Degree In Business Studies,1
+171,259,education,Degree In Computer Science,1
+172,260,education,Degree In Computer Science,1
+173,261,education,Degree In Computer Science,1
+174,262,education,Degree In Computer Science,1
+175,263,education,Degree In Computer Science,1
+176,264,education,Degree In Computer Science,1
+177,265,education,Degree In Computer Science,1
+178,266,education,Degree In Computer Science,1
+179,267,education,Degree In Computer Science,1
+180,268,education,Degree In Information Technology,1
+181,269,education,Degree In Information Technology,1
+182,270,education,Degree In Information Technology,1
+183,271,education,Degree In Information Technology,1
+184,272,education,Degree In Information Technology,1
+185,273,education,Degree In Environmental Science,1
+186,274,education,Degree In Environmental Science,1
+187,275,education,Degree In Environmental Science,1
+188,276,education,Degree In Environmental Science,1
+189,277,education,Degree In Environmental Science,1
+190,278,education,Degree In Environmental Science,1
+191,279,education,Degree In Computer Science,1
+192,280,education,Degree In Stem Or Related Field And Either,1
+193,281,education,Degree In Stem Or Related Field And Either,1
+194,287,education,Degree In Cybersecurity,1
+195,288,education,Degree In Cybersecurity,1
+196,290,education,Degree In Stem Or Related Field And Either,1
+197,291,education,Degree In Stem Or Related Field And Either,1
+198,292,education,Degree In Stem Or Related Field And Either,1
+199,294,education,Diploma In Relevant Professional Qualification It,1
+200,294,education,Degree In Information Technology Added Advantage,1
+201,295,education,Degree In Computer Science Or It,1
+202,297,education,Degree In Any Of The Following Disciplines,1
+203,303,education,Diploma In Anaesthesia For Approximately 18 Months,1
+204,303,education,Phd,1
+205,306,education,Degree In Computer Science,1
+206,315,education,Degree In Criminology,1
+207,318,education,Degree In Information Technology,1
+208,320,education,Degree In Information Technology,1
+209,324,education,Degree In Computer Science,1
+210,327,education,Diploma In Law From The Kenya School Of Law,1
+211,327,education,Degree In Mechanical,1
+212,327,education,Diploma In Mechanical,1
+213,327,education,Bachelor Of Laws Llb Degree From A Recognized University,1
+214,327,education,Bachelor Of Science Degree In Mechanical,1
+215,327,education,Degree In Criminology Or Equivalent Qualification,1
+216,332,education,Degree In Information Security Or A Related Field,1
+217,336,education,Degree In Computer Science,1
+218,337,education,Degree In Computer Science,1
+219,338,education,Degree In Computer Science,1
+220,339,education,Degree In Computer Science,1
+221,341,education,Degree In Computer Science,1
+222,342,education,Degree In Computer Science,1
+223,343,education,Degree In Computer Science,1
+224,344,education,Degree In Computer Science,1
+225,345,education,Degree In Computer Science,1
+226,346,education,Degree In Computer Science Or A Technical,1
+227,349,education,Degree In The Above Fields Is An Added Advantage,1
+228,349,education,Degree In Computer Science,1
+229,351,education,Degree In Computer Science Or Technical,1
+230,352,education,Degree In Computer Science,1
+231,353,education,Degree In Computer Science Or Technical,1
+232,355,education,Degree In Computer Science,1
+233,356,education,Degree In Computer Science Or Technical,1
+234,357,education,Degree In Computer Science Or Technical,1
+235,358,education,Degree In Computer Science Or Technical,1
+236,360,education,Degree In Software Engineering,1

@@ -1,0 +1,406 @@
+skill_1,skill_2,cooccurrence_count,cooccurrence_pct
+analytical,communication,100,63.7
+analytical,compliance,99,63.1
+communication,compliance,95,56.5
+collaboration,communication,88,71.0
+communication,organization,87,68.0
+collaboration,compliance,75,60.5
+analytical,collaboration,71,57.3
+communication,leadership,71,71.7
+Python,communication,68,66.7
+analytical,organization,68,53.1
+Python,SQL,65,63.7
+compliance,leadership,64,64.6
+SQL,analytical,63,59.4
+compliance,organization,61,47.7
+SQL,communication,57,53.8
+Python,analytical,55,53.9
+collaboration,organization,52,41.9
+collaboration,leadership,51,51.5
+audit,compliance,51,94.4
+analytical,leadership,51,51.5
+communication,interpersonal,50,74.6
+communication,incident response,45,72.6
+analytical,attention to detail,45,73.8
+leadership,organization,44,44.4
+communication,proactive,44,75.9
+SQL,compliance,42,39.6
+SIEM,incident response,42,95.5
+Python,R,42,82.4
+SQL,organization,41,38.7
+R,SQL,41,80.4
+Python,compliance,40,39.2
+analytical,interpersonal,40,59.7
+attention to detail,communication,39,63.9
+Python,machine learning,39,59.1
+compliance,incident response,38,61.3
+Python,organization,38,37.3
+R,analytical,37,72.5
+attention to detail,compliance,36,59.0
+Python,Tableau,36,85.7
+SQL,Tableau,35,83.3
+Power BI,Python,35,76.1
+Power BI,Tableau,35,83.3
+communication,network security,35,89.7
+CEH,communication,35,72.9
+CEH,compliance,35,72.9
+Power BI,SQL,35,76.1
+Python,collaboration,35,34.3
+analytical,audit,35,64.8
+Power BI,analytical,34,73.9
+AWS,communication,34,68.0
+compliance,interpersonal,34,50.7
+SQL,collaboration,33,31.1
+SQL,machine learning,33,50.0
+Tableau,analytical,33,78.6
+analytical,machine learning,33,50.0
+analytical,presentation,33,82.5
+agile,compliance,33,66.0
+SIEM,communication,33,75.0
+communication,presentation,32,80.0
+communication,machine learning,32,48.5
+CEH,incident response,32,66.7
+compliance,proactive,31,53.4
+ETL,Python,31,81.6
+CISSP,compliance,30,75.0
+CISSP,communication,30,75.0
+SQL,interpersonal,30,44.8
+attention to detail,collaboration,30,49.2
+Python,interpersonal,30,44.8
+CISSP,incident response,30,75.0
+incident response,organization,29,46.8
+SQL,leadership,29,29.3
+AWS,Azure,29,76.3
+SOC,incident response,29,85.3
+agile,analytical,29,58.0
+compliance,project management,29,80.6
+ETL,SQL,29,76.3
+audit,communication,29,53.7
+interpersonal,machine learning,28,42.4
+analytical,incident response,28,45.2
+R,machine learning,28,54.9
+analytical,proactive,28,48.3
+incident response,network security,28,71.8
+analytical,teamwork,28,71.8
+communication,teamwork,28,71.8
+Azure,communication,28,73.7
+AWS,Python,28,56.0
+SQL,agile,27,54.0
+R,communication,27,52.9
+compliance,teamwork,27,69.2
+CISSP,SIEM,26,65.0
+CEH,SIEM,26,59.1
+compliance,machine learning,26,39.4
+leadership,proactive,26,44.8
+SIEM,SOC,26,76.5
+R,Tableau,26,61.9
+CEH,CISSP,26,65.0
+audit,collaboration,26,48.1
+ETL,analytical,26,68.4
+Python,proactive,25,43.1
+SIEM,compliance,25,56.8
+Power BI,communication,25,54.3
+Tableau,communication,25,59.5
+AWS,compliance,25,50.0
+collaboration,incident response,24,38.7
+CEH,network security,24,61.5
+incident response,leadership,24,38.7
+SIEM,network security,24,61.5
+SOC,communication,24,70.6
+AWS,organization,24,48.0
+interpersonal,organization,24,35.8
+Power BI,compliance,23,50.0
+Power BI,R,23,50.0
+CISSP,network security,23,59.0
+Azure,compliance,23,60.5
+CEH,collaboration,23,47.9
+R,interpersonal,23,45.1
+organization,proactive,23,39.7
+audit,leadership,23,42.6
+Python,incident response,23,37.1
+ETL,Power BI,23,60.5
+AWS,SQL,22,44.0
+attention to detail,organization,22,36.1
+audit,organization,22,40.7
+ETL,Tableau,22,57.9
+Python,leadership,22,22.2
+agile,communication,22,44.0
+analytical,project management,22,61.1
+ETL,compliance,22,57.9
+SQL,attention to detail,22,36.1
+Python,attention to detail,22,36.1
+interpersonal,leadership,21,31.3
+collaboration,teamwork,21,53.8
+interpersonal,proactive,21,36.2
+communication,project management,21,58.3
+machine learning,organization,21,31.8
+CEH,analytical,21,43.8
+leadership,network security,21,53.8
+Python,SIEM,21,47.7
+incident response,proactive,21,36.2
+R,compliance,21,41.2
+CEH,organization,20,41.7
+CISSP,SOC,20,58.8
+compliance,network security,20,51.3
+collaboration,proactive,20,34.5
+AWS,analytical,20,40.0
+AWS,machine learning,20,40.0
+AWS,CI/CD,20,57.1
+SIEM,proactive,20,45.5
+SIEM,analytical,20,45.5
+agile,collaboration,20,40.0
+SIEM,organization,19,43.2
+agile,attention to detail,19,38.0
+Tableau,compliance,19,45.2
+Python,agile,19,38.0
+Power BI,collaboration,19,41.3
+Tableau,organization,19,45.2
+SOC,compliance,19,55.9
+R,organization,19,37.3
+Python,network security,19,48.7
+SQL,presentation,19,47.5
+SQL,proactive,19,32.8
+organization,presentation,19,47.5
+CISSP,leadership,18,45.0
+collaboration,project management,18,50.0
+compliance,presentation,18,45.0
+interpersonal,project management,18,50.0
+CI/CD,analytical,18,51.4
+collaboration,machine learning,18,27.3
+SIEM,collaboration,18,40.9
+CI/CD,Python,18,51.4
+SOC,proactive,18,52.9
+ETL,communication,17,44.7
+Python,SOC,17,50.0
+Python,audit,17,31.5
+collaboration,interpersonal,17,25.4
+analytical,network security,17,43.6
+collaboration,presentation,17,42.5
+SIEM,leadership,16,36.4
+agile,project management,16,44.4
+CEH,leadership,16,33.3
+Power BI,attention to detail,16,34.8
+Tableau,collaboration,16,38.1
+CI/CD,communication,16,45.7
+Power BI,agile,15,32.6
+CISSP,proactive,15,37.5
+R,agile,15,30.0
+CEH,audit,15,31.2
+Azure,organization,15,39.5
+ETL,R,15,39.5
+Power BI,organization,15,32.6
+audit,incident response,15,27.8
+attention to detail,audit,15,27.8
+incident response,interpersonal,15,24.2
+Tableau,agile,14,33.3
+agile,interpersonal,14,28.0
+CEH,attention to detail,14,29.2
+collaboration,network security,14,35.9
+machine learning,teamwork,14,35.9
+SOC,analytical,14,41.2
+leadership,machine learning,14,21.2
+network security,organization,14,35.9
+CEH,SOC,14,41.2
+AWS,leadership,14,28.0
+audit,proactive,14,25.9
+SOC,network security,14,41.2
+organization,teamwork,14,35.9
+machine learning,project management,14,38.9
+AWS,collaboration,14,28.0
+CI/CD,organization,14,40.0
+CI/CD,compliance,14,40.0
+Tableau,machine learning,14,33.3
+agile,audit,14,28.0
+agile,machine learning,13,26.0
+SOC,interpersonal,13,38.2
+SQL,project management,13,36.1
+SQL,teamwork,13,33.3
+Azure,collaboration,13,34.2
+SIEM,audit,13,29.5
+SOC,collaboration,13,38.2
+CISSP,analytical,13,32.5
+Azure,Python,13,34.2
+attention to detail,interpersonal,13,21.3
+attention to detail,project management,13,36.1
+Tableau,attention to detail,13,31.0
+SQL,network security,13,33.3
+CI/CD,SQL,13,37.1
+leadership,project management,13,36.1
+attention to detail,incident response,13,21.3
+Python,project management,12,33.3
+CISSP,audit,12,30.0
+CISSP,collaboration,12,30.0
+ETL,machine learning,12,31.6
+R,proactive,12,23.5
+SOC,SQL,12,35.3
+SQL,incident response,12,19.4
+machine learning,proactive,12,20.7
+ETL,organization,12,31.6
+audit,project management,12,33.3
+Azure,leadership,12,31.6
+agile,organization,12,24.0
+Azure,CI/CD,12,34.3
+CISSP,Python,12,30.0
+interpersonal,teamwork,12,30.8
+CI/CD,collaboration,11,31.4
+R,project management,11,30.6
+SIEM,interpersonal,11,25.0
+CI/CD,ETL,11,31.4
+Azure,CISSP,11,28.9
+Azure,agile,11,28.9
+Azure,analytical,11,28.9
+ETL,collaboration,11,28.9
+ETL,agile,11,28.9
+attention to detail,teamwork,11,28.2
+CI/CD,agile,11,31.4
+Python,presentation,11,27.5
+Power BI,audit,11,23.9
+SQL,audit,11,20.4
+Power BI,presentation,11,27.5
+attention to detail,presentation,11,27.5
+SOC,attention to detail,11,32.4
+agile,teamwork,10,25.6
+SIEM,SQL,10,22.7
+SIEM,attention to detail,10,22.7
+network security,proactive,10,25.6
+CEH,Python,10,20.8
+organization,project management,10,27.8
+Azure,CEH,10,26.3
+ETL,attention to detail,10,26.3
+R,attention to detail,10,19.6
+CISSP,organization,10,25.0
+Tableau,audit,10,23.8
+leadership,teamwork,10,25.6
+leadership,presentation,10,25.0
+Tableau,presentation,10,25.0
+R,collaboration,10,19.6
+Azure,SQL,10,26.3
+Azure,audit,10,26.3
+agile,presentation,10,25.0
+AWS,audit,9,18.0
+AWS,agile,9,18.0
+AWS,interpersonal,9,18.0
+ETL,audit,9,23.7
+Azure,incident response,9,23.7
+Python,teamwork,9,23.1
+attention to detail,leadership,9,14.8
+ETL,project management,9,25.0
+project management,teamwork,9,25.0
+interpersonal,network security,9,23.1
+R,teamwork,9,23.1
+SOC,leadership,9,26.5
+AWS,proactive,9,18.0
+Power BI,machine learning,9,19.6
+agile,leadership,9,18.0
+CEH,proactive,9,18.8
+SOC,organization,9,26.5
+incident response,teamwork,8,20.5
+Tableau,leadership,8,19.0
+Power BI,project management,8,22.2
+interpersonal,presentation,8,20.0
+CISSP,interpersonal,8,20.0
+CI/CD,leadership,8,22.9
+AWS,CISSP,8,20.0
+CI/CD,machine learning,8,22.9
+CI/CD,audit,8,22.9
+audit,interpersonal,8,14.8
+SOC,teamwork,8,23.5
+AWS,ETL,8,21.1
+AWS,incident response,8,16.0
+Azure,machine learning,8,21.1
+proactive,project management,8,22.2
+CI/CD,attention to detail,8,22.9
+AWS,CEH,7,14.6
+audit,network security,7,17.9
+CISSP,SQL,7,17.5
+Tableau,proactive,7,16.7
+AWS,Tableau,7,16.7
+R,leadership,7,13.7
+attention to detail,machine learning,7,11.5
+SIEM,teamwork,7,17.9
+Tableau,interpersonal,7,16.7
+Tableau,project management,7,19.4
+R,presentation,7,17.5
+presentation,proactive,7,17.5
+Power BI,interpersonal,7,15.2
+Azure,network security,7,18.4
+CEH,teamwork,7,17.9
+incident response,presentation,7,17.5
+CISSP,teamwork,6,15.4
+Power BI,leadership,6,13.0
+Azure,attention to detail,6,15.8
+CI/CD,Tableau,6,17.1
+proactive,teamwork,6,15.4
+CI/CD,Power BI,6,17.1
+Azure,proactive,6,15.8
+Azure,interpersonal,5,13.2
+AWS,teamwork,5,12.8
+Azure,teamwork,5,13.2
+AWS,presentation,5,12.5
+AWS,R,5,10.0
+SOC,audit,5,14.7
+CISSP,attention to detail,5,12.5
+agile,proactive,5,10.0
+ETL,proactive,5,13.2
+R,audit,5,9.8
+CI/CD,project management,5,14.3
+ETL,interpersonal,5,13.2
+Azure,presentation,5,13.2
+network security,presentation,5,12.8
+CEH,presentation,5,12.5
+Power BI,proactive,5,10.9
+attention to detail,network security,4,10.3
+CEH,project management,4,11.1
+Azure,SIEM,4,10.5
+AWS,SIEM,4,9.1
+network security,teamwork,4,10.3
+presentation,teamwork,4,10.3
+CI/CD,proactive,4,11.4
+agile,incident response,4,8.0
+Azure,ETL,4,10.5
+AWS,attention to detail,4,8.0
+AWS,network security,4,10.3
+incident response,project management,4,11.1
+CI/CD,interpersonal,4,11.4
+SIEM,presentation,4,10.0
+SOC,presentation,4,11.8
+attention to detail,proactive,4,6.9
+CEH,SQL,4,8.3
+CI/CD,teamwork,3,8.6
+R,SOC,3,8.8
+CEH,interpersonal,3,6.2
+CISSP,project management,3,8.3
+R,SIEM,3,6.8
+R,incident response,3,5.9
+AWS,SOC,3,8.8
+Azure,SOC,3,8.8
+CEH,agile,3,6.2
+network security,project management,3,8.3
+presentation,project management,3,8.3
+CI/CD,presentation,3,8.6
+SOC,agile,3,8.8
+SIEM,project management,3,8.3
+ETL,presentation,3,7.9
+audit,machine learning,3,5.6
+audit,teamwork,3,7.7
+machine learning,presentation,2,5.0
+Power BI,network security,2,5.1
+Power BI,incident response,2,4.3
+AWS,Power BI,2,4.3
+ETL,leadership,2,5.3
+SIEM,agile,2,4.5
+audit,presentation,2,5.0
+Power BI,SOC,2,5.9
+Power BI,teamwork,2,5.1
+SOC,project management,2,5.9
+CI/CD,incident response,2,5.7
+CI/CD,R,1,2.9
+ETL,teamwork,1,2.6
+Azure,R,1,2.6
+CISSP,presentation,1,2.5
+CI/CD,CISSP,1,2.9
+CI/CD,SOC,1,2.9
+CISSP,agile,1,2.5
+agile,network security,1,2.6
+AWS,project management,1,2.8
+Azure,project management,1,2.8

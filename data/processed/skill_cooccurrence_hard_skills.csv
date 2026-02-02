@@ -1,0 +1,307 @@
+skill_1,skill_2,cooccurrence_count,cooccurrence_pct
+Python,SQL,65,63.7
+Python,R,42,82.4
+SIEM,incident response,42,95.5
+R,SQL,41,80.4
+Python,machine learning,39,59.1
+Python,Tableau,36,85.7
+SQL,Tableau,35,83.3
+Power BI,Tableau,35,83.3
+Power BI,Python,35,76.1
+Power BI,SQL,35,76.1
+SQL,machine learning,33,50.0
+CEH,incident response,32,66.7
+ETL,Python,31,81.6
+CISSP,incident response,30,75.0
+AWS,Azure,29,76.3
+SOC,incident response,29,85.3
+ETL,SQL,29,76.3
+R,machine learning,28,54.9
+incident response,network security,28,71.8
+AWS,Python,28,56.0
+CEH,SIEM,26,59.1
+SIEM,SOC,26,76.5
+NIST,incident response,26,83.9
+CEH,CISSP,26,65.0
+CISSP,SIEM,26,65.0
+R,Tableau,26,61.9
+Oracle,SQL,25,89.3
+SQL,SQL Server,25,100.0
+SIEM,network security,24,61.5
+CEH,network security,24,61.5
+CEH,penetration testing,24,75.0
+ISO 27001,incident response,24,88.9
+CEH,NIST,24,77.4
+ETL,Power BI,23,60.5
+NIST,SIEM,23,74.2
+CISSP,network security,23,59.0
+Power BI,R,23,50.0
+Java,SQL,23,74.2
+Python,incident response,23,37.1
+ETL,Tableau,22,57.9
+CEH,OSCP,22,100.0
+AWS,SQL,22,44.0
+ISO 27001,SIEM,22,81.5
+CEH,ISO 27001,22,81.5
+SQL,Spark,22,95.7
+R,statistical analysis,21,77.8
+Python,SIEM,21,47.7
+ISO 27001,NIST,21,77.8
+Java,Python,21,67.7
+AWS,machine learning,20,40.0
+AWS,CI/CD,20,57.1
+CISSP,SOC,20,58.8
+machine learning,statistical analysis,20,74.1
+Python,Spark,19,82.6
+CEH,CISM,19,76.0
+incident response,penetration testing,19,59.4
+Python,network security,19,48.7
+ISO 27001,network security,18,66.7
+CISA,CISM,18,78.3
+IAM,access control,18,69.2
+SQL,statistical analysis,18,66.7
+CI/CD,Python,18,51.4
+Spark,machine learning,17,73.9
+CISM,CISSP,17,68.0
+Python,SOC,17,50.0
+Oracle,SQL Server,16,64.0
+CEH,CISA,16,69.6
+CISSP,NIST,16,51.6
+IAM,incident response,16,61.5
+access control,incident response,15,57.7
+NIST,network security,15,48.4
+CISM,incident response,15,60.0
+ETL,R,15,39.5
+Java,SQL Server,15,60.0
+SIEM,penetration testing,15,46.9
+IAM,ISO 27001,15,57.7
+CEH,SOC,14,41.2
+SOC,network security,14,41.2
+Oracle,machine learning,14,50.0
+CISA,CISSP,14,60.9
+CEH,IAM,14,53.8
+network security,penetration testing,14,43.8
+IAM,network security,14,53.8
+Python,SQL Server,14,56.0
+CISSP,ISO 27001,14,51.9
+AWS,Spark,14,60.9
+Tableau,machine learning,14,33.3
+IAM,SIEM,14,53.8
+ISO 27001,penetration testing,14,51.9
+ETL,Spark,13,56.5
+NIST,SOC,13,41.9
+access control,network security,13,50.0
+CI/CD,SQL,13,37.1
+CEH,access control,13,50.0
+Python,statistical analysis,13,48.1
+Azure,Python,13,34.2
+SQL,network security,13,33.3
+Java,machine learning,12,38.7
+CISSP,IAM,12,46.2
+CISSP,penetration testing,12,37.5
+ISO 27001,access control,12,46.2
+Java,Oracle,12,42.9
+Python,penetration testing,12,37.5
+SOC,SQL,12,35.3
+ETL,Java,12,38.7
+CISSP,Python,12,30.0
+Java,Spark,12,52.2
+ETL,machine learning,12,31.6
+Azure,CI/CD,12,34.3
+SQL,incident response,12,19.4
+CISSP,OSCP,11,50.0
+CI/CD,ETL,11,31.4
+Azure,CISSP,11,28.9
+Azure,CISA,11,47.8
+NIST,access control,11,42.3
+CISSP,access control,11,42.3
+ISO 27001,Python,11,40.7
+CISM,SIEM,11,44.0
+Java,Tableau,11,35.5
+Spark,Tableau,11,47.8
+AWS,IAM,11,42.3
+Azure,Java,11,35.5
+IAM,NIST,11,42.3
+SIEM,access control,11,42.3
+Azure,CEH,10,26.3
+Java,Power BI,10,32.3
+Azure,SQL,10,26.3
+Oracle,Python,10,35.7
+NIST,penetration testing,10,32.3
+CEH,Python,10,20.8
+R,Spark,10,43.5
+OSCP,network security,10,45.5
+AWS,Java,10,32.3
+CISA,incident response,10,43.5
+Oracle,R,10,35.7
+CISM,penetration testing,10,40.0
+NIST,Python,10,32.3
+CI/CD,Java,10,32.3
+SIEM,SQL,10,22.7
+IAM,Python,10,38.5
+IAM,penetration testing,10,38.5
+Java,R,9,29.0
+Azure,incident response,9,23.7
+Power BI,machine learning,9,19.6
+CISA,penetration testing,9,39.1
+CISM,SOC,9,36.0
+Azure,IAM,9,34.6
+ISO 27001,SOC,9,33.3
+CISA,OSCP,9,40.9
+CISA,network security,9,39.1
+OSCP,penetration testing,9,40.9
+Go,Python,9,42.9
+Azure,penetration testing,8,25.0
+AWS,ETL,8,21.1
+SQL Server,machine learning,8,32.0
+AWS,incident response,8,16.0
+Python,access control,8,30.8
+AWS,CISA,8,34.8
+OSCP,incident response,8,36.4
+CISM,OSCP,8,36.4
+Oracle,statistical analysis,8,29.6
+CISM,NIST,8,32.0
+Azure,CISM,8,32.0
+Azure,machine learning,8,21.1
+Tableau,statistical analysis,8,29.6
+SQL Server,Spark,8,34.8
+SQL Server,Tableau,8,32.0
+CI/CD,machine learning,8,22.9
+Power BI,statistical analysis,8,29.6
+AWS,CISSP,8,20.0
+CISSP,SQL,7,17.5
+Azure,network security,7,18.4
+CISM,network security,7,28.0
+AWS,Tableau,7,16.7
+ETL,SQL Server,7,28.0
+Power BI,SQL Server,7,28.0
+Power BI,Spark,7,30.4
+ETL,Oracle,7,25.0
+Azure,Oracle,7,25.0
+AWS,SQL Server,7,28.0
+AWS,CEH,7,14.6
+access control,penetration testing,7,26.9
+ETL,statistical analysis,6,22.2
+AWS,Oracle,6,21.4
+Azure,ISO 27001,6,22.2
+Go,Power BI,6,28.6
+CISM,IAM,6,24.0
+AWS,CISM,6,24.0
+Azure,access control,6,23.1
+Oracle,Power BI,6,21.4
+AWS,penetration testing,6,18.8
+SOC,penetration testing,6,18.8
+Go,Java,6,28.6
+Go,SQL,6,28.6
+CI/CD,Power BI,6,17.1
+CI/CD,Tableau,6,17.1
+Go,machine learning,6,28.6
+CISA,access control,6,26.1
+CISA,IAM,6,26.1
+NIST,OSCP,6,27.3
+ISO 27001,OSCP,6,27.3
+OSCP,SIEM,6,27.3
+OSCP,access control,5,22.7
+CISM,access control,5,20.0
+IAM,OSCP,5,22.7
+CISA,SIEM,5,21.7
+CI/CD,IAM,5,19.2
+CI/CD,Oracle,5,17.9
+ETL,Go,5,23.8
+AWS,access control,5,19.2
+AWS,ISO 27001,5,18.5
+Oracle,Tableau,5,17.9
+AWS,R,5,10.0
+Oracle,Spark,5,21.7
+CI/CD,SQL Server,5,20.0
+Spark,statistical analysis,5,21.7
+CISA,ISO 27001,5,21.7
+R,SQL Server,5,20.0
+CISM,ISO 27001,5,20.0
+OSCP,SQL,4,18.2
+Azure,OSCP,4,18.2
+CI/CD,Spark,4,17.4
+Java,statistical analysis,4,14.8
+Azure,NIST,4,12.9
+AWS,NIST,4,12.9
+Azure,ETL,4,10.5
+CISA,SQL,4,17.4
+CISM,SQL,4,16.0
+CEH,SQL,4,8.3
+Azure,SQL Server,4,16.0
+IAM,SOC,4,15.4
+Go,Tableau,4,19.0
+Go,SQL Server,4,19.0
+Go,Oracle,4,19.0
+SQL,access control,4,15.4
+AWS,network security,4,10.3
+Azure,SIEM,4,10.5
+AWS,SIEM,4,9.1
+Azure,SOC,3,8.8
+AWS,SOC,3,8.8
+Oracle,access control,3,11.5
+R,incident response,3,5.9
+Azure,Spark,3,13.0
+CI/CD,access control,3,11.5
+R,SIEM,3,6.8
+R,SOC,3,8.8
+CISA,SOC,3,13.0
+IAM,SQL,2,7.7
+SOC,access control,2,7.7
+Power BI,incident response,2,4.3
+AWS,OSCP,2,9.1
+Go,IAM,2,9.5
+IAM,Java,2,7.7
+Go,access control,2,9.5
+AWS,Go,2,9.5
+Java,access control,2,7.7
+Azure,Go,2,9.5
+CI/CD,incident response,2,5.7
+Power BI,network security,2,5.1
+IAM,SQL Server,2,8.0
+AWS,Power BI,2,4.3
+Power BI,SOC,2,5.9
+CI/CD,Go,2,9.5
+CISA,Oracle,2,8.7
+CISM,Oracle,2,8.0
+Go,penetration testing,2,9.5
+Oracle,penetration testing,2,7.1
+CISA,NIST,2,8.7
+IAM,Oracle,2,7.7
+CISSP,Oracle,2,7.1
+Go,network security,1,4.8
+CISA,Go,1,4.8
+CISSP,Go,1,4.8
+CISA,Python,1,4.3
+Java,penetration testing,1,3.2
+ETL,penetration testing,1,3.1
+Spark,penetration testing,1,4.3
+Power BI,penetration testing,1,3.1
+SQL,penetration testing,1,3.1
+SQL Server,penetration testing,1,4.0
+Go,R,1,4.8
+ETL,access control,1,3.8
+Tableau,access control,1,3.8
+R,access control,1,3.8
+Power BI,access control,1,3.8
+SQL Server,access control,1,4.0
+CISM,Python,1,4.0
+Java,incident response,1,3.2
+machine learning,penetration testing,1,3.1
+Go,Spark,1,4.8
+OSCP,SOC,1,4.5
+Java,NIST,1,3.2
+Java,SIEM,1,3.2
+Java,SOC,1,3.2
+ISO 27001,Java,1,3.7
+CI/CD,penetration testing,1,3.1
+CI/CD,CISSP,1,2.9
+CI/CD,CISM,1,4.0
+CI/CD,SOC,1,2.9
+Oracle,incident response,1,3.6
+CI/CD,CISA,1,4.3
+CI/CD,R,1,2.9
+AWS,statistical analysis,1,3.7
+Oracle,SOC,1,3.6
+Azure,R,1,2.6
+Azure,statistical analysis,1,3.7

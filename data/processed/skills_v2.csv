@@ -1,0 +1,3660 @@
+id,job_id,skill_name,domain,category
+1,1,R,data_science,languages
+2,1,SQL,data_science,languages
+3,1,MATLAB,data_science,languages
+4,1,NumPy,data_science,data_processing
+5,1,Hive,data_science,big_data
+6,1,Pig,data_science,big_data
+7,1,MongoDB,web_dev,databases
+8,1,Cassandra,data_science,databases
+9,1,HBase,data_science,databases
+10,1,Oracle,data_science,databases
+11,1,machine learning,data_science,concepts
+12,1,regression,data_science,concepts
+13,1,statistical analysis,data_science,concepts
+14,1,data mining,data_science,concepts
+15,1,data warehouse,data_science,concepts
+16,1,anomaly detection,data_science,concepts
+17,1,compliance,cyber_security,concepts
+18,1,teamwork,general,soft_skills
+19,1,analytical,general,soft_skills
+20,1,interpersonal,general,soft_skills
+21,1,agile,general,soft_skills
+22,1,project management,general,soft_skills
+23,2,Python,web_dev,languages
+24,2,R,data_science,languages
+25,2,SQL,data_science,languages
+26,2,Java,web_dev,languages
+27,2,Tableau,data_science,bi_tools
+28,2,Power BI,data_science,bi_tools
+29,2,QlikView,data_science,bi_tools
+30,2,SSRS,data_science,bi_tools
+31,2,SSIS,data_science,bi_tools
+32,2,Spark,data_science,big_data
+33,2,Hadoop,data_science,big_data
+34,2,Kafka,data_science,big_data
+35,2,HDFS,data_science,big_data
+36,2,SQL Server,data_science,databases
+37,2,machine learning,data_science,concepts
+38,2,regression,data_science,concepts
+39,2,data mining,data_science,concepts
+40,2,ETL,data_science,concepts
+41,2,communication,general,soft_skills
+42,2,interpersonal,general,soft_skills
+43,2,proactive,general,soft_skills
+44,2,project management,general,soft_skills
+45,3,Python,web_dev,languages
+46,3,R,data_science,languages
+47,3,SQL,data_science,languages
+48,3,Java,web_dev,languages
+49,3,Tableau,data_science,bi_tools
+50,3,Power BI,data_science,bi_tools
+51,3,QlikView,data_science,bi_tools
+52,3,Spark,data_science,big_data
+53,3,Hadoop,data_science,big_data
+54,3,Kafka,data_science,big_data
+55,3,HDFS,data_science,big_data
+56,3,machine learning,data_science,concepts
+57,3,statistical analysis,data_science,concepts
+58,3,predictive modeling,data_science,concepts
+59,3,data mining,data_science,concepts
+60,3,ETL,data_science,concepts
+61,4,Python,web_dev,languages
+62,4,R,data_science,languages
+63,4,SQL,data_science,languages
+64,4,Java,web_dev,languages
+65,4,Tableau,data_science,bi_tools
+66,4,Power BI,data_science,bi_tools
+67,4,QlikView,data_science,bi_tools
+68,4,SSRS,data_science,bi_tools
+69,4,SSIS,data_science,bi_tools
+70,4,Spark,data_science,big_data
+71,4,Hadoop,data_science,big_data
+72,4,Kafka,data_science,big_data
+73,4,HDFS,data_science,big_data
+74,4,SQL Server,data_science,databases
+75,4,machine learning,data_science,concepts
+76,4,regression,data_science,concepts
+77,4,data mining,data_science,concepts
+78,4,ETL,data_science,concepts
+79,4,communication,general,soft_skills
+80,4,interpersonal,general,soft_skills
+81,4,proactive,general,soft_skills
+82,4,project management,general,soft_skills
+83,5,Python,web_dev,languages
+84,5,R,data_science,languages
+85,5,SQL,data_science,languages
+86,5,Java,web_dev,languages
+87,5,Tableau,data_science,bi_tools
+88,5,Power BI,data_science,bi_tools
+89,5,QlikView,data_science,bi_tools
+90,5,Spark,data_science,big_data
+91,5,Hadoop,data_science,big_data
+92,5,Kafka,data_science,big_data
+93,5,HDFS,data_science,big_data
+94,5,machine learning,data_science,concepts
+95,5,statistical analysis,data_science,concepts
+96,5,predictive modeling,data_science,concepts
+97,5,data mining,data_science,concepts
+98,5,ETL,data_science,concepts
+99,6,Python,web_dev,languages
+100,6,R,data_science,languages
+101,6,SQL,data_science,languages
+102,6,Java,web_dev,languages
+103,6,Tableau,data_science,bi_tools
+104,6,Power BI,data_science,bi_tools
+105,6,QlikView,data_science,bi_tools
+106,6,Spark,data_science,big_data
+107,6,Hadoop,data_science,big_data
+108,6,Kafka,data_science,big_data
+109,6,HDFS,data_science,big_data
+110,6,machine learning,data_science,concepts
+111,6,statistical analysis,data_science,concepts
+112,6,predictive modeling,data_science,concepts
+113,6,data mining,data_science,concepts
+114,6,ETL,data_science,concepts
+115,7,R,data_science,languages
+116,7,SQL,data_science,languages
+117,7,MATLAB,data_science,languages
+118,7,NumPy,data_science,data_processing
+119,7,Hive,data_science,big_data
+120,7,Pig,data_science,big_data
+121,7,MongoDB,web_dev,databases
+122,7,Cassandra,data_science,databases
+123,7,HBase,data_science,databases
+124,7,Oracle,data_science,databases
+125,7,machine learning,data_science,concepts
+126,7,regression,data_science,concepts
+127,7,statistical analysis,data_science,concepts
+128,7,data mining,data_science,concepts
+129,7,data warehouse,data_science,concepts
+130,7,anomaly detection,data_science,concepts
+131,7,compliance,cyber_security,concepts
+132,7,teamwork,general,soft_skills
+133,7,analytical,general,soft_skills
+134,7,interpersonal,general,soft_skills
+135,7,agile,general,soft_skills
+136,7,project management,general,soft_skills
+137,8,R,data_science,languages
+138,8,SQL,data_science,languages
+139,8,MATLAB,data_science,languages
+140,8,NumPy,data_science,data_processing
+141,8,Hive,data_science,big_data
+142,8,Pig,data_science,big_data
+143,8,MongoDB,web_dev,databases
+144,8,Cassandra,data_science,databases
+145,8,HBase,data_science,databases
+146,8,Oracle,data_science,databases
+147,8,machine learning,data_science,concepts
+148,8,regression,data_science,concepts
+149,8,statistical analysis,data_science,concepts
+150,8,data mining,data_science,concepts
+151,8,data warehouse,data_science,concepts
+152,8,anomaly detection,data_science,concepts
+153,8,compliance,cyber_security,concepts
+154,8,teamwork,general,soft_skills
+155,8,analytical,general,soft_skills
+156,8,interpersonal,general,soft_skills
+157,8,agile,general,soft_skills
+158,8,project management,general,soft_skills
+159,9,R,data_science,languages
+160,9,SQL,data_science,languages
+161,9,MATLAB,data_science,languages
+162,9,NumPy,data_science,data_processing
+163,9,Hive,data_science,big_data
+164,9,Pig,data_science,big_data
+165,9,MongoDB,web_dev,databases
+166,9,Cassandra,data_science,databases
+167,9,HBase,data_science,databases
+168,9,Oracle,data_science,databases
+169,9,machine learning,data_science,concepts
+170,9,regression,data_science,concepts
+171,9,statistical analysis,data_science,concepts
+172,9,data mining,data_science,concepts
+173,9,data warehouse,data_science,concepts
+174,9,anomaly detection,data_science,concepts
+175,9,compliance,cyber_security,concepts
+176,9,teamwork,general,soft_skills
+177,9,analytical,general,soft_skills
+178,9,interpersonal,general,soft_skills
+179,9,agile,general,soft_skills
+180,9,project management,general,soft_skills
+181,10,R,data_science,languages
+182,10,SQL,data_science,languages
+183,10,MATLAB,data_science,languages
+184,10,NumPy,data_science,data_processing
+185,10,Hive,data_science,big_data
+186,10,Pig,data_science,big_data
+187,10,MongoDB,web_dev,databases
+188,10,Cassandra,data_science,databases
+189,10,HBase,data_science,databases
+190,10,Oracle,data_science,databases
+191,10,machine learning,data_science,concepts
+192,10,regression,data_science,concepts
+193,10,statistical analysis,data_science,concepts
+194,10,data mining,data_science,concepts
+195,10,data warehouse,data_science,concepts
+196,10,anomaly detection,data_science,concepts
+197,10,compliance,cyber_security,concepts
+198,10,teamwork,general,soft_skills
+199,10,analytical,general,soft_skills
+200,10,interpersonal,general,soft_skills
+201,10,agile,general,soft_skills
+202,10,project management,general,soft_skills
+203,11,R,data_science,languages
+204,11,SQL,data_science,languages
+205,11,MATLAB,data_science,languages
+206,11,NumPy,data_science,data_processing
+207,11,Hive,data_science,big_data
+208,11,Pig,data_science,big_data
+209,11,MongoDB,web_dev,databases
+210,11,Cassandra,data_science,databases
+211,11,HBase,data_science,databases
+212,11,Oracle,data_science,databases
+213,11,machine learning,data_science,concepts
+214,11,regression,data_science,concepts
+215,11,statistical analysis,data_science,concepts
+216,11,data mining,data_science,concepts
+217,11,data warehouse,data_science,concepts
+218,11,anomaly detection,data_science,concepts
+219,11,compliance,cyber_security,concepts
+220,11,teamwork,general,soft_skills
+221,11,analytical,general,soft_skills
+222,11,interpersonal,general,soft_skills
+223,11,agile,general,soft_skills
+224,11,project management,general,soft_skills
+225,12,R,data_science,languages
+226,12,SQL,data_science,languages
+227,12,MATLAB,data_science,languages
+228,12,NumPy,data_science,data_processing
+229,12,Hive,data_science,big_data
+230,12,Pig,data_science,big_data
+231,12,MongoDB,web_dev,databases
+232,12,Cassandra,data_science,databases
+233,12,HBase,data_science,databases
+234,12,Oracle,data_science,databases
+235,12,machine learning,data_science,concepts
+236,12,regression,data_science,concepts
+237,12,statistical analysis,data_science,concepts
+238,12,data mining,data_science,concepts
+239,12,data warehouse,data_science,concepts
+240,12,anomaly detection,data_science,concepts
+241,12,compliance,cyber_security,concepts
+242,12,teamwork,general,soft_skills
+243,12,analytical,general,soft_skills
+244,12,interpersonal,general,soft_skills
+245,12,agile,general,soft_skills
+246,12,project management,general,soft_skills
+247,13,Python,web_dev,languages
+248,13,R,data_science,languages
+249,13,Julia,data_science,languages
+250,13,machine learning,data_science,concepts
+251,13,time series,data_science,concepts
+252,13,predictive modeling,data_science,concepts
+253,13,communication,general,soft_skills
+254,13,analytical,general,soft_skills
+255,13,interpersonal,general,soft_skills
+256,13,proactive,general,soft_skills
+257,14,R,data_science,languages
+258,14,SQL,data_science,languages
+259,14,MATLAB,data_science,languages
+260,14,NumPy,data_science,data_processing
+261,14,Hive,data_science,big_data
+262,14,Pig,data_science,big_data
+263,14,MongoDB,web_dev,databases
+264,14,Cassandra,data_science,databases
+265,14,HBase,data_science,databases
+266,14,Oracle,data_science,databases
+267,14,machine learning,data_science,concepts
+268,14,regression,data_science,concepts
+269,14,statistical analysis,data_science,concepts
+270,14,data mining,data_science,concepts
+271,14,data warehouse,data_science,concepts
+272,14,anomaly detection,data_science,concepts
+273,14,compliance,cyber_security,concepts
+274,14,teamwork,general,soft_skills
+275,14,analytical,general,soft_skills
+276,14,interpersonal,general,soft_skills
+277,14,agile,general,soft_skills
+278,14,project management,general,soft_skills
+279,15,Python,web_dev,languages
+280,15,R,data_science,languages
+281,15,Julia,data_science,languages
+282,15,machine learning,data_science,concepts
+283,15,time series,data_science,concepts
+284,15,predictive modeling,data_science,concepts
+285,15,communication,general,soft_skills
+286,15,analytical,general,soft_skills
+287,15,interpersonal,general,soft_skills
+288,15,proactive,general,soft_skills
+289,16,communication,general,soft_skills
+290,16,collaboration,general,soft_skills
+291,16,analytical,general,soft_skills
+292,16,organization,general,soft_skills
+293,17,Python,web_dev,languages
+294,17,R,data_science,languages
+295,17,Julia,data_science,languages
+296,17,machine learning,data_science,concepts
+297,17,time series,data_science,concepts
+298,17,predictive modeling,data_science,concepts
+299,17,communication,general,soft_skills
+300,17,analytical,general,soft_skills
+301,17,interpersonal,general,soft_skills
+302,17,proactive,general,soft_skills
+303,18,Python,web_dev,languages
+304,18,R,data_science,languages
+305,18,Julia,data_science,languages
+306,18,machine learning,data_science,concepts
+307,18,time series,data_science,concepts
+308,18,predictive modeling,data_science,concepts
+309,18,communication,general,soft_skills
+310,18,analytical,general,soft_skills
+311,18,interpersonal,general,soft_skills
+312,18,proactive,general,soft_skills
+313,19,Python,web_dev,languages
+314,19,TensorFlow,data_science,ml_ai_frameworks
+315,19,PyTorch,data_science,ml_ai_frameworks
+316,19,scikit-learn,data_science,ml_ai_frameworks
+317,19,LangChain,data_science,ml_ai_frameworks
+318,19,LlamaIndex,data_science,ml_ai_frameworks
+319,19,Pandas,data_science,data_processing
+320,19,NumPy,data_science,data_processing
+321,19,Airflow,data_science,big_data
+322,19,Databricks,data_science,databases
+323,19,MLflow,data_science,mlops
+324,19,Kubeflow,data_science,mlops
+325,19,SageMaker,data_science,mlops
+326,19,machine learning,data_science,concepts
+327,19,generative AI,data_science,concepts
+328,19,Foundation,web_dev,css_styling
+329,19,Docker,web_dev,devops_tools
+330,19,AWS,web_dev,devops_tools
+331,19,compliance,cyber_security,concepts
+332,19,communication,general,soft_skills
+333,19,interpersonal,general,soft_skills
+334,19,organization,general,soft_skills
+335,19,mentoring,general,soft_skills
+336,19,CI/CD,web_dev,devops_tools
+337,20,Python,web_dev,languages
+338,20,TensorFlow,data_science,ml_ai_frameworks
+339,20,PyTorch,data_science,ml_ai_frameworks
+340,20,scikit-learn,data_science,ml_ai_frameworks
+341,20,LangChain,data_science,ml_ai_frameworks
+342,20,LlamaIndex,data_science,ml_ai_frameworks
+343,20,Pandas,data_science,data_processing
+344,20,NumPy,data_science,data_processing
+345,20,Airflow,data_science,big_data
+346,20,Databricks,data_science,databases
+347,20,MLflow,data_science,mlops
+348,20,Kubeflow,data_science,mlops
+349,20,SageMaker,data_science,mlops
+350,20,machine learning,data_science,concepts
+351,20,generative AI,data_science,concepts
+352,20,Foundation,web_dev,css_styling
+353,20,Docker,web_dev,devops_tools
+354,20,AWS,web_dev,devops_tools
+355,20,compliance,cyber_security,concepts
+356,20,communication,general,soft_skills
+357,20,interpersonal,general,soft_skills
+358,20,organization,general,soft_skills
+359,20,mentoring,general,soft_skills
+360,20,CI/CD,web_dev,devops_tools
+361,21,Python,web_dev,languages
+362,21,TensorFlow,data_science,ml_ai_frameworks
+363,21,PyTorch,data_science,ml_ai_frameworks
+364,21,scikit-learn,data_science,ml_ai_frameworks
+365,21,LangChain,data_science,ml_ai_frameworks
+366,21,LlamaIndex,data_science,ml_ai_frameworks
+367,21,Pandas,data_science,data_processing
+368,21,NumPy,data_science,data_processing
+369,21,Airflow,data_science,big_data
+370,21,Databricks,data_science,databases
+371,21,MLflow,data_science,mlops
+372,21,Kubeflow,data_science,mlops
+373,21,SageMaker,data_science,mlops
+374,21,machine learning,data_science,concepts
+375,21,generative AI,data_science,concepts
+376,21,Foundation,web_dev,css_styling
+377,21,Docker,web_dev,devops_tools
+378,21,AWS,web_dev,devops_tools
+379,21,compliance,cyber_security,concepts
+380,21,communication,general,soft_skills
+381,21,interpersonal,general,soft_skills
+382,21,organization,general,soft_skills
+383,21,mentoring,general,soft_skills
+384,21,CI/CD,web_dev,devops_tools
+385,22,Python,web_dev,languages
+386,22,R,data_science,languages
+387,22,MATLAB,data_science,languages
+388,22,Java,web_dev,languages
+389,22,Spark,data_science,big_data
+390,22,Hadoop,data_science,big_data
+391,22,Kafka,data_science,big_data
+392,22,HDFS,data_science,big_data
+393,22,machine learning,data_science,concepts
+394,22,regression,data_science,concepts
+395,22,statistical analysis,data_science,concepts
+396,22,data mining,data_science,concepts
+397,24,Python,web_dev,languages
+398,24,R,data_science,languages
+399,24,SQL,data_science,languages
+400,24,Scala,data_science,languages
+401,24,MATLAB,data_science,languages
+402,24,NumPy,data_science,data_processing
+403,24,PySpark,data_science,data_processing
+404,24,Spark,data_science,big_data
+405,24,Hadoop,data_science,big_data
+406,24,Hive,data_science,big_data
+407,24,Pig,data_science,big_data
+408,24,MongoDB,web_dev,databases
+409,24,Cassandra,data_science,databases
+410,24,HBase,data_science,databases
+411,24,machine learning,data_science,concepts
+412,24,regression,data_science,concepts
+413,24,statistical analysis,data_science,concepts
+414,24,data mining,data_science,concepts
+415,24,ETL,data_science,concepts
+416,24,data warehouse,data_science,concepts
+417,24,anomaly detection,data_science,concepts
+418,24,AWS,web_dev,devops_tools
+419,24,Azure,web_dev,devops_tools
+420,24,GCP,web_dev,devops_tools
+421,24,compliance,cyber_security,concepts
+422,24,communication,general,soft_skills
+423,24,teamwork,general,soft_skills
+424,24,adaptability,general,soft_skills
+425,24,time management,general,soft_skills
+426,24,attention to detail,general,soft_skills
+427,24,analytical,general,soft_skills
+428,24,interpersonal,general,soft_skills
+429,24,creativity,general,soft_skills
+430,24,agile,general,soft_skills
+431,25,Python,web_dev,languages
+432,25,SQL,data_science,languages
+433,25,Scala,data_science,languages
+434,25,PyTorch,data_science,ml_ai_frameworks
+435,25,H2O,data_science,ml_ai_frameworks
+436,25,NLTK,data_science,ml_ai_frameworks
+437,25,Tableau,data_science,bi_tools
+438,25,Spark,data_science,big_data
+439,25,machine learning,data_science,concepts
+440,25,generative AI,data_science,concepts
+441,25,LLM,data_science,concepts
+442,25,AWS,web_dev,devops_tools
+443,25,communication,general,soft_skills
+444,25,analytical,general,soft_skills
+445,25,organization,general,soft_skills
+446,25,decision making,general,soft_skills
+447,26,Python,web_dev,languages
+448,26,SQL,data_science,languages
+449,26,Scala,data_science,languages
+450,26,PyTorch,data_science,ml_ai_frameworks
+451,26,H2O,data_science,ml_ai_frameworks
+452,26,NLTK,data_science,ml_ai_frameworks
+453,26,Tableau,data_science,bi_tools
+454,26,Spark,data_science,big_data
+455,26,machine learning,data_science,concepts
+456,26,generative AI,data_science,concepts
+457,26,LLM,data_science,concepts
+458,26,AWS,web_dev,devops_tools
+459,26,communication,general,soft_skills
+460,26,analytical,general,soft_skills
+461,26,organization,general,soft_skills
+462,26,decision making,general,soft_skills
+463,27,Python,web_dev,languages
+464,27,scikit-learn,data_science,ml_ai_frameworks
+465,27,Pandas,data_science,data_processing
+466,27,NumPy,data_science,data_processing
+467,27,MySQL,web_dev,databases
+468,27,MongoDB,web_dev,databases
+469,27,Oracle,data_science,databases
+470,27,machine learning,data_science,concepts
+471,27,ETL,data_science,concepts
+472,27,data pipeline,data_science,concepts
+473,27,AWS,web_dev,devops_tools
+474,27,Azure,web_dev,devops_tools
+475,27,GCP,web_dev,devops_tools
+476,27,communication,general,soft_skills
+477,27,collaboration,general,soft_skills
+478,27,agile,general,soft_skills
+479,28,Python,web_dev,languages
+480,28,SQL,data_science,languages
+481,28,Scala,data_science,languages
+482,28,PyTorch,data_science,ml_ai_frameworks
+483,28,H2O,data_science,ml_ai_frameworks
+484,28,NLTK,data_science,ml_ai_frameworks
+485,28,Tableau,data_science,bi_tools
+486,28,Spark,data_science,big_data
+487,28,machine learning,data_science,concepts
+488,28,generative AI,data_science,concepts
+489,28,LLM,data_science,concepts
+490,28,AWS,web_dev,devops_tools
+491,28,communication,general,soft_skills
+492,28,analytical,general,soft_skills
+493,28,organization,general,soft_skills
+494,28,decision making,general,soft_skills
+495,29,Python,web_dev,languages
+496,29,R,data_science,languages
+497,29,SQL,data_science,languages
+498,29,analytical,general,soft_skills
+499,30,SQL,data_science,languages
+500,30,Tableau,data_science,bi_tools
+501,30,Power BI,data_science,bi_tools
+502,30,Looker,data_science,bi_tools
+503,30,communication,general,soft_skills
+504,30,leadership,general,soft_skills
+505,30,critical thinking,general,soft_skills
+506,30,attention to detail,general,soft_skills
+507,30,analytical,general,soft_skills
+508,31,SQL,data_science,languages
+509,31,Power BI,data_science,bi_tools
+510,31,compliance,cyber_security,concepts
+511,31,communication,general,soft_skills
+512,31,leadership,general,soft_skills
+513,31,collaboration,general,soft_skills
+514,31,analytical,general,soft_skills
+515,31,interpersonal,general,soft_skills
+516,31,organization,general,soft_skills
+517,32,Python,web_dev,languages
+518,32,R,data_science,languages
+519,32,SQL,data_science,languages
+520,32,SAS,data_science,languages
+521,32,machine learning,data_science,concepts
+522,32,regression,data_science,concepts
+523,32,statistical analysis,data_science,concepts
+524,32,compliance,cyber_security,concepts
+525,32,analytical,general,soft_skills
+526,32,proactive,general,soft_skills
+527,32,decision making,general,soft_skills
+528,33,Python,web_dev,languages
+529,33,SQL,data_science,languages
+530,33,Power BI,data_science,bi_tools
+531,33,incident response,cyber_security,concepts
+532,33,SOC,cyber_security,concepts
+533,33,network security,cyber_security,concepts
+534,33,forensics,cyber_security,concepts
+535,33,GIAC,cyber_security,certifications
+536,34,Python,web_dev,languages
+537,34,SQL,data_science,languages
+538,34,Power BI,data_science,bi_tools
+539,34,incident response,cyber_security,concepts
+540,34,SOC,cyber_security,concepts
+541,34,network security,cyber_security,concepts
+542,34,forensics,cyber_security,concepts
+543,34,GIAC,cyber_security,certifications
+544,35,machine learning,data_science,concepts
+545,35,classification,data_science,concepts
+546,35,teamwork,general,soft_skills
+547,35,collaboration,general,soft_skills
+548,35,attention to detail,general,soft_skills
+549,35,analytical,general,soft_skills
+550,35,organization,general,soft_skills
+551,36,Python,web_dev,languages
+552,36,R,data_science,languages
+553,36,Power BI,data_science,bi_tools
+554,36,natural language processing,data_science,concepts
+555,36,classification,data_science,concepts
+556,36,organization,general,soft_skills
+557,36,mentoring,general,soft_skills
+558,37,compliance,cyber_security,concepts
+559,39,communication,general,soft_skills
+560,39,collaboration,general,soft_skills
+561,39,attention to detail,general,soft_skills
+562,39,analytical,general,soft_skills
+563,41,Python,web_dev,languages
+564,41,R,data_science,languages
+565,41,SQL,data_science,languages
+566,41,Tableau,data_science,bi_tools
+567,41,Power BI,data_science,bi_tools
+568,41,compliance,cyber_security,concepts
+569,41,audit,cyber_security,concepts
+570,41,communication,general,soft_skills
+571,41,analytical,general,soft_skills
+572,41,interpersonal,general,soft_skills
+573,41,organization,general,soft_skills
+574,42,Python,web_dev,languages
+575,42,R,data_science,languages
+576,42,SQL,data_science,languages
+577,42,Tableau,data_science,bi_tools
+578,42,Power BI,data_science,bi_tools
+579,42,machine learning,data_science,concepts
+580,42,Swift,web_dev,mobile
+581,42,AWS,web_dev,devops_tools
+582,42,GCP,web_dev,devops_tools
+583,42,communication,general,soft_skills
+584,42,collaboration,general,soft_skills
+585,42,analytical,general,soft_skills
+586,42,organization,general,soft_skills
+587,43,Python,web_dev,languages
+588,43,R,data_science,languages
+589,43,machine learning,data_science,concepts
+590,43,statistical analysis,data_science,concepts
+591,43,communication,general,soft_skills
+592,43,organization,general,soft_skills
+593,43,self-motivated,general,soft_skills
+594,43,mentoring,general,soft_skills
+595,44,Python,web_dev,languages
+596,44,R,data_science,languages
+597,44,SQL,data_science,languages
+598,44,Tableau,data_science,bi_tools
+599,44,Power BI,data_science,bi_tools
+600,44,statistical analysis,data_science,concepts
+601,44,communication,general,soft_skills
+602,44,adaptability,general,soft_skills
+603,44,collaboration,general,soft_skills
+604,44,attention to detail,general,soft_skills
+605,44,presentation,general,soft_skills
+606,44,analytical,general,soft_skills
+607,44,agile,general,soft_skills
+608,45,Python,web_dev,languages
+609,45,R,data_science,languages
+610,45,SQL,data_science,languages
+611,45,Tableau,data_science,bi_tools
+612,45,Power BI,data_science,bi_tools
+613,45,statistical analysis,data_science,concepts
+614,45,communication,general,soft_skills
+615,45,adaptability,general,soft_skills
+616,45,collaboration,general,soft_skills
+617,45,attention to detail,general,soft_skills
+618,45,presentation,general,soft_skills
+619,45,analytical,general,soft_skills
+620,45,agile,general,soft_skills
+621,46,Python,web_dev,languages
+622,46,R,data_science,languages
+623,46,SQL,data_science,languages
+624,46,Tableau,data_science,bi_tools
+625,46,Power BI,data_science,bi_tools
+626,46,statistical analysis,data_science,concepts
+627,46,communication,general,soft_skills
+628,46,adaptability,general,soft_skills
+629,46,collaboration,general,soft_skills
+630,46,attention to detail,general,soft_skills
+631,46,presentation,general,soft_skills
+632,46,analytical,general,soft_skills
+633,46,agile,general,soft_skills
+634,47,Python,web_dev,languages
+635,47,R,data_science,languages
+636,47,SQL,data_science,languages
+637,47,Tableau,data_science,bi_tools
+638,47,Power BI,data_science,bi_tools
+639,47,statistical analysis,data_science,concepts
+640,47,communication,general,soft_skills
+641,47,adaptability,general,soft_skills
+642,47,collaboration,general,soft_skills
+643,47,attention to detail,general,soft_skills
+644,47,presentation,general,soft_skills
+645,47,analytical,general,soft_skills
+646,47,agile,general,soft_skills
+647,48,Tableau,data_science,bi_tools
+648,48,Power BI,data_science,bi_tools
+649,48,communication,general,soft_skills
+650,48,attention to detail,general,soft_skills
+651,48,analytical,general,soft_skills
+652,48,interpersonal,general,soft_skills
+653,48,organization,general,soft_skills
+654,49,leadership,general,soft_skills
+655,49,organization,general,soft_skills
+656,50,Power BI,data_science,bi_tools
+657,50,data lake,data_science,concepts
+658,50,Go,web_dev,languages
+659,52,Python,web_dev,languages
+660,52,R,data_science,languages
+661,52,SQL,data_science,languages
+662,52,SIEM,cyber_security,concepts
+663,52,incident response,cyber_security,concepts
+664,52,SOC,cyber_security,concepts
+665,52,Splunk,cyber_security,tools
+666,52,attention to detail,general,soft_skills
+667,52,presentation,general,soft_skills
+668,52,analytical,general,soft_skills
+669,52,interpersonal,general,soft_skills
+670,52,organization,general,soft_skills
+671,53,Python,web_dev,languages
+672,53,R,data_science,languages
+673,53,SQL,data_science,languages
+674,53,SIEM,cyber_security,concepts
+675,53,incident response,cyber_security,concepts
+676,53,SOC,cyber_security,concepts
+677,53,Splunk,cyber_security,tools
+678,53,attention to detail,general,soft_skills
+679,53,presentation,general,soft_skills
+680,53,analytical,general,soft_skills
+681,53,interpersonal,general,soft_skills
+682,53,organization,general,soft_skills
+683,54,SQL,data_science,languages
+684,54,SSIS,data_science,bi_tools
+685,54,communication,general,soft_skills
+686,54,teamwork,general,soft_skills
+687,54,collaboration,general,soft_skills
+688,54,presentation,general,soft_skills
+689,54,analytical,general,soft_skills
+690,54,organization,general,soft_skills
+691,54,agile,general,soft_skills
+692,54,scrum,general,soft_skills
+693,55,Python,web_dev,languages
+694,55,R,data_science,languages
+695,55,SQL,data_science,languages
+696,55,SIEM,cyber_security,concepts
+697,55,incident response,cyber_security,concepts
+698,55,SOC,cyber_security,concepts
+699,55,Splunk,cyber_security,tools
+700,55,attention to detail,general,soft_skills
+701,55,presentation,general,soft_skills
+702,55,analytical,general,soft_skills
+703,55,interpersonal,general,soft_skills
+704,55,organization,general,soft_skills
+705,56,Python,web_dev,languages
+706,56,R,data_science,languages
+707,56,communication,general,soft_skills
+708,56,collaboration,general,soft_skills
+709,56,analytical,general,soft_skills
+710,57,machine learning,data_science,concepts
+711,58,machine learning,data_science,concepts
+712,59,Python,web_dev,languages
+713,59,TensorFlow,data_science,ml_ai_frameworks
+714,59,PyTorch,data_science,ml_ai_frameworks
+715,59,scikit-learn,data_science,ml_ai_frameworks
+716,59,LangChain,data_science,ml_ai_frameworks
+717,59,LlamaIndex,data_science,ml_ai_frameworks
+718,59,Pandas,data_science,data_processing
+719,59,NumPy,data_science,data_processing
+720,59,MLflow,data_science,mlops
+721,59,Seldon,data_science,mlops
+722,59,machine learning,data_science,concepts
+723,59,LLM,data_science,concepts
+724,59,Docker,web_dev,devops_tools
+725,59,AWS,web_dev,devops_tools
+726,59,Azure,web_dev,devops_tools
+727,59,GCP,web_dev,devops_tools
+728,59,GitHub Actions,web_dev,devops_tools
+729,59,Jenkins,web_dev,devops_tools
+730,59,Terraform,web_dev,devops_tools
+731,59,Ansible,web_dev,devops_tools
+732,59,Prometheus,web_dev,devops_tools
+733,59,Grafana,web_dev,devops_tools
+734,59,communication,general,soft_skills
+735,59,teamwork,general,soft_skills
+736,59,leadership,general,soft_skills
+737,59,collaboration,general,soft_skills
+738,59,analytical,general,soft_skills
+739,59,CI/CD,web_dev,devops_tools
+740,60,machine learning,data_science,concepts
+741,60,feature engineering,data_science,concepts
+742,60,LLM,data_science,concepts
+743,60,Backbone,web_dev,frontend_frameworks
+744,60,collaboration,general,soft_skills
+745,61,Python,web_dev,languages
+746,61,TensorFlow,data_science,ml_ai_frameworks
+747,61,PyTorch,data_science,ml_ai_frameworks
+748,61,scikit-learn,data_science,ml_ai_frameworks
+749,61,LangChain,data_science,ml_ai_frameworks
+750,61,LlamaIndex,data_science,ml_ai_frameworks
+751,61,Pandas,data_science,data_processing
+752,61,NumPy,data_science,data_processing
+753,61,MLflow,data_science,mlops
+754,61,Seldon,data_science,mlops
+755,61,machine learning,data_science,concepts
+756,61,LLM,data_science,concepts
+757,61,Docker,web_dev,devops_tools
+758,61,AWS,web_dev,devops_tools
+759,61,Azure,web_dev,devops_tools
+760,61,GCP,web_dev,devops_tools
+761,61,GitHub Actions,web_dev,devops_tools
+762,61,Jenkins,web_dev,devops_tools
+763,61,Terraform,web_dev,devops_tools
+764,61,Ansible,web_dev,devops_tools
+765,61,Prometheus,web_dev,devops_tools
+766,61,Grafana,web_dev,devops_tools
+767,61,communication,general,soft_skills
+768,61,teamwork,general,soft_skills
+769,61,leadership,general,soft_skills
+770,61,collaboration,general,soft_skills
+771,61,analytical,general,soft_skills
+772,61,CI/CD,web_dev,devops_tools
+773,62,Python,web_dev,languages
+774,62,TensorFlow,data_science,ml_ai_frameworks
+775,62,PyTorch,data_science,ml_ai_frameworks
+776,62,scikit-learn,data_science,ml_ai_frameworks
+777,62,LangChain,data_science,ml_ai_frameworks
+778,62,LlamaIndex,data_science,ml_ai_frameworks
+779,62,Pandas,data_science,data_processing
+780,62,NumPy,data_science,data_processing
+781,62,MLflow,data_science,mlops
+782,62,Seldon,data_science,mlops
+783,62,machine learning,data_science,concepts
+784,62,LLM,data_science,concepts
+785,62,Docker,web_dev,devops_tools
+786,62,AWS,web_dev,devops_tools
+787,62,Azure,web_dev,devops_tools
+788,62,GCP,web_dev,devops_tools
+789,62,GitHub Actions,web_dev,devops_tools
+790,62,Jenkins,web_dev,devops_tools
+791,62,Terraform,web_dev,devops_tools
+792,62,Ansible,web_dev,devops_tools
+793,62,Prometheus,web_dev,devops_tools
+794,62,Grafana,web_dev,devops_tools
+795,62,communication,general,soft_skills
+796,62,teamwork,general,soft_skills
+797,62,leadership,general,soft_skills
+798,62,collaboration,general,soft_skills
+799,62,analytical,general,soft_skills
+800,62,CI/CD,web_dev,devops_tools
+801,63,Python,web_dev,languages
+802,63,R,data_science,languages
+803,63,SQL,data_science,languages
+804,63,Tableau,data_science,bi_tools
+805,63,Power BI,data_science,bi_tools
+806,63,machine learning,data_science,concepts
+807,63,statistical analysis,data_science,concepts
+808,63,data mining,data_science,concepts
+809,63,compliance,cyber_security,concepts
+810,63,communication,general,soft_skills
+811,63,collaboration,general,soft_skills
+812,63,attention to detail,general,soft_skills
+813,63,analytical,general,soft_skills
+814,63,interpersonal,general,soft_skills
+815,63,mentoring,general,soft_skills
+816,64,communication,general,soft_skills
+817,64,teamwork,general,soft_skills
+818,64,problem solving,general,soft_skills
+819,64,critical thinking,general,soft_skills
+820,64,collaboration,general,soft_skills
+821,65,communication,general,soft_skills
+822,65,teamwork,general,soft_skills
+823,65,problem solving,general,soft_skills
+824,65,critical thinking,general,soft_skills
+825,65,collaboration,general,soft_skills
+826,66,communication,general,soft_skills
+827,66,teamwork,general,soft_skills
+828,66,problem solving,general,soft_skills
+829,66,critical thinking,general,soft_skills
+830,66,collaboration,general,soft_skills
+831,67,compliance,cyber_security,concepts
+832,67,communication,general,soft_skills
+833,67,collaboration,general,soft_skills
+834,67,attention to detail,general,soft_skills
+835,67,interpersonal,general,soft_skills
+836,67,organization,general,soft_skills
+837,68,R,data_science,languages
+838,68,Tableau,data_science,bi_tools
+839,68,machine learning,data_science,concepts
+840,68,communication,general,soft_skills
+841,68,leadership,general,soft_skills
+842,68,collaboration,general,soft_skills
+843,68,analytical,general,soft_skills
+844,68,organization,general,soft_skills
+845,69,compliance,cyber_security,concepts
+846,69,communication,general,soft_skills
+847,69,teamwork,general,soft_skills
+848,69,critical thinking,general,soft_skills
+849,69,collaboration,general,soft_skills
+850,69,attention to detail,general,soft_skills
+851,69,interpersonal,general,soft_skills
+852,70,problem solving,general,soft_skills
+853,71,machine learning,data_science,concepts
+854,71,communication,general,soft_skills
+855,71,teamwork,general,soft_skills
+856,71,problem solving,general,soft_skills
+857,71,critical thinking,general,soft_skills
+858,71,adaptability,general,soft_skills
+859,71,collaboration,general,soft_skills
+860,71,attention to detail,general,soft_skills
+861,71,presentation,general,soft_skills
+862,71,analytical,general,soft_skills
+863,71,organization,general,soft_skills
+864,72,Python,web_dev,languages
+865,72,R,data_science,languages
+866,72,machine learning,data_science,concepts
+867,72,statistical analysis,data_science,concepts
+868,72,Prisma,web_dev,databases
+869,72,communication,general,soft_skills
+870,72,collaboration,general,soft_skills
+871,72,analytical,general,soft_skills
+872,72,interpersonal,general,soft_skills
+873,72,negotiation,general,soft_skills
+874,72,mentoring,general,soft_skills
+875,72,project management,general,soft_skills
+876,73,machine learning,data_science,concepts
+877,73,leadership,general,soft_skills
+878,74,machine learning,data_science,concepts
+879,74,leadership,general,soft_skills
+880,75,Python,web_dev,languages
+881,75,SQL,data_science,languages
+882,75,Spark,data_science,big_data
+883,75,Hadoop,data_science,big_data
+884,75,Kafka,data_science,big_data
+885,75,PostgreSQL,web_dev,databases
+886,75,MySQL,web_dev,databases
+887,75,MongoDB,web_dev,databases
+888,75,Redis,web_dev,databases
+889,75,Cassandra,data_science,databases
+890,75,Oracle,data_science,databases
+891,75,SQL Server,data_science,databases
+892,75,machine learning,data_science,concepts
+893,75,clustering,data_science,concepts
+894,75,Docker,web_dev,devops_tools
+895,75,Kubernetes,web_dev,devops_tools
+896,75,AWS,web_dev,devops_tools
+897,75,Ansible,web_dev,devops_tools
+898,75,encryption,cyber_security,concepts
+899,76,Python,web_dev,languages
+900,76,SQL,data_science,languages
+901,76,Spark,data_science,big_data
+902,76,Hadoop,data_science,big_data
+903,76,Kafka,data_science,big_data
+904,76,PostgreSQL,web_dev,databases
+905,76,MySQL,web_dev,databases
+906,76,MongoDB,web_dev,databases
+907,76,Redis,web_dev,databases
+908,76,Cassandra,data_science,databases
+909,76,Oracle,data_science,databases
+910,76,SQL Server,data_science,databases
+911,76,machine learning,data_science,concepts
+912,76,clustering,data_science,concepts
+913,76,Docker,web_dev,devops_tools
+914,76,Kubernetes,web_dev,devops_tools
+915,76,AWS,web_dev,devops_tools
+916,76,Ansible,web_dev,devops_tools
+917,76,encryption,cyber_security,concepts
+918,77,Python,web_dev,languages
+919,77,SQL,data_science,languages
+920,77,Spark,data_science,big_data
+921,77,Hadoop,data_science,big_data
+922,77,Kafka,data_science,big_data
+923,77,PostgreSQL,web_dev,databases
+924,77,MySQL,web_dev,databases
+925,77,MongoDB,web_dev,databases
+926,77,Redis,web_dev,databases
+927,77,Cassandra,data_science,databases
+928,77,Oracle,data_science,databases
+929,77,SQL Server,data_science,databases
+930,77,machine learning,data_science,concepts
+931,77,clustering,data_science,concepts
+932,77,Docker,web_dev,devops_tools
+933,77,Kubernetes,web_dev,devops_tools
+934,77,AWS,web_dev,devops_tools
+935,77,Ansible,web_dev,devops_tools
+936,77,encryption,cyber_security,concepts
+937,78,machine learning,data_science,concepts
+938,78,statistical analysis,data_science,concepts
+939,78,ETL,data_science,concepts
+940,78,compliance,cyber_security,concepts
+941,78,analytical,general,soft_skills
+942,79,SQL,data_science,languages
+943,79,machine learning,data_science,concepts
+944,79,compliance,cyber_security,concepts
+945,79,communication,general,soft_skills
+946,79,leadership,general,soft_skills
+947,79,critical thinking,general,soft_skills
+948,79,collaboration,general,soft_skills
+949,79,attention to detail,general,soft_skills
+950,79,presentation,general,soft_skills
+951,79,analytical,general,soft_skills
+952,79,proactive,general,soft_skills
+953,79,decision making,general,soft_skills
+954,79,stakeholder management,general,soft_skills
+955,79,project management,general,soft_skills
+956,80,machine learning,data_science,concepts
+957,80,statistical analysis,data_science,concepts
+958,80,ETL,data_science,concepts
+959,80,compliance,cyber_security,concepts
+960,80,analytical,general,soft_skills
+961,81,GCP,web_dev,devops_tools
+962,81,interpersonal,general,soft_skills
+963,82,GCP,web_dev,devops_tools
+964,82,interpersonal,general,soft_skills
+965,83,machine learning,data_science,concepts
+966,83,statistical analysis,data_science,concepts
+967,83,compliance,cyber_security,concepts
+968,83,communication,general,soft_skills
+969,83,leadership,general,soft_skills
+970,83,collaboration,general,soft_skills
+971,83,analytical,general,soft_skills
+972,83,mentoring,general,soft_skills
+973,84,machine learning,data_science,concepts
+974,84,predictive modeling,data_science,concepts
+975,84,compliance,cyber_security,concepts
+976,84,communication,general,soft_skills
+977,84,leadership,general,soft_skills
+978,84,attention to detail,general,soft_skills
+979,84,analytical,general,soft_skills
+980,84,organization,general,soft_skills
+981,84,agile,general,soft_skills
+982,85,Python,web_dev,languages
+983,85,R,data_science,languages
+984,85,SQL,data_science,languages
+985,85,Scala,data_science,languages
+986,85,SAS,data_science,languages
+987,85,Java,web_dev,languages
+988,85,Tableau,data_science,bi_tools
+989,85,Power BI,data_science,bi_tools
+990,85,SSRS,data_science,bi_tools
+991,85,SSIS,data_science,bi_tools
+992,85,Spark,data_science,big_data
+993,85,Hadoop,data_science,big_data
+994,85,Hive,data_science,big_data
+995,85,Kafka,data_science,big_data
+996,85,Oracle,data_science,databases
+997,85,machine learning,data_science,concepts
+998,85,data mining,data_science,concepts
+999,85,ETL,data_science,concepts
+1000,85,data pipeline,data_science,concepts
+1001,85,Apache,web_dev,devops_tools
+1002,85,GitLab CI,web_dev,devops_tools
+1003,85,Jenkins,web_dev,devops_tools
+1004,85,CI/CD,web_dev,devops_tools
+1005,86,Python,web_dev,languages
+1006,86,R,data_science,languages
+1007,86,SQL,data_science,languages
+1008,86,Scala,data_science,languages
+1009,86,SAS,data_science,languages
+1010,86,MATLAB,data_science,languages
+1011,86,Java,web_dev,languages
+1012,86,Tableau,data_science,bi_tools
+1013,86,Spark,data_science,big_data
+1014,86,Hadoop,data_science,big_data
+1015,86,Kafka,data_science,big_data
+1016,86,Airflow,data_science,big_data
+1017,86,Storm,data_science,big_data
+1018,86,Redshift,data_science,databases
+1019,86,Cassandra,data_science,databases
+1020,86,SQL Server,data_science,databases
+1021,86,machine learning,data_science,concepts
+1022,86,data pipeline,data_science,concepts
+1023,86,AWS,web_dev,devops_tools
+1024,86,leadership,general,soft_skills
+1025,86,interpersonal,general,soft_skills
+1026,86,organization,general,soft_skills
+1027,86,proactive,general,soft_skills
+1028,86,PostgreSQL,web_dev,databases
+1029,87,Python,web_dev,languages
+1030,87,R,data_science,languages
+1031,87,SQL,data_science,languages
+1032,87,Scala,data_science,languages
+1033,87,SAS,data_science,languages
+1034,87,MATLAB,data_science,languages
+1035,87,Java,web_dev,languages
+1036,87,Tableau,data_science,bi_tools
+1037,87,Spark,data_science,big_data
+1038,87,Hadoop,data_science,big_data
+1039,87,Kafka,data_science,big_data
+1040,87,Airflow,data_science,big_data
+1041,87,Storm,data_science,big_data
+1042,87,Redshift,data_science,databases
+1043,87,Cassandra,data_science,databases
+1044,87,SQL Server,data_science,databases
+1045,87,machine learning,data_science,concepts
+1046,87,data pipeline,data_science,concepts
+1047,87,AWS,web_dev,devops_tools
+1048,87,leadership,general,soft_skills
+1049,87,interpersonal,general,soft_skills
+1050,87,proactive,general,soft_skills
+1051,87,PostgreSQL,web_dev,databases
+1052,88,Python,web_dev,languages
+1053,88,SQL,data_science,languages
+1054,88,Scala,data_science,languages
+1055,88,machine learning,data_science,concepts
+1056,88,ETL,data_science,concepts
+1057,88,Go,web_dev,languages
+1058,88,Less,web_dev,css_styling
+1059,88,compliance,cyber_security,concepts
+1060,88,audit,cyber_security,concepts
+1061,88,communication,general,soft_skills
+1062,88,leadership,general,soft_skills
+1063,88,adaptability,general,soft_skills
+1064,88,attention to detail,general,soft_skills
+1065,88,analytical,general,soft_skills
+1066,88,interpersonal,general,soft_skills
+1067,88,organization,general,soft_skills
+1068,88,negotiation,general,soft_skills
+1069,88,project management,general,soft_skills
+1070,89,machine learning,data_science,concepts
+1071,89,data pipeline,data_science,concepts
+1072,89,data warehouse,data_science,concepts
+1073,90,Python,web_dev,languages
+1074,90,SQL,data_science,languages
+1075,90,ETL,data_science,concepts
+1076,90,data pipeline,data_science,concepts
+1077,90,communication,general,soft_skills
+1078,90,collaboration,general,soft_skills
+1079,90,proactive,general,soft_skills
+1080,91,SQL,data_science,languages
+1081,91,Scala,data_science,languages
+1082,91,Spark,data_science,big_data
+1083,91,Hadoop,data_science,big_data
+1084,91,ETL,data_science,concepts
+1085,91,data pipeline,data_science,concepts
+1086,91,AWS,web_dev,devops_tools
+1087,91,Jenkins,web_dev,devops_tools
+1088,91,Ansible,web_dev,devops_tools
+1089,91,Chef,web_dev,devops_tools
+1090,91,problem solving,general,soft_skills
+1091,91,critical thinking,general,soft_skills
+1092,91,analytical,general,soft_skills
+1093,91,organization,general,soft_skills
+1094,91,CI/CD,web_dev,devops_tools
+1095,92,SQL,data_science,languages
+1096,92,data pipeline,data_science,concepts
+1097,92,Jenkins,web_dev,devops_tools
+1098,92,Ansible,web_dev,devops_tools
+1099,92,Chef,web_dev,devops_tools
+1100,92,problem solving,general,soft_skills
+1101,92,critical thinking,general,soft_skills
+1102,92,analytical,general,soft_skills
+1103,92,organization,general,soft_skills
+1104,92,CI/CD,web_dev,devops_tools
+1105,93,SQL,data_science,languages
+1106,93,Spark,data_science,big_data
+1107,93,data pipeline,data_science,concepts
+1108,93,stakeholder management,general,soft_skills
+1109,94,Python,web_dev,languages
+1110,94,SQL,data_science,languages
+1111,94,Scala,data_science,languages
+1112,94,Java,web_dev,languages
+1113,94,Spark,data_science,big_data
+1114,94,Hadoop,data_science,big_data
+1115,94,Kafka,data_science,big_data
+1116,94,Flink,data_science,big_data
+1117,94,ETL,data_science,concepts
+1118,94,data pipeline,data_science,concepts
+1119,94,AWS,web_dev,devops_tools
+1120,94,Azure,web_dev,devops_tools
+1121,94,GCP,web_dev,devops_tools
+1122,94,Apache,web_dev,devops_tools
+1123,94,compliance,cyber_security,concepts
+1124,94,communication,general,soft_skills
+1125,94,collaboration,general,soft_skills
+1126,94,attention to detail,general,soft_skills
+1127,95,Python,web_dev,languages
+1128,95,SQL,data_science,languages
+1129,95,Scala,data_science,languages
+1130,95,Java,web_dev,languages
+1131,95,Spark,data_science,big_data
+1132,95,Hadoop,data_science,big_data
+1133,95,Kafka,data_science,big_data
+1134,95,Flink,data_science,big_data
+1135,95,ETL,data_science,concepts
+1136,95,data pipeline,data_science,concepts
+1137,95,AWS,web_dev,devops_tools
+1138,95,Azure,web_dev,devops_tools
+1139,95,GCP,web_dev,devops_tools
+1140,95,Apache,web_dev,devops_tools
+1141,95,compliance,cyber_security,concepts
+1142,95,communication,general,soft_skills
+1143,95,collaboration,general,soft_skills
+1144,95,attention to detail,general,soft_skills
+1145,96,SQL,data_science,languages
+1146,96,data pipeline,data_science,concepts
+1147,96,Jenkins,web_dev,devops_tools
+1148,96,Ansible,web_dev,devops_tools
+1149,96,Chef,web_dev,devops_tools
+1150,96,problem solving,general,soft_skills
+1151,96,critical thinking,general,soft_skills
+1152,96,analytical,general,soft_skills
+1153,96,organization,general,soft_skills
+1154,96,CI/CD,web_dev,devops_tools
+1155,105,Python,web_dev,languages
+1156,105,SQL,data_science,languages
+1157,105,Airflow,data_science,big_data
+1158,105,Snowflake,data_science,databases
+1159,105,ETL,data_science,concepts
+1160,105,data pipeline,data_science,concepts
+1161,105,data warehouse,data_science,concepts
+1162,105,data lake,data_science,concepts
+1163,105,CI/CD,web_dev,devops_tools
+1164,106,machine learning,data_science,concepts
+1165,106,AWS,web_dev,devops_tools
+1166,106,Azure,web_dev,devops_tools
+1167,106,compliance,cyber_security,concepts
+1168,106,organization,general,soft_skills
+1169,106,agile,general,soft_skills
+1170,107,SQL,data_science,languages
+1171,107,Scala,data_science,languages
+1172,107,Spark,data_science,big_data
+1173,107,Hadoop,data_science,big_data
+1174,107,ETL,data_science,concepts
+1175,107,data pipeline,data_science,concepts
+1176,107,AWS,web_dev,devops_tools
+1177,107,Jenkins,web_dev,devops_tools
+1178,107,Ansible,web_dev,devops_tools
+1179,107,Chef,web_dev,devops_tools
+1180,107,problem solving,general,soft_skills
+1181,107,critical thinking,general,soft_skills
+1182,107,analytical,general,soft_skills
+1183,107,organization,general,soft_skills
+1184,107,CI/CD,web_dev,devops_tools
+1185,108,SQL,data_science,languages
+1186,108,Scala,data_science,languages
+1187,108,Spark,data_science,big_data
+1188,108,Hadoop,data_science,big_data
+1189,108,ETL,data_science,concepts
+1190,108,data pipeline,data_science,concepts
+1191,108,AWS,web_dev,devops_tools
+1192,108,Jenkins,web_dev,devops_tools
+1193,108,Ansible,web_dev,devops_tools
+1194,108,Chef,web_dev,devops_tools
+1195,108,problem solving,general,soft_skills
+1196,108,critical thinking,general,soft_skills
+1197,108,analytical,general,soft_skills
+1198,108,organization,general,soft_skills
+1199,108,CI/CD,web_dev,devops_tools
+1200,109,Python,web_dev,languages
+1201,109,Java,web_dev,languages
+1202,109,Kafka,data_science,big_data
+1203,109,PostgreSQL,web_dev,databases
+1204,109,MySQL,web_dev,databases
+1205,109,MongoDB,web_dev,databases
+1206,109,Redis,web_dev,databases
+1207,109,Cassandra,data_science,databases
+1208,109,TypeScript,web_dev,languages
+1209,109,Go,web_dev,languages
+1210,109,Rust,web_dev,languages
+1211,109,Swift,web_dev,mobile
+1212,109,Less,web_dev,css_styling
+1213,109,Node.js,web_dev,backend_frameworks
+1214,109,Spring Boot,web_dev,backend_frameworks
+1215,109,Spring,web_dev,backend_frameworks
+1216,109,Docker,web_dev,devops_tools
+1217,109,Kubernetes,web_dev,devops_tools
+1218,109,AWS,web_dev,devops_tools
+1219,109,Azure,web_dev,devops_tools
+1220,109,Apache,web_dev,devops_tools
+1221,109,GitHub Actions,web_dev,devops_tools
+1222,109,GitLab CI,web_dev,devops_tools
+1223,109,Jenkins,web_dev,devops_tools
+1224,109,Prometheus,web_dev,devops_tools
+1225,109,Grafana,web_dev,devops_tools
+1226,109,RESTful,web_dev,api_tools
+1227,109,GraphQL,web_dev,api_tools
+1228,109,gRPC,web_dev,api_tools
+1229,109,access control,cyber_security,concepts
+1230,109,IAM,cyber_security,concepts
+1231,109,compliance,cyber_security,concepts
+1232,109,audit,cyber_security,concepts
+1233,109,OWASP,cyber_security,concepts
+1234,109,GDPR,cyber_security,frameworks
+1235,109,communication,general,soft_skills
+1236,109,leadership,general,soft_skills
+1237,109,agile,general,soft_skills
+1238,109,JavaScript,web_dev,languages
+1239,109,CI/CD,web_dev,devops_tools
+1240,110,audit,cyber_security,concepts
+1241,110,communication,general,soft_skills
+1242,110,organization,general,soft_skills
+1243,111,communication,general,soft_skills
+1244,111,agile,general,soft_skills
+1245,112,classification,data_science,concepts
+1246,112,Swift,web_dev,mobile
+1247,112,compliance,cyber_security,concepts
+1248,112,audit,cyber_security,concepts
+1249,112,communication,general,soft_skills
+1250,112,teamwork,general,soft_skills
+1251,112,collaboration,general,soft_skills
+1252,112,analytical,general,soft_skills
+1253,112,organization,general,soft_skills
+1254,112,proactive,general,soft_skills
+1255,113,communication,general,soft_skills
+1256,113,adaptability,general,soft_skills
+1257,113,collaboration,general,soft_skills
+1258,113,analytical,general,soft_skills
+1259,113,stakeholder management,general,soft_skills
+1260,114,compliance,cyber_security,concepts
+1261,114,audit,cyber_security,concepts
+1262,115,compliance,cyber_security,concepts
+1263,115,leadership,general,soft_skills
+1264,115,collaboration,general,soft_skills
+1265,115,organization,general,soft_skills
+1266,115,mentoring,general,soft_skills
+1267,115,project management,general,soft_skills
+1268,116,compliance,cyber_security,concepts
+1269,116,communication,general,soft_skills
+1270,116,leadership,general,soft_skills
+1271,116,collaboration,general,soft_skills
+1272,116,project management,general,soft_skills
+1273,117,compliance,cyber_security,concepts
+1274,117,communication,general,soft_skills
+1275,117,leadership,general,soft_skills
+1276,117,collaboration,general,soft_skills
+1277,117,project management,general,soft_skills
+1278,118,compliance,cyber_security,concepts
+1279,118,communication,general,soft_skills
+1280,118,leadership,general,soft_skills
+1281,118,collaboration,general,soft_skills
+1282,118,organization,general,soft_skills
+1283,118,mentoring,general,soft_skills
+1284,118,project management,general,soft_skills
+1285,119,Power BI,data_science,bi_tools
+1286,119,compliance,cyber_security,concepts
+1287,119,communication,general,soft_skills
+1288,119,teamwork,general,soft_skills
+1289,119,adaptability,general,soft_skills
+1290,119,collaboration,general,soft_skills
+1291,119,attention to detail,general,soft_skills
+1292,119,analytical,general,soft_skills
+1293,120,Python,web_dev,languages
+1294,120,Pandas,data_science,data_processing
+1295,120,NumPy,data_science,data_processing
+1296,120,ETL,data_science,concepts
+1297,120,FastAPI,web_dev,backend_frameworks
+1298,120,REST,web_dev,api_tools
+1299,120,communication,general,soft_skills
+1300,120,collaboration,general,soft_skills
+1301,120,time management,general,soft_skills
+1302,120,analytical,general,soft_skills
+1303,120,organization,general,soft_skills
+1304,121,compliance,cyber_security,concepts
+1305,121,communication,general,soft_skills
+1306,121,teamwork,general,soft_skills
+1307,122,compliance,cyber_security,concepts
+1308,123,classification,data_science,concepts
+1309,123,Backbone,web_dev,frontend_frameworks
+1310,123,compliance,cyber_security,concepts
+1311,123,communication,general,soft_skills
+1312,123,teamwork,general,soft_skills
+1313,123,leadership,general,soft_skills
+1314,123,organization,general,soft_skills
+1315,123,decision making,general,soft_skills
+1316,124,Power BI,data_science,bi_tools
+1317,124,compliance,cyber_security,concepts
+1318,124,communication,general,soft_skills
+1319,124,teamwork,general,soft_skills
+1320,124,attention to detail,general,soft_skills
+1321,124,presentation,general,soft_skills
+1322,124,analytical,general,soft_skills
+1323,124,conflict resolution,general,soft_skills
+1324,125,Less,web_dev,css_styling
+1325,125,compliance,cyber_security,concepts
+1326,125,communication,general,soft_skills
+1327,126,communication,general,soft_skills
+1328,126,presentation,general,soft_skills
+1329,126,organization,general,soft_skills
+1330,127,Backbone,web_dev,frontend_frameworks
+1331,127,Fiber,web_dev,backend_frameworks
+1332,127,compliance,cyber_security,concepts
+1333,127,communication,general,soft_skills
+1334,127,leadership,general,soft_skills
+1335,127,analytical,general,soft_skills
+1336,127,proactive,general,soft_skills
+1337,128,Backbone,web_dev,frontend_frameworks
+1338,128,Fiber,web_dev,backend_frameworks
+1339,128,compliance,cyber_security,concepts
+1340,128,communication,general,soft_skills
+1341,128,leadership,general,soft_skills
+1342,128,analytical,general,soft_skills
+1343,128,proactive,general,soft_skills
+1344,129,communication,general,soft_skills
+1345,129,presentation,general,soft_skills
+1346,129,organization,general,soft_skills
+1347,130,compliance,cyber_security,concepts
+1348,130,communication,general,soft_skills
+1349,130,leadership,general,soft_skills
+1350,130,interpersonal,general,soft_skills
+1351,130,negotiation,general,soft_skills
+1352,131,communication,general,soft_skills
+1353,131,presentation,general,soft_skills
+1354,131,organization,general,soft_skills
+1355,132,SQL,data_science,languages
+1356,132,PostgreSQL,web_dev,databases
+1357,132,Oracle,data_science,databases
+1358,132,SQL Server,data_science,databases
+1359,132,Kubernetes,web_dev,devops_tools
+1360,132,Azure,web_dev,devops_tools
+1361,132,compliance,cyber_security,concepts
+1362,132,Azure Security,cyber_security,certifications
+1363,132,HIPAA,cyber_security,frameworks
+1364,132,GDPR,cyber_security,frameworks
+1365,132,leadership,general,soft_skills
+1366,132,organization,general,soft_skills
+1367,133,classification,data_science,concepts
+1368,133,compliance,cyber_security,concepts
+1369,133,audit,cyber_security,concepts
+1370,133,communication,general,soft_skills
+1371,133,leadership,general,soft_skills
+1372,133,collaboration,general,soft_skills
+1373,133,attention to detail,general,soft_skills
+1374,133,analytical,general,soft_skills
+1375,133,interpersonal,general,soft_skills
+1376,133,organization,general,soft_skills
+1377,133,proactive,general,soft_skills
+1378,133,project management,general,soft_skills
+1379,134,Python,web_dev,languages
+1380,134,SQL,data_science,languages
+1381,134,Java,web_dev,languages
+1382,134,Tableau,data_science,bi_tools
+1383,134,Power BI,data_science,bi_tools
+1384,134,SSRS,data_science,bi_tools
+1385,134,SSIS,data_science,bi_tools
+1386,134,Oracle,data_science,databases
+1387,134,SQL Server,data_science,databases
+1388,134,data mining,data_science,concepts
+1389,134,ETL,data_science,concepts
+1390,134,Go,web_dev,languages
+1391,134,compliance,cyber_security,concepts
+1392,134,presentation,general,soft_skills
+1393,134,analytical,general,soft_skills
+1394,134,decision making,general,soft_skills
+1395,134,agile,general,soft_skills
+1396,135,Python,web_dev,languages
+1397,135,SQL,data_science,languages
+1398,135,Java,web_dev,languages
+1399,135,Tableau,data_science,bi_tools
+1400,135,Power BI,data_science,bi_tools
+1401,135,SSRS,data_science,bi_tools
+1402,135,SSIS,data_science,bi_tools
+1403,135,Oracle,data_science,databases
+1404,135,SQL Server,data_science,databases
+1405,135,data mining,data_science,concepts
+1406,135,ETL,data_science,concepts
+1407,135,Go,web_dev,languages
+1408,135,compliance,cyber_security,concepts
+1409,135,presentation,general,soft_skills
+1410,135,analytical,general,soft_skills
+1411,135,decision making,general,soft_skills
+1412,135,agile,general,soft_skills
+1413,136,Python,web_dev,languages
+1414,136,SQL,data_science,languages
+1415,136,Java,web_dev,languages
+1416,136,Tableau,data_science,bi_tools
+1417,136,Power BI,data_science,bi_tools
+1418,136,SSRS,data_science,bi_tools
+1419,136,SSIS,data_science,bi_tools
+1420,136,Oracle,data_science,databases
+1421,136,SQL Server,data_science,databases
+1422,136,data mining,data_science,concepts
+1423,136,ETL,data_science,concepts
+1424,136,Go,web_dev,languages
+1425,136,compliance,cyber_security,concepts
+1426,136,presentation,general,soft_skills
+1427,136,analytical,general,soft_skills
+1428,136,decision making,general,soft_skills
+1429,136,agile,general,soft_skills
+1430,137,statistical analysis,data_science,concepts
+1431,137,compliance,cyber_security,concepts
+1432,137,communication,general,soft_skills
+1433,137,leadership,general,soft_skills
+1434,137,collaboration,general,soft_skills
+1435,137,presentation,general,soft_skills
+1436,137,analytical,general,soft_skills
+1437,137,interpersonal,general,soft_skills
+1438,137,stakeholder management,general,soft_skills
+1439,137,project management,general,soft_skills
+1440,138,SQL,data_science,languages
+1441,138,Tableau,data_science,bi_tools
+1442,138,Power BI,data_science,bi_tools
+1443,138,data warehouse,data_science,concepts
+1444,138,Foundation,web_dev,css_styling
+1445,138,communication,general,soft_skills
+1446,138,collaboration,general,soft_skills
+1447,138,presentation,general,soft_skills
+1448,138,analytical,general,soft_skills
+1449,138,organization,general,soft_skills
+1450,138,self-motivated,general,soft_skills
+1451,138,mentoring,general,soft_skills
+1452,139,Python,web_dev,languages
+1453,139,SQL,data_science,languages
+1454,139,Power BI,data_science,bi_tools
+1455,139,analytical,general,soft_skills
+1456,140,machine learning,data_science,concepts
+1457,140,Go,web_dev,languages
+1458,140,Less,web_dev,css_styling
+1459,140,critical thinking,general,soft_skills
+1460,140,adaptability,general,soft_skills
+1461,140,organization,general,soft_skills
+1462,141,machine learning,data_science,concepts
+1463,141,Go,web_dev,languages
+1464,141,Less,web_dev,css_styling
+1465,141,critical thinking,general,soft_skills
+1466,141,adaptability,general,soft_skills
+1467,141,organization,general,soft_skills
+1468,142,SQL,data_science,languages
+1469,142,Power BI,data_science,bi_tools
+1470,142,Google Data Studio,data_science,bi_tools
+1471,142,MongoDB,web_dev,databases
+1472,142,Cassandra,data_science,databases
+1473,142,ETL,data_science,concepts
+1474,142,communication,general,soft_skills
+1475,142,attention to detail,general,soft_skills
+1476,142,analytical,general,soft_skills
+1477,142,PostgreSQL,web_dev,databases
+1478,143,Python,web_dev,languages
+1479,143,R,data_science,languages
+1480,143,SQL,data_science,languages
+1481,143,Tableau,data_science,bi_tools
+1482,143,Power BI,data_science,bi_tools
+1483,143,Looker,data_science,bi_tools
+1484,143,QlikView,data_science,bi_tools
+1485,143,SSIS,data_science,bi_tools
+1486,143,PostgreSQL,web_dev,databases
+1487,143,MySQL,web_dev,databases
+1488,143,Oracle,data_science,databases
+1489,143,SQL Server,data_science,databases
+1490,143,ETL,data_science,concepts
+1491,143,access control,cyber_security,concepts
+1492,143,communication,general,soft_skills
+1493,143,analytical,general,soft_skills
+1494,143,stakeholder management,general,soft_skills
+1495,144,statistical analysis,data_science,concepts
+1496,144,communication,general,soft_skills
+1497,144,analytical,general,soft_skills
+1498,144,interpersonal,general,soft_skills
+1499,145,SQL,data_science,languages
+1500,145,Tableau,data_science,bi_tools
+1501,145,Power BI,data_science,bi_tools
+1502,145,communication,general,soft_skills
+1503,145,leadership,general,soft_skills
+1504,145,critical thinking,general,soft_skills
+1505,145,adaptability,general,soft_skills
+1506,145,collaboration,general,soft_skills
+1507,145,presentation,general,soft_skills
+1508,145,analytical,general,soft_skills
+1509,145,organization,general,soft_skills
+1510,145,stakeholder management,general,soft_skills
+1511,146,SQL,data_science,languages
+1512,146,Tableau,data_science,bi_tools
+1513,146,Power BI,data_science,bi_tools
+1514,146,communication,general,soft_skills
+1515,146,leadership,general,soft_skills
+1516,146,critical thinking,general,soft_skills
+1517,146,adaptability,general,soft_skills
+1518,146,collaboration,general,soft_skills
+1519,146,presentation,general,soft_skills
+1520,146,analytical,general,soft_skills
+1521,146,organization,general,soft_skills
+1522,146,stakeholder management,general,soft_skills
+1523,147,machine learning,data_science,concepts
+1524,147,Go,web_dev,languages
+1525,147,compliance,cyber_security,concepts
+1526,147,interpersonal,general,soft_skills
+1527,147,decision making,general,soft_skills
+1528,148,machine learning,data_science,concepts
+1529,148,Go,web_dev,languages
+1530,148,compliance,cyber_security,concepts
+1531,148,interpersonal,general,soft_skills
+1532,148,decision making,general,soft_skills
+1533,149,communication,general,soft_skills
+1534,149,attention to detail,general,soft_skills
+1535,149,analytical,general,soft_skills
+1536,149,interpersonal,general,soft_skills
+1537,149,project management,general,soft_skills
+1538,150,Python,web_dev,languages
+1539,150,R,data_science,languages
+1540,150,SQL,data_science,languages
+1541,150,Tableau,data_science,bi_tools
+1542,150,Power BI,data_science,bi_tools
+1543,150,Qlik,data_science,bi_tools
+1544,150,data mining,data_science,concepts
+1545,150,Go,web_dev,languages
+1546,150,compliance,cyber_security,concepts
+1547,150,audit,cyber_security,concepts
+1548,150,leadership,general,soft_skills
+1549,150,collaboration,general,soft_skills
+1550,150,attention to detail,general,soft_skills
+1551,150,analytical,general,soft_skills
+1552,150,decision making,general,soft_skills
+1553,150,agile,general,soft_skills
+1554,151,compliance,cyber_security,concepts
+1555,151,audit,cyber_security,concepts
+1556,151,communication,general,soft_skills
+1557,151,leadership,general,soft_skills
+1558,151,collaboration,general,soft_skills
+1559,151,analytical,general,soft_skills
+1560,151,organization,general,soft_skills
+1561,152,compliance,cyber_security,concepts
+1562,152,audit,cyber_security,concepts
+1563,152,communication,general,soft_skills
+1564,152,leadership,general,soft_skills
+1565,152,collaboration,general,soft_skills
+1566,152,analytical,general,soft_skills
+1567,152,organization,general,soft_skills
+1568,153,compliance,cyber_security,concepts
+1569,153,audit,cyber_security,concepts
+1570,153,communication,general,soft_skills
+1571,153,leadership,general,soft_skills
+1572,153,collaboration,general,soft_skills
+1573,153,analytical,general,soft_skills
+1574,153,organization,general,soft_skills
+1575,154,Power BI,data_science,bi_tools
+1576,154,compliance,cyber_security,concepts
+1577,154,collaboration,general,soft_skills
+1578,154,analytical,general,soft_skills
+1579,155,statistical analysis,data_science,concepts
+1580,155,compliance,cyber_security,concepts
+1581,155,communication,general,soft_skills
+1582,155,time management,general,soft_skills
+1583,155,attention to detail,general,soft_skills
+1584,155,presentation,general,soft_skills
+1585,155,analytical,general,soft_skills
+1586,155,stakeholder management,general,soft_skills
+1587,156,compliance,cyber_security,concepts
+1588,156,communication,general,soft_skills
+1589,156,attention to detail,general,soft_skills
+1590,156,analytical,general,soft_skills
+1591,156,interpersonal,general,soft_skills
+1592,157,compliance,cyber_security,concepts
+1593,157,communication,general,soft_skills
+1594,157,leadership,general,soft_skills
+1595,157,collaboration,general,soft_skills
+1596,157,analytical,general,soft_skills
+1597,157,organization,general,soft_skills
+1598,157,mentoring,general,soft_skills
+1599,157,project management,general,soft_skills
+1600,158,risk assessment,cyber_security,concepts
+1601,158,communication,general,soft_skills
+1602,158,attention to detail,general,soft_skills
+1603,158,organization,general,soft_skills
+1604,158,project management,general,soft_skills
+1605,159,risk assessment,cyber_security,concepts
+1606,159,compliance,cyber_security,concepts
+1607,159,audit,cyber_security,concepts
+1608,159,teamwork,general,soft_skills
+1609,159,leadership,general,soft_skills
+1610,159,analytical,general,soft_skills
+1611,159,organization,general,soft_skills
+1612,159,proactive,general,soft_skills
+1613,160,communication,general,soft_skills
+1614,160,leadership,general,soft_skills
+1615,160,presentation,general,soft_skills
+1616,160,analytical,general,soft_skills
+1617,160,proactive,general,soft_skills
+1618,160,stakeholder management,general,soft_skills
+1619,161,communication,general,soft_skills
+1620,161,leadership,general,soft_skills
+1621,161,presentation,general,soft_skills
+1622,161,analytical,general,soft_skills
+1623,161,proactive,general,soft_skills
+1624,161,stakeholder management,general,soft_skills
+1625,162,analytical,general,soft_skills
+1626,162,organization,general,soft_skills
+1627,163,leadership,general,soft_skills
+1628,164,leadership,general,soft_skills
+1629,167,Go,web_dev,languages
+1630,167,audit,cyber_security,concepts
+1631,167,communication,general,soft_skills
+1632,167,collaboration,general,soft_skills
+1633,167,interpersonal,general,soft_skills
+1634,167,proactive,general,soft_skills
+1635,167,agile,general,soft_skills
+1636,168,Go,web_dev,languages
+1637,168,communication,general,soft_skills
+1638,168,presentation,general,soft_skills
+1639,168,analytical,general,soft_skills
+1640,168,interpersonal,general,soft_skills
+1641,168,organization,general,soft_skills
+1642,168,negotiation,general,soft_skills
+1643,168,stakeholder management,general,soft_skills
+1644,169,Go,web_dev,languages
+1645,169,communication,general,soft_skills
+1646,169,presentation,general,soft_skills
+1647,169,analytical,general,soft_skills
+1648,169,interpersonal,general,soft_skills
+1649,169,organization,general,soft_skills
+1650,169,negotiation,general,soft_skills
+1651,169,stakeholder management,general,soft_skills
+1652,170,Python,web_dev,languages
+1653,170,R,data_science,languages
+1654,170,SQL,data_science,languages
+1655,170,Tableau,data_science,bi_tools
+1656,170,Power BI,data_science,bi_tools
+1657,170,Looker,data_science,bi_tools
+1658,170,Qlik,data_science,bi_tools
+1659,170,Google Data Studio,data_science,bi_tools
+1660,170,Snowflake,data_science,databases
+1661,170,BigQuery,data_science,databases
+1662,170,Redshift,data_science,databases
+1663,170,AWS,web_dev,devops_tools
+1664,170,compliance,cyber_security,concepts
+1665,170,audit,cyber_security,concepts
+1666,170,communication,general,soft_skills
+1667,170,leadership,general,soft_skills
+1668,170,organization,general,soft_skills
+1669,170,proactive,general,soft_skills
+1670,170,stakeholder management,general,soft_skills
+1671,170,agile,general,soft_skills
+1672,171,compliance,cyber_security,concepts
+1673,172,compliance,cyber_security,concepts
+1674,172,communication,general,soft_skills
+1675,172,collaboration,general,soft_skills
+1676,172,time management,general,soft_skills
+1677,172,attention to detail,general,soft_skills
+1678,172,analytical,general,soft_skills
+1679,172,organization,general,soft_skills
+1680,173,Python,web_dev,languages
+1681,173,SQL,data_science,languages
+1682,173,Java,web_dev,languages
+1683,173,Power BI,data_science,bi_tools
+1684,173,Spark,data_science,big_data
+1685,173,Hadoop,data_science,big_data
+1686,173,MySQL,web_dev,databases
+1687,173,Oracle,data_science,databases
+1688,173,SQL Server,data_science,databases
+1689,173,machine learning,data_science,concepts
+1690,173,ETL,data_science,concepts
+1691,173,Go,web_dev,languages
+1692,173,Docker,web_dev,devops_tools
+1693,173,Apache,web_dev,devops_tools
+1694,173,Flutter,web_dev,mobile
+1695,173,penetration testing,cyber_security,concepts
+1696,173,compliance,cyber_security,concepts
+1697,173,audit,cyber_security,concepts
+1698,173,communication,general,soft_skills
+1699,173,collaboration,general,soft_skills
+1700,173,interpersonal,general,soft_skills
+1701,173,decision making,general,soft_skills
+1702,173,agile,general,soft_skills
+1703,173,project management,general,soft_skills
+1704,174,Python,web_dev,languages
+1705,174,R,data_science,languages
+1706,174,SQL,data_science,languages
+1707,174,Tableau,data_science,bi_tools
+1708,174,Power BI,data_science,bi_tools
+1709,174,clustering,data_science,concepts
+1710,174,feature engineering,data_science,concepts
+1711,174,ETL,data_science,concepts
+1712,174,compliance,cyber_security,concepts
+1713,174,audit,cyber_security,concepts
+1714,174,analytical,general,soft_skills
+1715,174,organization,general,soft_skills
+1716,174,proactive,general,soft_skills
+1717,175,Python,web_dev,languages
+1718,175,Tableau,data_science,bi_tools
+1719,175,Power BI,data_science,bi_tools
+1720,175,ETL,data_science,concepts
+1721,175,data warehouse,data_science,concepts
+1722,175,TypeScript,web_dev,languages
+1723,175,Foundation,web_dev,css_styling
+1724,175,Django,web_dev,backend_frameworks
+1725,175,compliance,cyber_security,concepts
+1726,175,audit,cyber_security,concepts
+1727,175,collaboration,general,soft_skills
+1728,175,attention to detail,general,soft_skills
+1729,175,analytical,general,soft_skills
+1730,175,agile,general,soft_skills
+1731,175,project management,general,soft_skills
+1732,175,CI/CD,web_dev,devops_tools
+1733,176,Python,web_dev,languages
+1734,176,R,data_science,languages
+1735,176,SQL,data_science,languages
+1736,176,Tableau,data_science,bi_tools
+1737,176,Power BI,data_science,bi_tools
+1738,176,clustering,data_science,concepts
+1739,176,feature engineering,data_science,concepts
+1740,176,ETL,data_science,concepts
+1741,176,compliance,cyber_security,concepts
+1742,176,audit,cyber_security,concepts
+1743,176,analytical,general,soft_skills
+1744,176,organization,general,soft_skills
+1745,176,proactive,general,soft_skills
+1746,177,Python,web_dev,languages
+1747,177,Tableau,data_science,bi_tools
+1748,177,Power BI,data_science,bi_tools
+1749,177,ETL,data_science,concepts
+1750,177,data warehouse,data_science,concepts
+1751,177,TypeScript,web_dev,languages
+1752,177,Foundation,web_dev,css_styling
+1753,177,Django,web_dev,backend_frameworks
+1754,177,compliance,cyber_security,concepts
+1755,177,audit,cyber_security,concepts
+1756,177,collaboration,general,soft_skills
+1757,177,attention to detail,general,soft_skills
+1758,177,analytical,general,soft_skills
+1759,177,agile,general,soft_skills
+1760,177,project management,general,soft_skills
+1761,177,CI/CD,web_dev,devops_tools
+1762,178,Python,web_dev,languages
+1763,178,Tableau,data_science,bi_tools
+1764,178,Power BI,data_science,bi_tools
+1765,178,ETL,data_science,concepts
+1766,178,data warehouse,data_science,concepts
+1767,178,TypeScript,web_dev,languages
+1768,178,Foundation,web_dev,css_styling
+1769,178,Django,web_dev,backend_frameworks
+1770,178,compliance,cyber_security,concepts
+1771,178,audit,cyber_security,concepts
+1772,178,collaboration,general,soft_skills
+1773,178,attention to detail,general,soft_skills
+1774,178,analytical,general,soft_skills
+1775,178,agile,general,soft_skills
+1776,178,project management,general,soft_skills
+1777,178,CI/CD,web_dev,devops_tools
+1778,179,Go,web_dev,languages
+1779,179,compliance,cyber_security,concepts
+1780,179,audit,cyber_security,concepts
+1781,179,leadership,general,soft_skills
+1782,179,collaboration,general,soft_skills
+1783,179,agile,general,soft_skills
+1784,180,Python,web_dev,languages
+1785,180,Tableau,data_science,bi_tools
+1786,180,Power BI,data_science,bi_tools
+1787,180,ETL,data_science,concepts
+1788,180,data warehouse,data_science,concepts
+1789,180,TypeScript,web_dev,languages
+1790,180,Foundation,web_dev,css_styling
+1791,180,Django,web_dev,backend_frameworks
+1792,180,compliance,cyber_security,concepts
+1793,180,audit,cyber_security,concepts
+1794,180,collaboration,general,soft_skills
+1795,180,attention to detail,general,soft_skills
+1796,180,analytical,general,soft_skills
+1797,180,agile,general,soft_skills
+1798,180,project management,general,soft_skills
+1799,180,CI/CD,web_dev,devops_tools
+1800,181,Python,web_dev,languages
+1801,181,Tableau,data_science,bi_tools
+1802,181,Power BI,data_science,bi_tools
+1803,181,ETL,data_science,concepts
+1804,181,data warehouse,data_science,concepts
+1805,181,TypeScript,web_dev,languages
+1806,181,Foundation,web_dev,css_styling
+1807,181,Django,web_dev,backend_frameworks
+1808,181,compliance,cyber_security,concepts
+1809,181,audit,cyber_security,concepts
+1810,181,collaboration,general,soft_skills
+1811,181,attention to detail,general,soft_skills
+1812,181,analytical,general,soft_skills
+1813,181,agile,general,soft_skills
+1814,181,project management,general,soft_skills
+1815,181,CI/CD,web_dev,devops_tools
+1816,182,Python,web_dev,languages
+1817,182,R,data_science,languages
+1818,182,SQL,data_science,languages
+1819,182,Tableau,data_science,bi_tools
+1820,182,Power BI,data_science,bi_tools
+1821,182,ETL,data_science,concepts
+1822,182,compliance,cyber_security,concepts
+1823,182,communication,general,soft_skills
+1824,182,analytical,general,soft_skills
+1825,182,organization,general,soft_skills
+1826,182,decision making,general,soft_skills
+1827,183,Python,web_dev,languages
+1828,183,R,data_science,languages
+1829,183,SQL,data_science,languages
+1830,183,communication,general,soft_skills
+1831,183,leadership,general,soft_skills
+1832,183,organization,general,soft_skills
+1833,184,Python,web_dev,languages
+1834,184,R,data_science,languages
+1835,184,SQL,data_science,languages
+1836,184,Tableau,data_science,bi_tools
+1837,184,ETL,data_science,concepts
+1838,184,compliance,cyber_security,concepts
+1839,184,communication,general,soft_skills
+1840,184,analytical,general,soft_skills
+1841,184,organization,general,soft_skills
+1842,184,decision making,general,soft_skills
+1843,185,Python,web_dev,languages
+1844,185,R,data_science,languages
+1845,185,SQL,data_science,languages
+1846,185,Tableau,data_science,bi_tools
+1847,185,Power BI,data_science,bi_tools
+1848,185,ETL,data_science,concepts
+1849,185,compliance,cyber_security,concepts
+1850,185,communication,general,soft_skills
+1851,185,analytical,general,soft_skills
+1852,185,organization,general,soft_skills
+1853,185,decision making,general,soft_skills
+1854,186,Python,web_dev,languages
+1855,186,R,data_science,languages
+1856,186,SQL,data_science,languages
+1857,186,communication,general,soft_skills
+1858,186,leadership,general,soft_skills
+1859,186,organization,general,soft_skills
+1860,187,Python,web_dev,languages
+1861,187,R,data_science,languages
+1862,187,SQL,data_science,languages
+1863,187,Tableau,data_science,bi_tools
+1864,187,Power BI,data_science,bi_tools
+1865,187,ETL,data_science,concepts
+1866,187,compliance,cyber_security,concepts
+1867,187,communication,general,soft_skills
+1868,187,analytical,general,soft_skills
+1869,187,organization,general,soft_skills
+1870,187,decision making,general,soft_skills
+1871,188,Python,web_dev,languages
+1872,188,R,data_science,languages
+1873,188,SQL,data_science,languages
+1874,188,Tableau,data_science,bi_tools
+1875,188,Power BI,data_science,bi_tools
+1876,188,ETL,data_science,concepts
+1877,188,compliance,cyber_security,concepts
+1878,188,communication,general,soft_skills
+1879,188,analytical,general,soft_skills
+1880,188,organization,general,soft_skills
+1881,188,decision making,general,soft_skills
+1882,189,compliance,cyber_security,concepts
+1883,189,audit,cyber_security,concepts
+1884,189,presentation,general,soft_skills
+1885,189,analytical,general,soft_skills
+1886,190,penetration testing,cyber_security,concepts
+1887,190,SIEM,cyber_security,concepts
+1888,190,incident response,cyber_security,concepts
+1889,190,analytical,general,soft_skills
+1890,190,organization,general,soft_skills
+1891,190,proactive,general,soft_skills
+1892,191,penetration testing,cyber_security,concepts
+1893,191,SIEM,cyber_security,concepts
+1894,191,incident response,cyber_security,concepts
+1895,191,analytical,general,soft_skills
+1896,191,organization,general,soft_skills
+1897,191,proactive,general,soft_skills
+1898,192,application security,cyber_security,concepts
+1899,192,compliance,cyber_security,concepts
+1900,192,OWASP,cyber_security,concepts
+1901,192,Burp Suite,cyber_security,tools
+1902,192,CISM,cyber_security,certifications
+1903,192,CISA,cyber_security,certifications
+1904,192,NIST,cyber_security,frameworks
+1905,193,identity management,cyber_security,concepts
+1906,193,access control,cyber_security,concepts
+1907,193,IAM,cyber_security,concepts
+1908,193,compliance,cyber_security,concepts
+1909,193,ISO 27001,cyber_security,certifications
+1910,193,teamwork,general,soft_skills
+1911,193,leadership,general,soft_skills
+1912,193,collaboration,general,soft_skills
+1913,193,analytical,general,soft_skills
+1914,193,organization,general,soft_skills
+1915,194,incident response,cyber_security,concepts
+1916,194,identity management,cyber_security,concepts
+1917,194,access control,cyber_security,concepts
+1918,194,IAM,cyber_security,concepts
+1919,194,compliance,cyber_security,concepts
+1920,194,collaboration,general,soft_skills
+1921,194,attention to detail,general,soft_skills
+1922,194,analytical,general,soft_skills
+1923,194,organization,general,soft_skills
+1924,195,Python,web_dev,languages
+1925,195,Java,web_dev,languages
+1926,195,PHP,web_dev,languages
+1927,195,Foundation,web_dev,css_styling
+1928,195,vulnerability assessment,cyber_security,concepts
+1929,195,SIEM,cyber_security,concepts
+1930,195,incident response,cyber_security,concepts
+1931,195,SOC,cyber_security,concepts
+1932,195,encryption,cyber_security,concepts
+1933,195,identity management,cyber_security,concepts
+1934,195,compliance,cyber_security,concepts
+1935,195,audit,cyber_security,concepts
+1936,195,Nessus,cyber_security,tools
+1937,195,Qualys,cyber_security,tools
+1938,195,ISO 27001,cyber_security,certifications
+1939,195,NIST,cyber_security,frameworks
+1940,195,CIS Controls,cyber_security,frameworks
+1941,195,SOC 2,cyber_security,frameworks
+1942,195,communication,general,soft_skills
+1943,195,teamwork,general,soft_skills
+1944,195,adaptability,general,soft_skills
+1945,195,collaboration,general,soft_skills
+1946,195,presentation,general,soft_skills
+1947,195,analytical,general,soft_skills
+1948,195,organization,general,soft_skills
+1949,195,proactive,general,soft_skills
+1950,195,project management,general,soft_skills
+1951,196,penetration testing,cyber_security,concepts
+1952,196,encryption,cyber_security,concepts
+1953,196,network security,cyber_security,concepts
+1954,196,application security,cyber_security,concepts
+1955,196,access control,cyber_security,concepts
+1956,196,compliance,cyber_security,concepts
+1957,196,red team,cyber_security,concepts
+1958,196,blue team,cyber_security,concepts
+1959,196,purple team,cyber_security,concepts
+1960,196,Wireshark,cyber_security,tools
+1961,196,Metasploit,cyber_security,tools
+1962,196,Nmap,cyber_security,tools
+1963,196,Burp Suite,cyber_security,tools
+1964,196,Nessus,cyber_security,tools
+1965,196,Kali Linux,cyber_security,tools
+1966,196,Cobalt Strike,cyber_security,tools
+1967,196,CISSP,cyber_security,certifications
+1968,196,CISM,cyber_security,certifications
+1969,196,CISA,cyber_security,certifications
+1970,196,leadership,general,soft_skills
+1971,196,collaboration,general,soft_skills
+1972,197,penetration testing,cyber_security,concepts
+1973,197,incident response,cyber_security,concepts
+1974,197,red team,cyber_security,concepts
+1975,197,purple team,cyber_security,concepts
+1976,197,CEH,cyber_security,certifications
+1977,197,OSCP,cyber_security,certifications
+1978,197,CISM,cyber_security,certifications
+1979,197,CISA,cyber_security,certifications
+1980,197,GIAC,cyber_security,certifications
+1981,197,CRISC,cyber_security,certifications
+1982,197,GPEN,cyber_security,certifications
+1983,197,communication,general,soft_skills
+1984,197,organization,general,soft_skills
+1985,198,access control,cyber_security,concepts
+1986,198,IAM,cyber_security,concepts
+1987,198,compliance,cyber_security,concepts
+1988,198,CISSP,cyber_security,certifications
+1989,198,CISM,cyber_security,certifications
+1990,198,CISA,cyber_security,certifications
+1991,199,Oracle,data_science,databases
+1992,199,AWS,web_dev,devops_tools
+1993,199,Azure,web_dev,devops_tools
+1994,199,access control,cyber_security,concepts
+1995,199,IAM,cyber_security,concepts
+1996,199,compliance,cyber_security,concepts
+1997,199,CISSP,cyber_security,certifications
+1998,199,CISM,cyber_security,certifications
+1999,199,CISA,cyber_security,certifications
+2000,199,CCSP,cyber_security,certifications
+2001,200,AWS,web_dev,devops_tools
+2002,200,Azure,web_dev,devops_tools
+2003,200,application security,cyber_security,concepts
+2004,200,compliance,cyber_security,concepts
+2005,200,audit,cyber_security,concepts
+2006,200,CISSP,cyber_security,certifications
+2007,200,CEH,cyber_security,certifications
+2008,200,OSCP,cyber_security,certifications
+2009,200,CISA,cyber_security,certifications
+2010,200,CCSP,cyber_security,certifications
+2011,200,CRISC,cyber_security,certifications
+2012,200,Azure Security,cyber_security,certifications
+2013,201,AWS,web_dev,devops_tools
+2014,201,Azure,web_dev,devops_tools
+2015,201,application security,cyber_security,concepts
+2016,201,compliance,cyber_security,concepts
+2017,201,audit,cyber_security,concepts
+2018,201,CISSP,cyber_security,certifications
+2019,201,CEH,cyber_security,certifications
+2020,201,OSCP,cyber_security,certifications
+2021,201,CISA,cyber_security,certifications
+2022,201,CCSP,cyber_security,certifications
+2023,201,CRISC,cyber_security,certifications
+2024,201,Azure Security,cyber_security,certifications
+2025,202,SQL,data_science,languages
+2026,202,network security,cyber_security,concepts
+2027,202,application security,cyber_security,concepts
+2028,202,compliance,cyber_security,concepts
+2029,202,OWASP,cyber_security,concepts
+2030,202,Wireshark,cyber_security,tools
+2031,202,Metasploit,cyber_security,tools
+2032,202,Nmap,cyber_security,tools
+2033,202,Burp Suite,cyber_security,tools
+2034,202,Nessus,cyber_security,tools
+2035,202,Kali Linux,cyber_security,tools
+2036,202,Hashcat,cyber_security,tools
+2037,202,John the Ripper,cyber_security,tools
+2038,202,CEH,cyber_security,certifications
+2039,202,OSCP,cyber_security,certifications
+2040,202,CISM,cyber_security,certifications
+2041,202,CISA,cyber_security,certifications
+2042,202,GIAC,cyber_security,certifications
+2043,202,communication,general,soft_skills
+2044,202,leadership,general,soft_skills
+2045,202,collaboration,general,soft_skills
+2046,202,presentation,general,soft_skills
+2047,202,analytical,general,soft_skills
+2048,203,application security,cyber_security,concepts
+2049,203,compliance,cyber_security,concepts
+2050,203,OWASP,cyber_security,concepts
+2051,203,Burp Suite,cyber_security,tools
+2052,203,GPEN,cyber_security,certifications
+2053,203,NIST,cyber_security,frameworks
+2054,204,SQL,data_science,languages
+2055,204,network security,cyber_security,concepts
+2056,204,application security,cyber_security,concepts
+2057,204,compliance,cyber_security,concepts
+2058,204,OWASP,cyber_security,concepts
+2059,204,Wireshark,cyber_security,tools
+2060,204,Metasploit,cyber_security,tools
+2061,204,Nmap,cyber_security,tools
+2062,204,Burp Suite,cyber_security,tools
+2063,204,Nessus,cyber_security,tools
+2064,204,Kali Linux,cyber_security,tools
+2065,204,Hashcat,cyber_security,tools
+2066,204,John the Ripper,cyber_security,tools
+2067,204,CEH,cyber_security,certifications
+2068,204,OSCP,cyber_security,certifications
+2069,204,CISM,cyber_security,certifications
+2070,204,CISA,cyber_security,certifications
+2071,204,GIAC,cyber_security,certifications
+2072,204,communication,general,soft_skills
+2073,204,leadership,general,soft_skills
+2074,204,collaboration,general,soft_skills
+2075,204,presentation,general,soft_skills
+2076,204,analytical,general,soft_skills
+2077,205,SQL,data_science,languages
+2078,205,network security,cyber_security,concepts
+2079,205,application security,cyber_security,concepts
+2080,205,compliance,cyber_security,concepts
+2081,205,OWASP,cyber_security,concepts
+2082,205,Wireshark,cyber_security,tools
+2083,205,Metasploit,cyber_security,tools
+2084,205,Nmap,cyber_security,tools
+2085,205,Burp Suite,cyber_security,tools
+2086,205,Nessus,cyber_security,tools
+2087,205,Kali Linux,cyber_security,tools
+2088,205,Hashcat,cyber_security,tools
+2089,205,John the Ripper,cyber_security,tools
+2090,205,CEH,cyber_security,certifications
+2091,205,OSCP,cyber_security,certifications
+2092,205,CISM,cyber_security,certifications
+2093,205,CISA,cyber_security,certifications
+2094,205,GIAC,cyber_security,certifications
+2095,205,communication,general,soft_skills
+2096,205,leadership,general,soft_skills
+2097,205,collaboration,general,soft_skills
+2098,205,presentation,general,soft_skills
+2099,205,analytical,general,soft_skills
+2100,206,SQL,data_science,languages
+2101,206,network security,cyber_security,concepts
+2102,206,application security,cyber_security,concepts
+2103,206,compliance,cyber_security,concepts
+2104,206,OWASP,cyber_security,concepts
+2105,206,Wireshark,cyber_security,tools
+2106,206,Metasploit,cyber_security,tools
+2107,206,Nmap,cyber_security,tools
+2108,206,Burp Suite,cyber_security,tools
+2109,206,Nessus,cyber_security,tools
+2110,206,Kali Linux,cyber_security,tools
+2111,206,Hashcat,cyber_security,tools
+2112,206,John the Ripper,cyber_security,tools
+2113,206,CEH,cyber_security,certifications
+2114,206,OSCP,cyber_security,certifications
+2115,206,CISM,cyber_security,certifications
+2116,206,CISA,cyber_security,certifications
+2117,206,GIAC,cyber_security,certifications
+2118,206,communication,general,soft_skills
+2119,206,leadership,general,soft_skills
+2120,206,collaboration,general,soft_skills
+2121,206,presentation,general,soft_skills
+2122,206,analytical,general,soft_skills
+2123,207,compliance,cyber_security,concepts
+2124,207,security architecture,cyber_security,concepts
+2125,207,leadership,general,soft_skills
+2126,207,collaboration,general,soft_skills
+2127,207,organization,general,soft_skills
+2128,207,negotiation,general,soft_skills
+2129,208,compliance,cyber_security,concepts
+2130,208,security architecture,cyber_security,concepts
+2131,208,leadership,general,soft_skills
+2132,208,collaboration,general,soft_skills
+2133,208,organization,general,soft_skills
+2134,208,negotiation,general,soft_skills
+2135,209,risk assessment,cyber_security,concepts
+2136,209,compliance,cyber_security,concepts
+2137,209,collaboration,general,soft_skills
+2138,209,organization,general,soft_skills
+2139,210,risk assessment,cyber_security,concepts
+2140,210,compliance,cyber_security,concepts
+2141,210,collaboration,general,soft_skills
+2142,210,organization,general,soft_skills
+2143,211,security architecture,cyber_security,concepts
+2144,211,leadership,general,soft_skills
+2145,211,collaboration,general,soft_skills
+2146,211,organization,general,soft_skills
+2147,211,negotiation,general,soft_skills
+2148,212,penetration testing,cyber_security,concepts
+2149,212,compliance,cyber_security,concepts
+2150,212,communication,general,soft_skills
+2151,212,leadership,general,soft_skills
+2152,212,collaboration,general,soft_skills
+2153,212,mentoring,general,soft_skills
+2154,213,classification,data_science,concepts
+2155,213,incident response,cyber_security,concepts
+2156,213,risk assessment,cyber_security,concepts
+2157,213,compliance,cyber_security,concepts
+2158,213,communication,general,soft_skills
+2159,213,leadership,general,soft_skills
+2160,213,mentoring,general,soft_skills
+2161,214,classification,data_science,concepts
+2162,214,incident response,cyber_security,concepts
+2163,214,risk assessment,cyber_security,concepts
+2164,214,compliance,cyber_security,concepts
+2165,214,communication,general,soft_skills
+2166,214,leadership,general,soft_skills
+2167,214,mentoring,general,soft_skills
+2168,215,classification,data_science,concepts
+2169,215,incident response,cyber_security,concepts
+2170,215,risk assessment,cyber_security,concepts
+2171,215,compliance,cyber_security,concepts
+2172,215,communication,general,soft_skills
+2173,215,leadership,general,soft_skills
+2174,215,mentoring,general,soft_skills
+2175,216,AWS,web_dev,devops_tools
+2176,216,Azure,web_dev,devops_tools
+2177,216,SOC,cyber_security,concepts
+2178,217,SIEM,cyber_security,concepts
+2179,217,incident response,cyber_security,concepts
+2180,217,SOC,cyber_security,concepts
+2181,217,collaboration,general,soft_skills
+2182,218,Azure,web_dev,devops_tools
+2183,218,penetration testing,cyber_security,concepts
+2184,218,vulnerability assessment,cyber_security,concepts
+2185,218,cloud security,cyber_security,concepts
+2186,218,compliance,cyber_security,concepts
+2187,218,audit,cyber_security,concepts
+2188,218,CISSP,cyber_security,certifications
+2189,218,CEH,cyber_security,certifications
+2190,218,OSCP,cyber_security,certifications
+2191,218,CISM,cyber_security,certifications
+2192,218,CISA,cyber_security,certifications
+2193,218,CRISC,cyber_security,certifications
+2194,218,Azure Security,cyber_security,certifications
+2195,219,Azure,web_dev,devops_tools
+2196,219,penetration testing,cyber_security,concepts
+2197,219,vulnerability assessment,cyber_security,concepts
+2198,219,cloud security,cyber_security,concepts
+2199,219,compliance,cyber_security,concepts
+2200,219,audit,cyber_security,concepts
+2201,219,CISSP,cyber_security,certifications
+2202,219,CEH,cyber_security,certifications
+2203,219,OSCP,cyber_security,certifications
+2204,219,CISM,cyber_security,certifications
+2205,219,CISA,cyber_security,certifications
+2206,219,CRISC,cyber_security,certifications
+2207,219,Azure Security,cyber_security,certifications
+2208,220,SQL,data_science,languages
+2209,220,SAS,data_science,languages
+2210,220,access control,cyber_security,concepts
+2211,220,compliance,cyber_security,concepts
+2212,220,audit,cyber_security,concepts
+2213,220,communication,general,soft_skills
+2214,220,collaboration,general,soft_skills
+2215,220,attention to detail,general,soft_skills
+2216,220,analytical,general,soft_skills
+2217,221,SQL,data_science,languages
+2218,221,SAS,data_science,languages
+2219,221,access control,cyber_security,concepts
+2220,221,compliance,cyber_security,concepts
+2221,221,audit,cyber_security,concepts
+2222,221,communication,general,soft_skills
+2223,221,collaboration,general,soft_skills
+2224,221,attention to detail,general,soft_skills
+2225,221,analytical,general,soft_skills
+2226,222,cloud security,cyber_security,concepts
+2227,222,compliance,cyber_security,concepts
+2228,222,zero trust,cyber_security,concepts
+2229,222,ISO 27001,cyber_security,certifications
+2230,222,NIST,cyber_security,frameworks
+2231,222,communication,general,soft_skills
+2232,222,leadership,general,soft_skills
+2233,222,attention to detail,general,soft_skills
+2234,222,organization,general,soft_skills
+2235,222,proactive,general,soft_skills
+2236,222,agile,general,soft_skills
+2237,222,project management,general,soft_skills
+2238,223,SQL,data_science,languages
+2239,223,SAS,data_science,languages
+2240,223,access control,cyber_security,concepts
+2241,223,compliance,cyber_security,concepts
+2242,223,audit,cyber_security,concepts
+2243,223,communication,general,soft_skills
+2244,223,collaboration,general,soft_skills
+2245,223,attention to detail,general,soft_skills
+2246,223,analytical,general,soft_skills
+2247,224,Oracle,data_science,databases
+2248,224,Docker,web_dev,devops_tools
+2249,224,Kubernetes,web_dev,devops_tools
+2250,224,AWS,web_dev,devops_tools
+2251,224,Azure,web_dev,devops_tools
+2252,224,Terraform,web_dev,devops_tools
+2253,224,Ansible,web_dev,devops_tools
+2254,224,penetration testing,cyber_security,concepts
+2255,224,incident response,cyber_security,concepts
+2256,224,SOC,cyber_security,concepts
+2257,224,encryption,cyber_security,concepts
+2258,224,cloud security,cyber_security,concepts
+2259,224,access control,cyber_security,concepts
+2260,224,IAM,cyber_security,concepts
+2261,224,compliance,cyber_security,concepts
+2262,224,audit,cyber_security,concepts
+2263,224,security architecture,cyber_security,concepts
+2264,224,CISSP,cyber_security,certifications
+2265,224,CISM,cyber_security,certifications
+2266,224,CISA,cyber_security,certifications
+2267,224,CCSP,cyber_security,certifications
+2268,224,Azure Security,cyber_security,certifications
+2269,224,HIPAA,cyber_security,frameworks
+2270,224,GDPR,cyber_security,frameworks
+2271,224,communication,general,soft_skills
+2272,224,attention to detail,general,soft_skills
+2273,224,analytical,general,soft_skills
+2274,224,organization,general,soft_skills
+2275,224,mentoring,general,soft_skills
+2276,224,CI/CD,web_dev,devops_tools
+2277,225,Foundation,web_dev,css_styling
+2278,225,SIEM,cyber_security,concepts
+2279,225,incident response,cyber_security,concepts
+2280,225,threat intelligence,cyber_security,concepts
+2281,225,SOC,cyber_security,concepts
+2282,225,firewall,cyber_security,concepts
+2283,225,compliance,cyber_security,concepts
+2284,225,audit,cyber_security,concepts
+2285,225,CEH,cyber_security,certifications
+2286,225,ISO 27001,cyber_security,certifications
+2287,225,NIST,cyber_security,frameworks
+2288,225,collaboration,general,soft_skills
+2289,225,attention to detail,general,soft_skills
+2290,225,analytical,general,soft_skills
+2291,225,mentoring,general,soft_skills
+2292,225,decision making,general,soft_skills
+2293,225,agile,general,soft_skills
+2294,226,Foundation,web_dev,css_styling
+2295,226,SIEM,cyber_security,concepts
+2296,226,incident response,cyber_security,concepts
+2297,226,threat intelligence,cyber_security,concepts
+2298,226,SOC,cyber_security,concepts
+2299,226,firewall,cyber_security,concepts
+2300,226,compliance,cyber_security,concepts
+2301,226,audit,cyber_security,concepts
+2302,226,CEH,cyber_security,certifications
+2303,226,ISO 27001,cyber_security,certifications
+2304,226,NIST,cyber_security,frameworks
+2305,226,collaboration,general,soft_skills
+2306,226,attention to detail,general,soft_skills
+2307,226,analytical,general,soft_skills
+2308,226,mentoring,general,soft_skills
+2309,226,decision making,general,soft_skills
+2310,226,agile,general,soft_skills
+2311,227,Python,web_dev,languages
+2312,227,penetration testing,cyber_security,concepts
+2313,227,SIEM,cyber_security,concepts
+2314,227,incident response,cyber_security,concepts
+2315,227,SOC,cyber_security,concepts
+2316,227,network security,cyber_security,concepts
+2317,227,compliance,cyber_security,concepts
+2318,227,Splunk,cyber_security,tools
+2319,227,CISSP,cyber_security,certifications
+2320,227,CEH,cyber_security,certifications
+2321,227,ISO 27001,cyber_security,certifications
+2322,227,NIST,cyber_security,frameworks
+2323,227,GDPR,cyber_security,frameworks
+2324,227,communication,general,soft_skills
+2325,227,teamwork,general,soft_skills
+2326,227,attention to detail,general,soft_skills
+2327,227,analytical,general,soft_skills
+2328,228,Python,web_dev,languages
+2329,228,penetration testing,cyber_security,concepts
+2330,228,SIEM,cyber_security,concepts
+2331,228,incident response,cyber_security,concepts
+2332,228,SOC,cyber_security,concepts
+2333,228,network security,cyber_security,concepts
+2334,228,compliance,cyber_security,concepts
+2335,228,Splunk,cyber_security,tools
+2336,228,CISSP,cyber_security,certifications
+2337,228,CEH,cyber_security,certifications
+2338,228,ISO 27001,cyber_security,certifications
+2339,228,NIST,cyber_security,frameworks
+2340,228,GDPR,cyber_security,frameworks
+2341,228,communication,general,soft_skills
+2342,228,teamwork,general,soft_skills
+2343,228,attention to detail,general,soft_skills
+2344,228,analytical,general,soft_skills
+2345,229,Python,web_dev,languages
+2346,229,penetration testing,cyber_security,concepts
+2347,229,SIEM,cyber_security,concepts
+2348,229,incident response,cyber_security,concepts
+2349,229,SOC,cyber_security,concepts
+2350,229,network security,cyber_security,concepts
+2351,229,compliance,cyber_security,concepts
+2352,229,Splunk,cyber_security,tools
+2353,229,CISSP,cyber_security,certifications
+2354,229,CEH,cyber_security,certifications
+2355,229,ISO 27001,cyber_security,certifications
+2356,229,NIST,cyber_security,frameworks
+2357,229,GDPR,cyber_security,frameworks
+2358,229,communication,general,soft_skills
+2359,229,teamwork,general,soft_skills
+2360,229,attention to detail,general,soft_skills
+2361,229,analytical,general,soft_skills
+2362,230,Python,web_dev,languages
+2363,230,penetration testing,cyber_security,concepts
+2364,230,SIEM,cyber_security,concepts
+2365,230,incident response,cyber_security,concepts
+2366,230,SOC,cyber_security,concepts
+2367,230,network security,cyber_security,concepts
+2368,230,compliance,cyber_security,concepts
+2369,230,Splunk,cyber_security,tools
+2370,230,CISSP,cyber_security,certifications
+2371,230,CEH,cyber_security,certifications
+2372,230,ISO 27001,cyber_security,certifications
+2373,230,NIST,cyber_security,frameworks
+2374,230,GDPR,cyber_security,frameworks
+2375,230,communication,general,soft_skills
+2376,230,teamwork,general,soft_skills
+2377,230,attention to detail,general,soft_skills
+2378,230,analytical,general,soft_skills
+2379,231,penetration testing,cyber_security,concepts
+2380,231,application security,cyber_security,concepts
+2381,231,CEH,cyber_security,certifications
+2382,231,OSCP,cyber_security,certifications
+2383,231,attention to detail,general,soft_skills
+2384,231,organization,general,soft_skills
+2385,232,cloud security,cyber_security,concepts
+2386,232,compliance,cyber_security,concepts
+2387,232,zero trust,cyber_security,concepts
+2388,232,ISO 27001,cyber_security,certifications
+2389,232,NIST,cyber_security,frameworks
+2390,232,communication,general,soft_skills
+2391,232,leadership,general,soft_skills
+2392,232,attention to detail,general,soft_skills
+2393,232,organization,general,soft_skills
+2394,232,proactive,general,soft_skills
+2395,232,agile,general,soft_skills
+2396,232,project management,general,soft_skills
+2397,233,Python,web_dev,languages
+2398,233,SQL,data_science,languages
+2399,233,Foundation,web_dev,css_styling
+2400,233,SIEM,cyber_security,concepts
+2401,233,incident response,cyber_security,concepts
+2402,233,SOC,cyber_security,concepts
+2403,233,firewall,cyber_security,concepts
+2404,233,network security,cyber_security,concepts
+2405,233,Wireshark,cyber_security,tools
+2406,233,CISSP,cyber_security,certifications
+2407,233,communication,general,soft_skills
+2408,233,leadership,general,soft_skills
+2409,233,interpersonal,general,soft_skills
+2410,233,proactive,general,soft_skills
+2411,234,Python,web_dev,languages
+2412,234,SQL,data_science,languages
+2413,234,Foundation,web_dev,css_styling
+2414,234,SIEM,cyber_security,concepts
+2415,234,incident response,cyber_security,concepts
+2416,234,SOC,cyber_security,concepts
+2417,234,firewall,cyber_security,concepts
+2418,234,network security,cyber_security,concepts
+2419,234,Wireshark,cyber_security,tools
+2420,234,CISSP,cyber_security,certifications
+2421,234,communication,general,soft_skills
+2422,234,leadership,general,soft_skills
+2423,234,interpersonal,general,soft_skills
+2424,234,proactive,general,soft_skills
+2425,235,Python,web_dev,languages
+2426,235,SQL,data_science,languages
+2427,235,Foundation,web_dev,css_styling
+2428,235,SIEM,cyber_security,concepts
+2429,235,incident response,cyber_security,concepts
+2430,235,SOC,cyber_security,concepts
+2431,235,firewall,cyber_security,concepts
+2432,235,network security,cyber_security,concepts
+2433,235,Wireshark,cyber_security,tools
+2434,235,CISSP,cyber_security,certifications
+2435,235,communication,general,soft_skills
+2436,235,leadership,general,soft_skills
+2437,235,interpersonal,general,soft_skills
+2438,235,proactive,general,soft_skills
+2439,236,Fiber,web_dev,backend_frameworks
+2440,236,threat intelligence,cyber_security,concepts
+2441,236,SOC,cyber_security,concepts
+2442,236,application security,cyber_security,concepts
+2443,236,cloud security,cyber_security,concepts
+2444,236,compliance,cyber_security,concepts
+2445,236,communication,general,soft_skills
+2446,236,organization,general,soft_skills
+2447,236,proactive,general,soft_skills
+2448,236,agile,general,soft_skills
+2449,237,penetration testing,cyber_security,concepts
+2450,237,application security,cyber_security,concepts
+2451,237,CEH,cyber_security,certifications
+2452,237,OSCP,cyber_security,certifications
+2453,237,attention to detail,general,soft_skills
+2454,237,organization,general,soft_skills
+2455,238,penetration testing,cyber_security,concepts
+2456,238,application security,cyber_security,concepts
+2457,238,CEH,cyber_security,certifications
+2458,238,OSCP,cyber_security,certifications
+2459,238,attention to detail,general,soft_skills
+2460,239,penetration testing,cyber_security,concepts
+2461,239,application security,cyber_security,concepts
+2462,239,CEH,cyber_security,certifications
+2463,239,OSCP,cyber_security,certifications
+2464,239,attention to detail,general,soft_skills
+2465,240,penetration testing,cyber_security,concepts
+2466,240,application security,cyber_security,concepts
+2467,240,CEH,cyber_security,certifications
+2468,240,OSCP,cyber_security,certifications
+2469,240,attention to detail,general,soft_skills
+2470,241,penetration testing,cyber_security,concepts
+2471,241,application security,cyber_security,concepts
+2472,241,CEH,cyber_security,certifications
+2473,241,OSCP,cyber_security,certifications
+2474,241,attention to detail,general,soft_skills
+2475,241,organization,general,soft_skills
+2476,242,Swift,web_dev,mobile
+2477,242,Angular,web_dev,frontend_frameworks
+2478,242,incident response,cyber_security,concepts
+2479,242,threat intelligence,cyber_security,concepts
+2480,242,compliance,cyber_security,concepts
+2481,242,leadership,general,soft_skills
+2482,242,analytical,general,soft_skills
+2483,242,organization,general,soft_skills
+2484,242,proactive,general,soft_skills
+2485,242,CI/CD,web_dev,devops_tools
+2486,243,AWS,web_dev,devops_tools
+2487,243,Azure,web_dev,devops_tools
+2488,243,GCP,web_dev,devops_tools
+2489,243,penetration testing,cyber_security,concepts
+2490,243,incident response,cyber_security,concepts
+2491,243,cloud security,cyber_security,concepts
+2492,243,compliance,cyber_security,concepts
+2493,243,audit,cyber_security,concepts
+2494,243,security architecture,cyber_security,concepts
+2495,243,CEH,cyber_security,certifications
+2496,243,ISO 27001,cyber_security,certifications
+2497,243,CISM,cyber_security,certifications
+2498,243,CISA,cyber_security,certifications
+2499,243,NIST,cyber_security,frameworks
+2500,243,communication,general,soft_skills
+2501,243,leadership,general,soft_skills
+2502,243,analytical,general,soft_skills
+2503,243,proactive,general,soft_skills
+2504,244,penetration testing,cyber_security,concepts
+2505,244,vulnerability assessment,cyber_security,concepts
+2506,244,incident response,cyber_security,concepts
+2507,244,risk assessment,cyber_security,concepts
+2508,244,compliance,cyber_security,concepts
+2509,244,audit,cyber_security,concepts
+2510,244,forensics,cyber_security,concepts
+2511,244,red team,cyber_security,concepts
+2512,244,CISSP,cyber_security,certifications
+2513,244,CEH,cyber_security,certifications
+2514,244,CISM,cyber_security,certifications
+2515,244,leadership,general,soft_skills
+2516,244,project management,general,soft_skills
+2517,245,Python,web_dev,languages
+2518,245,SQL,data_science,languages
+2519,245,machine learning,data_science,concepts
+2520,245,vulnerability assessment,cyber_security,concepts
+2521,245,audit,cyber_security,concepts
+2522,245,communication,general,soft_skills
+2523,245,leadership,general,soft_skills
+2524,245,collaboration,general,soft_skills
+2525,245,analytical,general,soft_skills
+2526,245,interpersonal,general,soft_skills
+2527,245,organization,general,soft_skills
+2528,245,proactive,general,soft_skills
+2529,246,compliance,cyber_security,concepts
+2530,246,presentation,general,soft_skills
+2531,246,decision making,general,soft_skills
+2532,248,risk assessment,cyber_security,concepts
+2533,248,compliance,cyber_security,concepts
+2534,248,organization,general,soft_skills
+2535,251,compliance,cyber_security,concepts
+2536,251,audit,cyber_security,concepts
+2537,252,compliance,cyber_security,concepts
+2538,252,organization,general,soft_skills
+2539,253,organization,general,soft_skills
+2540,257,compliance,cyber_security,concepts
+2541,257,communication,general,soft_skills
+2542,257,presentation,general,soft_skills
+2543,257,analytical,general,soft_skills
+2544,257,stakeholder management,general,soft_skills
+2545,268,Python,web_dev,languages
+2546,268,SQL,data_science,languages
+2547,268,Foundation,web_dev,css_styling
+2548,268,SIEM,cyber_security,concepts
+2549,268,incident response,cyber_security,concepts
+2550,268,SOC,cyber_security,concepts
+2551,268,firewall,cyber_security,concepts
+2552,268,network security,cyber_security,concepts
+2553,268,Wireshark,cyber_security,tools
+2554,268,CISSP,cyber_security,certifications
+2555,268,communication,general,soft_skills
+2556,268,leadership,general,soft_skills
+2557,268,interpersonal,general,soft_skills
+2558,268,proactive,general,soft_skills
+2559,269,Python,web_dev,languages
+2560,269,SQL,data_science,languages
+2561,269,Foundation,web_dev,css_styling
+2562,269,SIEM,cyber_security,concepts
+2563,269,incident response,cyber_security,concepts
+2564,269,SOC,cyber_security,concepts
+2565,269,firewall,cyber_security,concepts
+2566,269,network security,cyber_security,concepts
+2567,269,Wireshark,cyber_security,tools
+2568,269,CISSP,cyber_security,certifications
+2569,269,communication,general,soft_skills
+2570,269,leadership,general,soft_skills
+2571,269,interpersonal,general,soft_skills
+2572,269,proactive,general,soft_skills
+2573,270,SOC,cyber_security,concepts
+2574,270,CISSP,cyber_security,certifications
+2575,271,Python,web_dev,languages
+2576,271,SQL,data_science,languages
+2577,271,Foundation,web_dev,css_styling
+2578,271,SIEM,cyber_security,concepts
+2579,271,incident response,cyber_security,concepts
+2580,271,SOC,cyber_security,concepts
+2581,271,firewall,cyber_security,concepts
+2582,271,network security,cyber_security,concepts
+2583,271,Wireshark,cyber_security,tools
+2584,271,CISSP,cyber_security,certifications
+2585,271,communication,general,soft_skills
+2586,271,leadership,general,soft_skills
+2587,271,interpersonal,general,soft_skills
+2588,271,proactive,general,soft_skills
+2589,272,Python,web_dev,languages
+2590,272,SQL,data_science,languages
+2591,272,Foundation,web_dev,css_styling
+2592,272,SIEM,cyber_security,concepts
+2593,272,incident response,cyber_security,concepts
+2594,272,SOC,cyber_security,concepts
+2595,272,firewall,cyber_security,concepts
+2596,272,network security,cyber_security,concepts
+2597,272,Wireshark,cyber_security,tools
+2598,272,CISSP,cyber_security,certifications
+2599,272,communication,general,soft_skills
+2600,272,leadership,general,soft_skills
+2601,272,interpersonal,general,soft_skills
+2602,272,proactive,general,soft_skills
+2603,273,compliance,cyber_security,concepts
+2604,273,leadership,general,soft_skills
+2605,273,collaboration,general,soft_skills
+2606,273,analytical,general,soft_skills
+2607,273,self-motivated,general,soft_skills
+2608,274,compliance,cyber_security,concepts
+2609,274,leadership,general,soft_skills
+2610,274,collaboration,general,soft_skills
+2611,274,analytical,general,soft_skills
+2612,274,self-motivated,general,soft_skills
+2613,275,compliance,cyber_security,concepts
+2614,275,leadership,general,soft_skills
+2615,275,collaboration,general,soft_skills
+2616,275,analytical,general,soft_skills
+2617,275,self-motivated,general,soft_skills
+2618,276,compliance,cyber_security,concepts
+2619,276,leadership,general,soft_skills
+2620,276,collaboration,general,soft_skills
+2621,276,analytical,general,soft_skills
+2622,276,self-motivated,general,soft_skills
+2623,277,compliance,cyber_security,concepts
+2624,277,leadership,general,soft_skills
+2625,277,collaboration,general,soft_skills
+2626,277,analytical,general,soft_skills
+2627,277,self-motivated,general,soft_skills
+2628,278,compliance,cyber_security,concepts
+2629,278,leadership,general,soft_skills
+2630,278,collaboration,general,soft_skills
+2631,278,analytical,general,soft_skills
+2632,278,self-motivated,general,soft_skills
+2633,279,SIEM,cyber_security,concepts
+2634,279,incident response,cyber_security,concepts
+2635,279,SOC,cyber_security,concepts
+2636,279,cloud security,cyber_security,concepts
+2637,279,access control,cyber_security,concepts
+2638,279,compliance,cyber_security,concepts
+2639,279,audit,cyber_security,concepts
+2640,279,CEH,cyber_security,certifications
+2641,279,CISM,cyber_security,certifications
+2642,279,CISA,cyber_security,certifications
+2643,279,CIS Controls,cyber_security,frameworks
+2644,279,PCI DSS,cyber_security,frameworks
+2645,279,communication,general,soft_skills
+2646,279,leadership,general,soft_skills
+2647,279,collaboration,general,soft_skills
+2648,279,attention to detail,general,soft_skills
+2649,279,analytical,general,soft_skills
+2650,279,interpersonal,general,soft_skills
+2651,279,organization,general,soft_skills
+2652,279,project management,general,soft_skills
+2653,280,SIEM,cyber_security,concepts
+2654,280,incident response,cyber_security,concepts
+2655,280,encryption,cyber_security,concepts
+2656,280,IPS,cyber_security,concepts
+2657,280,network security,cyber_security,concepts
+2658,280,access control,cyber_security,concepts
+2659,280,IAM,cyber_security,concepts
+2660,280,compliance,cyber_security,concepts
+2661,280,audit,cyber_security,concepts
+2662,280,CISSP,cyber_security,certifications
+2663,280,CEH,cyber_security,certifications
+2664,280,OSCP,cyber_security,certifications
+2665,280,ISO 27001,cyber_security,certifications
+2666,280,NIST,cyber_security,frameworks
+2667,280,communication,general,soft_skills
+2668,280,leadership,general,soft_skills
+2669,280,analytical,general,soft_skills
+2670,280,organization,general,soft_skills
+2671,281,SIEM,cyber_security,concepts
+2672,281,incident response,cyber_security,concepts
+2673,281,encryption,cyber_security,concepts
+2674,281,IPS,cyber_security,concepts
+2675,281,network security,cyber_security,concepts
+2676,281,access control,cyber_security,concepts
+2677,281,IAM,cyber_security,concepts
+2678,281,compliance,cyber_security,concepts
+2679,281,audit,cyber_security,concepts
+2680,281,CISSP,cyber_security,certifications
+2681,281,CEH,cyber_security,certifications
+2682,281,OSCP,cyber_security,certifications
+2683,281,ISO 27001,cyber_security,certifications
+2684,281,NIST,cyber_security,frameworks
+2685,281,communication,general,soft_skills
+2686,281,leadership,general,soft_skills
+2687,281,analytical,general,soft_skills
+2688,281,organization,general,soft_skills
+2689,282,Python,web_dev,languages
+2690,282,penetration testing,cyber_security,concepts
+2691,282,SIEM,cyber_security,concepts
+2692,282,incident response,cyber_security,concepts
+2693,282,network security,cyber_security,concepts
+2694,282,access control,cyber_security,concepts
+2695,282,IAM,cyber_security,concepts
+2696,282,Burp Suite,cyber_security,tools
+2697,282,Splunk,cyber_security,tools
+2698,282,Rapid7,cyber_security,tools
+2699,282,CEH,cyber_security,certifications
+2700,282,ISO 27001,cyber_security,certifications
+2701,282,GIAC,cyber_security,certifications
+2702,282,GSEC,cyber_security,certifications
+2703,282,NIST,cyber_security,frameworks
+2704,282,CIS Controls,cyber_security,frameworks
+2705,282,communication,general,soft_skills
+2706,282,collaboration,general,soft_skills
+2707,282,organization,general,soft_skills
+2708,283,Python,web_dev,languages
+2709,283,penetration testing,cyber_security,concepts
+2710,283,SIEM,cyber_security,concepts
+2711,283,incident response,cyber_security,concepts
+2712,283,network security,cyber_security,concepts
+2713,283,access control,cyber_security,concepts
+2714,283,IAM,cyber_security,concepts
+2715,283,Burp Suite,cyber_security,tools
+2716,283,Splunk,cyber_security,tools
+2717,283,Rapid7,cyber_security,tools
+2718,283,CEH,cyber_security,certifications
+2719,283,ISO 27001,cyber_security,certifications
+2720,283,GIAC,cyber_security,certifications
+2721,283,GSEC,cyber_security,certifications
+2722,283,NIST,cyber_security,frameworks
+2723,283,CIS Controls,cyber_security,frameworks
+2724,283,communication,general,soft_skills
+2725,283,collaboration,general,soft_skills
+2726,283,organization,general,soft_skills
+2727,284,Python,web_dev,languages
+2728,284,penetration testing,cyber_security,concepts
+2729,284,SIEM,cyber_security,concepts
+2730,284,incident response,cyber_security,concepts
+2731,284,network security,cyber_security,concepts
+2732,284,access control,cyber_security,concepts
+2733,284,IAM,cyber_security,concepts
+2734,284,Burp Suite,cyber_security,tools
+2735,284,Splunk,cyber_security,tools
+2736,284,Rapid7,cyber_security,tools
+2737,284,CEH,cyber_security,certifications
+2738,284,ISO 27001,cyber_security,certifications
+2739,284,GIAC,cyber_security,certifications
+2740,284,GSEC,cyber_security,certifications
+2741,284,NIST,cyber_security,frameworks
+2742,284,CIS Controls,cyber_security,frameworks
+2743,284,communication,general,soft_skills
+2744,284,collaboration,general,soft_skills
+2745,284,organization,general,soft_skills
+2746,285,Python,web_dev,languages
+2747,285,penetration testing,cyber_security,concepts
+2748,285,SIEM,cyber_security,concepts
+2749,285,incident response,cyber_security,concepts
+2750,285,network security,cyber_security,concepts
+2751,285,access control,cyber_security,concepts
+2752,285,IAM,cyber_security,concepts
+2753,285,Burp Suite,cyber_security,tools
+2754,285,Splunk,cyber_security,tools
+2755,285,Rapid7,cyber_security,tools
+2756,285,CEH,cyber_security,certifications
+2757,285,ISO 27001,cyber_security,certifications
+2758,285,GIAC,cyber_security,certifications
+2759,285,GSEC,cyber_security,certifications
+2760,285,NIST,cyber_security,frameworks
+2761,285,CIS Controls,cyber_security,frameworks
+2762,285,communication,general,soft_skills
+2763,285,collaboration,general,soft_skills
+2764,285,organization,general,soft_skills
+2765,286,Python,web_dev,languages
+2766,286,penetration testing,cyber_security,concepts
+2767,286,SIEM,cyber_security,concepts
+2768,286,incident response,cyber_security,concepts
+2769,286,network security,cyber_security,concepts
+2770,286,access control,cyber_security,concepts
+2771,286,IAM,cyber_security,concepts
+2772,286,Burp Suite,cyber_security,tools
+2773,286,Splunk,cyber_security,tools
+2774,286,Rapid7,cyber_security,tools
+2775,286,CEH,cyber_security,certifications
+2776,286,ISO 27001,cyber_security,certifications
+2777,286,GIAC,cyber_security,certifications
+2778,286,GSEC,cyber_security,certifications
+2779,286,NIST,cyber_security,frameworks
+2780,286,CIS Controls,cyber_security,frameworks
+2781,286,communication,general,soft_skills
+2782,286,collaboration,general,soft_skills
+2783,286,organization,general,soft_skills
+2784,287,Swift,web_dev,mobile
+2785,287,AWS,web_dev,devops_tools
+2786,287,Azure,web_dev,devops_tools
+2787,287,penetration testing,cyber_security,concepts
+2788,287,SIEM,cyber_security,concepts
+2789,287,incident response,cyber_security,concepts
+2790,287,threat intelligence,cyber_security,concepts
+2791,287,encryption,cyber_security,concepts
+2792,287,firewall,cyber_security,concepts
+2793,287,cloud security,cyber_security,concepts
+2794,287,IAM,cyber_security,concepts
+2795,287,risk assessment,cyber_security,concepts
+2796,287,compliance,cyber_security,concepts
+2797,287,CISSP,cyber_security,certifications
+2798,287,CEH,cyber_security,certifications
+2799,287,ISO 27001,cyber_security,certifications
+2800,287,CISM,cyber_security,certifications
+2801,287,CISA,cyber_security,certifications
+2802,287,CCSP,cyber_security,certifications
+2803,287,CRISC,cyber_security,certifications
+2804,287,PCI DSS,cyber_security,frameworks
+2805,287,HIPAA,cyber_security,frameworks
+2806,287,GDPR,cyber_security,frameworks
+2807,287,communication,general,soft_skills
+2808,287,teamwork,general,soft_skills
+2809,287,leadership,general,soft_skills
+2810,287,collaboration,general,soft_skills
+2811,287,organization,general,soft_skills
+2812,288,AWS,web_dev,devops_tools
+2813,288,Azure,web_dev,devops_tools
+2814,288,penetration testing,cyber_security,concepts
+2815,288,SIEM,cyber_security,concepts
+2816,288,incident response,cyber_security,concepts
+2817,288,threat intelligence,cyber_security,concepts
+2818,288,SOC,cyber_security,concepts
+2819,288,encryption,cyber_security,concepts
+2820,288,firewall,cyber_security,concepts
+2821,288,network security,cyber_security,concepts
+2822,288,cloud security,cyber_security,concepts
+2823,288,IAM,cyber_security,concepts
+2824,288,compliance,cyber_security,concepts
+2825,288,red team,cyber_security,concepts
+2826,288,security architecture,cyber_security,concepts
+2827,288,CISSP,cyber_security,certifications
+2828,288,CEH,cyber_security,certifications
+2829,288,ISO 27001,cyber_security,certifications
+2830,288,CISM,cyber_security,certifications
+2831,288,CISA,cyber_security,certifications
+2832,288,CCSP,cyber_security,certifications
+2833,288,CRISC,cyber_security,certifications
+2834,288,PCI DSS,cyber_security,frameworks
+2835,288,HIPAA,cyber_security,frameworks
+2836,288,GDPR,cyber_security,frameworks
+2837,288,communication,general,soft_skills
+2838,288,leadership,general,soft_skills
+2839,288,problem solving,general,soft_skills
+2840,288,proactive,general,soft_skills
+2841,289,AWS,web_dev,devops_tools
+2842,289,Azure,web_dev,devops_tools
+2843,289,penetration testing,cyber_security,concepts
+2844,289,SIEM,cyber_security,concepts
+2845,289,incident response,cyber_security,concepts
+2846,289,threat intelligence,cyber_security,concepts
+2847,289,encryption,cyber_security,concepts
+2848,289,network security,cyber_security,concepts
+2849,289,cloud security,cyber_security,concepts
+2850,289,IAM,cyber_security,concepts
+2851,289,compliance,cyber_security,concepts
+2852,289,audit,cyber_security,concepts
+2853,289,security architecture,cyber_security,concepts
+2854,289,ISO 27001,cyber_security,certifications
+2855,289,PCI DSS,cyber_security,frameworks
+2856,289,HIPAA,cyber_security,frameworks
+2857,289,GDPR,cyber_security,frameworks
+2858,289,communication,general,soft_skills
+2859,289,leadership,general,soft_skills
+2860,289,organization,general,soft_skills
+2861,289,stakeholder management,general,soft_skills
+2862,290,SIEM,cyber_security,concepts
+2863,290,incident response,cyber_security,concepts
+2864,290,encryption,cyber_security,concepts
+2865,290,IPS,cyber_security,concepts
+2866,290,network security,cyber_security,concepts
+2867,290,access control,cyber_security,concepts
+2868,290,IAM,cyber_security,concepts
+2869,290,compliance,cyber_security,concepts
+2870,290,audit,cyber_security,concepts
+2871,290,CISSP,cyber_security,certifications
+2872,290,CEH,cyber_security,certifications
+2873,290,OSCP,cyber_security,certifications
+2874,290,ISO 27001,cyber_security,certifications
+2875,290,NIST,cyber_security,frameworks
+2876,290,communication,general,soft_skills
+2877,290,leadership,general,soft_skills
+2878,290,analytical,general,soft_skills
+2879,290,organization,general,soft_skills
+2880,291,SIEM,cyber_security,concepts
+2881,291,incident response,cyber_security,concepts
+2882,291,encryption,cyber_security,concepts
+2883,291,IPS,cyber_security,concepts
+2884,291,network security,cyber_security,concepts
+2885,291,access control,cyber_security,concepts
+2886,291,IAM,cyber_security,concepts
+2887,291,compliance,cyber_security,concepts
+2888,291,audit,cyber_security,concepts
+2889,291,CISSP,cyber_security,certifications
+2890,291,CEH,cyber_security,certifications
+2891,291,OSCP,cyber_security,certifications
+2892,291,ISO 27001,cyber_security,certifications
+2893,291,NIST,cyber_security,frameworks
+2894,291,communication,general,soft_skills
+2895,291,leadership,general,soft_skills
+2896,291,analytical,general,soft_skills
+2897,291,organization,general,soft_skills
+2898,292,SIEM,cyber_security,concepts
+2899,292,incident response,cyber_security,concepts
+2900,292,encryption,cyber_security,concepts
+2901,292,IPS,cyber_security,concepts
+2902,292,network security,cyber_security,concepts
+2903,292,access control,cyber_security,concepts
+2904,292,IAM,cyber_security,concepts
+2905,292,compliance,cyber_security,concepts
+2906,292,audit,cyber_security,concepts
+2907,292,CISSP,cyber_security,certifications
+2908,292,CEH,cyber_security,certifications
+2909,292,OSCP,cyber_security,certifications
+2910,292,ISO 27001,cyber_security,certifications
+2911,292,NIST,cyber_security,frameworks
+2912,292,communication,general,soft_skills
+2913,292,leadership,general,soft_skills
+2914,292,analytical,general,soft_skills
+2915,292,organization,general,soft_skills
+2916,293,incident response,cyber_security,concepts
+2917,293,IPS,cyber_security,concepts
+2918,293,compliance,cyber_security,concepts
+2919,293,CEH,cyber_security,certifications
+2920,293,CISA,cyber_security,certifications
+2921,293,PCI DSS,cyber_security,frameworks
+2922,293,communication,general,soft_skills
+2923,293,teamwork,general,soft_skills
+2924,293,attention to detail,general,soft_skills
+2925,293,analytical,general,soft_skills
+2926,293,organization,general,soft_skills
+2927,294,Less,web_dev,css_styling
+2928,294,compliance,cyber_security,concepts
+2929,294,audit,cyber_security,concepts
+2930,294,leadership,general,soft_skills
+2931,294,collaboration,general,soft_skills
+2932,294,proactive,general,soft_skills
+2933,294,negotiation,general,soft_skills
+2934,295,incident response,cyber_security,concepts
+2935,295,threat intelligence,cyber_security,concepts
+2936,295,network security,cyber_security,concepts
+2937,295,compliance,cyber_security,concepts
+2938,295,CISSP,cyber_security,certifications
+2939,295,CEH,cyber_security,certifications
+2940,295,OSCP,cyber_security,certifications
+2941,295,communication,general,soft_skills
+2942,295,collaboration,general,soft_skills
+2943,295,presentation,general,soft_skills
+2944,295,analytical,general,soft_skills
+2945,295,organization,general,soft_skills
+2946,296,Go,web_dev,languages
+2947,296,compliance,cyber_security,concepts
+2948,296,audit,cyber_security,concepts
+2949,297,Go,web_dev,languages
+2950,297,Less,web_dev,css_styling
+2951,297,network security,cyber_security,concepts
+2952,297,CISSP,cyber_security,certifications
+2953,297,CISA,cyber_security,certifications
+2954,297,communication,general,soft_skills
+2955,297,project management,general,soft_skills
+2956,301,communication,general,soft_skills
+2957,301,attention to detail,general,soft_skills
+2958,301,analytical,general,soft_skills
+2959,303,classification,data_science,concepts
+2960,303,communication,general,soft_skills
+2961,303,interpersonal,general,soft_skills
+2962,303,organization,general,soft_skills
+2963,303,mentoring,general,soft_skills
+2964,304,Azure,web_dev,devops_tools
+2965,304,incident response,cyber_security,concepts
+2966,304,encryption,cyber_security,concepts
+2967,304,network security,cyber_security,concepts
+2968,304,application security,cyber_security,concepts
+2969,304,cloud security,cyber_security,concepts
+2970,304,identity management,cyber_security,concepts
+2971,304,access control,cyber_security,concepts
+2972,304,compliance,cyber_security,concepts
+2973,304,security architecture,cyber_security,concepts
+2974,304,CISSP,cyber_security,certifications
+2975,304,CEH,cyber_security,certifications
+2976,304,ISO 27001,cyber_security,certifications
+2977,304,CISA,cyber_security,certifications
+2978,304,GIAC,cyber_security,certifications
+2979,304,communication,general,soft_skills
+2980,304,leadership,general,soft_skills
+2981,304,collaboration,general,soft_skills
+2982,304,analytical,general,soft_skills
+2983,304,interpersonal,general,soft_skills
+2984,304,organization,general,soft_skills
+2985,304,negotiation,general,soft_skills
+2986,305,communication,general,soft_skills
+2987,305,interpersonal,general,soft_skills
+2988,305,agile,general,soft_skills
+2989,306,incident response,cyber_security,concepts
+2990,306,firewall,cyber_security,concepts
+2991,306,collaboration,general,soft_skills
+2992,306,organization,general,soft_skills
+2993,307,communication,general,soft_skills
+2994,308,communication,general,soft_skills
+2995,309,Azure,web_dev,devops_tools
+2996,309,IPS,cyber_security,concepts
+2997,309,network security,cyber_security,concepts
+2998,309,communication,general,soft_skills
+2999,310,Azure,web_dev,devops_tools
+3000,310,IPS,cyber_security,concepts
+3001,310,network security,cyber_security,concepts
+3002,310,communication,general,soft_skills
+3003,311,communication,general,soft_skills
+3004,311,leadership,general,soft_skills
+3005,311,organization,general,soft_skills
+3006,312,communication,general,soft_skills
+3007,312,organization,general,soft_skills
+3008,313,compliance,cyber_security,concepts
+3009,313,audit,cyber_security,concepts
+3010,313,communication,general,soft_skills
+3011,313,leadership,general,soft_skills
+3012,313,collaboration,general,soft_skills
+3013,313,time management,general,soft_skills
+3014,313,analytical,general,soft_skills
+3015,313,interpersonal,general,soft_skills
+3016,314,Python,web_dev,languages
+3017,314,Go,web_dev,languages
+3018,314,penetration testing,cyber_security,concepts
+3019,314,encryption,cyber_security,concepts
+3020,314,reverse engineering,cyber_security,concepts
+3021,314,forensics,cyber_security,concepts
+3022,314,security architecture,cyber_security,concepts
+3023,314,communication,general,soft_skills
+3024,314,leadership,general,soft_skills
+3025,314,collaboration,general,soft_skills
+3026,314,analytical,general,soft_skills
+3027,314,organization,general,soft_skills
+3028,314,proactive,general,soft_skills
+3029,315,incident response,cyber_security,concepts
+3030,315,access control,cyber_security,concepts
+3031,315,compliance,cyber_security,concepts
+3032,315,audit,cyber_security,concepts
+3033,315,collaboration,general,soft_skills
+3034,316,incident response,cyber_security,concepts
+3035,316,risk assessment,cyber_security,concepts
+3036,316,compliance,cyber_security,concepts
+3037,316,communication,general,soft_skills
+3038,316,leadership,general,soft_skills
+3039,316,collaboration,general,soft_skills
+3040,316,analytical,general,soft_skills
+3041,316,interpersonal,general,soft_skills
+3042,316,organization,general,soft_skills
+3043,316,proactive,general,soft_skills
+3044,316,negotiation,general,soft_skills
+3045,317,network security,cyber_security,concepts
+3046,317,analytical,general,soft_skills
+3047,317,proactive,general,soft_skills
+3048,317,self-motivated,general,soft_skills
+3049,318,SOC,cyber_security,concepts
+3050,318,firewall,cyber_security,concepts
+3051,318,IAM,cyber_security,concepts
+3052,318,compliance,cyber_security,concepts
+3053,318,communication,general,soft_skills
+3054,318,teamwork,general,soft_skills
+3055,318,collaboration,general,soft_skills
+3056,318,analytical,general,soft_skills
+3057,318,interpersonal,general,soft_skills
+3058,318,organization,general,soft_skills
+3059,318,proactive,general,soft_skills
+3060,319,classification,data_science,concepts
+3061,319,data lake,data_science,concepts
+3062,319,AWS,web_dev,devops_tools
+3063,319,Azure,web_dev,devops_tools
+3064,319,GCP,web_dev,devops_tools
+3065,319,REST,web_dev,api_tools
+3066,319,incident response,cyber_security,concepts
+3067,319,encryption,cyber_security,concepts
+3068,319,firewall,cyber_security,concepts
+3069,319,IPS,cyber_security,concepts
+3070,319,compliance,cyber_security,concepts
+3071,319,zero trust,cyber_security,concepts
+3072,319,Azure Security,cyber_security,certifications
+3073,319,NIST,cyber_security,frameworks
+3074,319,communication,general,soft_skills
+3075,319,problem solving,general,soft_skills
+3076,319,presentation,general,soft_skills
+3077,319,analytical,general,soft_skills
+3078,319,interpersonal,general,soft_skills
+3079,319,self-motivated,general,soft_skills
+3080,319,negotiation,general,soft_skills
+3081,319,agile,general,soft_skills
+3082,320,SOC,cyber_security,concepts
+3083,320,firewall,cyber_security,concepts
+3084,320,IAM,cyber_security,concepts
+3085,320,compliance,cyber_security,concepts
+3086,320,communication,general,soft_skills
+3087,320,teamwork,general,soft_skills
+3088,320,collaboration,general,soft_skills
+3089,320,analytical,general,soft_skills
+3090,320,interpersonal,general,soft_skills
+3091,320,organization,general,soft_skills
+3092,320,proactive,general,soft_skills
+3093,321,Docker,web_dev,devops_tools
+3094,321,Kubernetes,web_dev,devops_tools
+3095,321,AWS,web_dev,devops_tools
+3096,321,Azure,web_dev,devops_tools
+3097,321,GCP,web_dev,devops_tools
+3098,321,encryption,cyber_security,concepts
+3099,321,network security,cyber_security,concepts
+3100,321,application security,cyber_security,concepts
+3101,321,cloud security,cyber_security,concepts
+3102,321,identity management,cyber_security,concepts
+3103,321,access control,cyber_security,concepts
+3104,321,IAM,cyber_security,concepts
+3105,321,compliance,cyber_security,concepts
+3106,321,OWASP,cyber_security,concepts
+3107,321,security architecture,cyber_security,concepts
+3108,321,CISSP,cyber_security,certifications
+3109,321,CEH,cyber_security,certifications
+3110,321,Azure Security,cyber_security,certifications
+3111,321,NIST,cyber_security,frameworks
+3112,321,communication,general,soft_skills
+3113,321,leadership,general,soft_skills
+3114,321,collaboration,general,soft_skills
+3115,321,analytical,general,soft_skills
+3116,321,organization,general,soft_skills
+3117,321,agile,general,soft_skills
+3118,321,scrum,general,soft_skills
+3119,322,classification,data_science,concepts
+3120,322,data lake,data_science,concepts
+3121,322,AWS,web_dev,devops_tools
+3122,322,Azure,web_dev,devops_tools
+3123,322,GCP,web_dev,devops_tools
+3124,322,REST,web_dev,api_tools
+3125,322,incident response,cyber_security,concepts
+3126,322,encryption,cyber_security,concepts
+3127,322,firewall,cyber_security,concepts
+3128,322,IPS,cyber_security,concepts
+3129,322,compliance,cyber_security,concepts
+3130,322,zero trust,cyber_security,concepts
+3131,322,Azure Security,cyber_security,certifications
+3132,322,NIST,cyber_security,frameworks
+3133,322,communication,general,soft_skills
+3134,322,problem solving,general,soft_skills
+3135,322,presentation,general,soft_skills
+3136,322,analytical,general,soft_skills
+3137,322,interpersonal,general,soft_skills
+3138,322,organization,general,soft_skills
+3139,322,self-motivated,general,soft_skills
+3140,322,negotiation,general,soft_skills
+3141,322,agile,general,soft_skills
+3142,323,collaboration,general,soft_skills
+3143,323,analytical,general,soft_skills
+3144,324,Python,web_dev,languages
+3145,324,AWS,web_dev,devops_tools
+3146,324,Azure,web_dev,devops_tools
+3147,324,Terraform,web_dev,devops_tools
+3148,324,penetration testing,cyber_security,concepts
+3149,324,SIEM,cyber_security,concepts
+3150,324,incident response,cyber_security,concepts
+3151,324,network security,cyber_security,concepts
+3152,324,cloud security,cyber_security,concepts
+3153,324,IAM,cyber_security,concepts
+3154,324,compliance,cyber_security,concepts
+3155,324,audit,cyber_security,concepts
+3156,324,security architecture,cyber_security,concepts
+3157,324,Metasploit,cyber_security,tools
+3158,324,Burp Suite,cyber_security,tools
+3159,324,CISSP,cyber_security,certifications
+3160,324,CEH,cyber_security,certifications
+3161,324,ISO 27001,cyber_security,certifications
+3162,324,CISM,cyber_security,certifications
+3163,324,CISA,cyber_security,certifications
+3164,324,AWS Security,cyber_security,certifications
+3165,324,Azure Security,cyber_security,certifications
+3166,324,GDPR,cyber_security,frameworks
+3167,324,communication,general,soft_skills
+3168,324,collaboration,general,soft_skills
+3169,324,proactive,general,soft_skills
+3170,324,project management,general,soft_skills
+3171,325,compliance,cyber_security,concepts
+3172,326,penetration testing,cyber_security,concepts
+3173,326,encryption,cyber_security,concepts
+3174,326,network security,cyber_security,concepts
+3175,326,risk assessment,cyber_security,concepts
+3176,326,CEH,cyber_security,certifications
+3177,326,communication,general,soft_skills
+3178,326,interpersonal,general,soft_skills
+3179,326,project management,general,soft_skills
+3180,327,Go,web_dev,languages
+3181,327,compliance,cyber_security,concepts
+3182,327,communication,general,soft_skills
+3183,327,leadership,general,soft_skills
+3184,327,collaboration,general,soft_skills
+3185,327,analytical,general,soft_skills
+3186,327,interpersonal,general,soft_skills
+3187,327,negotiation,general,soft_skills
+3188,327,mentoring,general,soft_skills
+3189,328,incident response,cyber_security,concepts
+3190,329,SIEM,cyber_security,concepts
+3191,329,incident response,cyber_security,concepts
+3192,329,threat intelligence,cyber_security,concepts
+3193,329,SOC,cyber_security,concepts
+3194,329,compliance,cyber_security,concepts
+3195,329,CISSP,cyber_security,certifications
+3196,329,CEH,cyber_security,certifications
+3197,329,CISM,cyber_security,certifications
+3198,329,NIST,cyber_security,frameworks
+3199,329,communication,general,soft_skills
+3200,329,collaboration,general,soft_skills
+3201,329,proactive,general,soft_skills
+3202,330,SIEM,cyber_security,concepts
+3203,330,incident response,cyber_security,concepts
+3204,330,threat intelligence,cyber_security,concepts
+3205,330,SOC,cyber_security,concepts
+3206,330,compliance,cyber_security,concepts
+3207,330,CISSP,cyber_security,certifications
+3208,330,CEH,cyber_security,certifications
+3209,330,CISM,cyber_security,certifications
+3210,330,NIST,cyber_security,frameworks
+3211,330,communication,general,soft_skills
+3212,330,collaboration,general,soft_skills
+3213,330,proactive,general,soft_skills
+3214,331,SIEM,cyber_security,concepts
+3215,331,incident response,cyber_security,concepts
+3216,331,threat intelligence,cyber_security,concepts
+3217,331,SOC,cyber_security,concepts
+3218,331,compliance,cyber_security,concepts
+3219,331,CISSP,cyber_security,certifications
+3220,331,CEH,cyber_security,certifications
+3221,331,CISM,cyber_security,certifications
+3222,331,NIST,cyber_security,frameworks
+3223,331,communication,general,soft_skills
+3224,331,collaboration,general,soft_skills
+3225,331,proactive,general,soft_skills
+3226,332,SIEM,cyber_security,concepts
+3227,332,incident response,cyber_security,concepts
+3228,332,threat intelligence,cyber_security,concepts
+3229,332,SOC,cyber_security,concepts
+3230,332,risk assessment,cyber_security,concepts
+3231,332,compliance,cyber_security,concepts
+3232,332,CISSP,cyber_security,certifications
+3233,332,CEH,cyber_security,certifications
+3234,332,OSCP,cyber_security,certifications
+3235,332,ISO 27001,cyber_security,certifications
+3236,332,CISM,cyber_security,certifications
+3237,332,NIST,cyber_security,frameworks
+3238,332,communication,general,soft_skills
+3239,332,teamwork,general,soft_skills
+3240,332,collaboration,general,soft_skills
+3241,332,proactive,general,soft_skills
+3242,333,SIEM,cyber_security,concepts
+3243,333,incident response,cyber_security,concepts
+3244,333,threat intelligence,cyber_security,concepts
+3245,333,SOC,cyber_security,concepts
+3246,333,compliance,cyber_security,concepts
+3247,333,CISSP,cyber_security,certifications
+3248,333,CEH,cyber_security,certifications
+3249,333,CISM,cyber_security,certifications
+3250,333,NIST,cyber_security,frameworks
+3251,333,communication,general,soft_skills
+3252,333,collaboration,general,soft_skills
+3253,333,proactive,general,soft_skills
+3254,334,SIEM,cyber_security,concepts
+3255,334,incident response,cyber_security,concepts
+3256,334,threat intelligence,cyber_security,concepts
+3257,334,SOC,cyber_security,concepts
+3258,334,compliance,cyber_security,concepts
+3259,334,CISSP,cyber_security,certifications
+3260,334,CEH,cyber_security,certifications
+3261,334,CISM,cyber_security,certifications
+3262,334,NIST,cyber_security,frameworks
+3263,334,communication,general,soft_skills
+3264,334,collaboration,general,soft_skills
+3265,334,proactive,general,soft_skills
+3266,335,collaboration,general,soft_skills
+3267,336,SQL,data_science,languages
+3268,336,ETL,data_science,concepts
+3269,336,TypeScript,web_dev,languages
+3270,336,React,web_dev,frontend_frameworks
+3271,336,Next.js,web_dev,frontend_frameworks
+3272,336,AWS,web_dev,devops_tools
+3273,336,GCP,web_dev,devops_tools
+3274,336,leadership,general,soft_skills
+3275,336,analytical,general,soft_skills
+3276,336,creativity,general,soft_skills
+3277,336,PostgreSQL,web_dev,databases
+3278,336,JavaScript,web_dev,languages
+3279,336,CI/CD,web_dev,devops_tools
+3280,337,Python,web_dev,languages
+3281,337,SQL,data_science,languages
+3282,337,DynamoDB,data_science,databases
+3283,337,SQL Server,data_science,databases
+3284,337,Docker,web_dev,devops_tools
+3285,337,AWS,web_dev,devops_tools
+3286,337,Terraform,web_dev,devops_tools
+3287,337,firewall,cyber_security,concepts
+3288,337,IAM,cyber_security,concepts
+3289,337,compliance,cyber_security,concepts
+3290,337,analytical,general,soft_skills
+3291,337,CI/CD,web_dev,devops_tools
+3292,338,Python,web_dev,languages
+3293,338,SQL,data_science,languages
+3294,338,DynamoDB,data_science,databases
+3295,338,SQL Server,data_science,databases
+3296,338,Docker,web_dev,devops_tools
+3297,338,AWS,web_dev,devops_tools
+3298,338,Terraform,web_dev,devops_tools
+3299,338,firewall,cyber_security,concepts
+3300,338,IAM,cyber_security,concepts
+3301,338,compliance,cyber_security,concepts
+3302,338,analytical,general,soft_skills
+3303,338,CI/CD,web_dev,devops_tools
+3304,339,Python,web_dev,languages
+3305,339,Java,web_dev,languages
+3306,339,Kafka,data_science,big_data
+3307,339,PostgreSQL,web_dev,databases
+3308,339,MySQL,web_dev,databases
+3309,339,MongoDB,web_dev,databases
+3310,339,Redis,web_dev,databases
+3311,339,Cassandra,data_science,databases
+3312,339,TypeScript,web_dev,languages
+3313,339,Go,web_dev,languages
+3314,339,Rust,web_dev,languages
+3315,339,Swift,web_dev,mobile
+3316,339,Less,web_dev,css_styling
+3317,339,Node.js,web_dev,backend_frameworks
+3318,339,Spring Boot,web_dev,backend_frameworks
+3319,339,Spring,web_dev,backend_frameworks
+3320,339,Docker,web_dev,devops_tools
+3321,339,Kubernetes,web_dev,devops_tools
+3322,339,AWS,web_dev,devops_tools
+3323,339,Azure,web_dev,devops_tools
+3324,339,Apache,web_dev,devops_tools
+3325,339,GitHub Actions,web_dev,devops_tools
+3326,339,GitLab CI,web_dev,devops_tools
+3327,339,Jenkins,web_dev,devops_tools
+3328,339,Prometheus,web_dev,devops_tools
+3329,339,Grafana,web_dev,devops_tools
+3330,339,RESTful,web_dev,api_tools
+3331,339,GraphQL,web_dev,api_tools
+3332,339,gRPC,web_dev,api_tools
+3333,339,access control,cyber_security,concepts
+3334,339,IAM,cyber_security,concepts
+3335,339,compliance,cyber_security,concepts
+3336,339,audit,cyber_security,concepts
+3337,339,OWASP,cyber_security,concepts
+3338,339,GDPR,cyber_security,frameworks
+3339,339,communication,general,soft_skills
+3340,339,leadership,general,soft_skills
+3341,339,agile,general,soft_skills
+3342,339,JavaScript,web_dev,languages
+3343,339,CI/CD,web_dev,devops_tools
+3344,340,SIEM,cyber_security,concepts
+3345,340,incident response,cyber_security,concepts
+3346,340,CISSP,cyber_security,certifications
+3347,340,CISM,cyber_security,certifications
+3348,340,CISA,cyber_security,certifications
+3349,341,anomaly detection,data_science,concepts
+3350,341,Terraform,web_dev,devops_tools
+3351,341,Grafana,web_dev,devops_tools
+3352,341,SIEM,cyber_security,concepts
+3353,341,compliance,cyber_security,concepts
+3354,341,audit,cyber_security,concepts
+3355,341,PCI DSS,cyber_security,frameworks
+3356,341,analytical,general,soft_skills
+3357,341,proactive,general,soft_skills
+3358,342,anomaly detection,data_science,concepts
+3359,342,Terraform,web_dev,devops_tools
+3360,342,Grafana,web_dev,devops_tools
+3361,342,SIEM,cyber_security,concepts
+3362,342,compliance,cyber_security,concepts
+3363,342,audit,cyber_security,concepts
+3364,342,PCI DSS,cyber_security,frameworks
+3365,342,analytical,general,soft_skills
+3366,342,proactive,general,soft_skills
+3367,343,Python,web_dev,languages
+3368,343,Java,web_dev,languages
+3369,343,machine learning,data_science,concepts
+3370,343,communication,general,soft_skills
+3371,343,leadership,general,soft_skills
+3372,343,interpersonal,general,soft_skills
+3373,343,CI/CD,web_dev,devops_tools
+3374,344,Kafka,data_science,big_data
+3375,344,PostgreSQL,web_dev,databases
+3376,344,MySQL,web_dev,databases
+3377,344,Redis,web_dev,databases
+3378,344,InfluxDB,data_science,databases
+3379,344,Docker,web_dev,devops_tools
+3380,344,AWS,web_dev,devops_tools
+3381,344,GitHub Actions,web_dev,devops_tools
+3382,344,Prometheus,web_dev,devops_tools
+3383,344,Grafana,web_dev,devops_tools
+3384,344,Flutter,web_dev,mobile
+3385,344,communication,general,soft_skills
+3386,344,collaboration,general,soft_skills
+3387,344,JavaScript,web_dev,languages
+3388,344,Node.js,web_dev,backend_frameworks
+3389,344,CI/CD,web_dev,devops_tools
+3390,345,Kafka,data_science,big_data
+3391,345,PostgreSQL,web_dev,databases
+3392,345,MySQL,web_dev,databases
+3393,345,Redis,web_dev,databases
+3394,345,InfluxDB,data_science,databases
+3395,345,Docker,web_dev,devops_tools
+3396,345,AWS,web_dev,devops_tools
+3397,345,GitHub Actions,web_dev,devops_tools
+3398,345,Prometheus,web_dev,devops_tools
+3399,345,Grafana,web_dev,devops_tools
+3400,345,Flutter,web_dev,mobile
+3401,345,communication,general,soft_skills
+3402,345,collaboration,general,soft_skills
+3403,345,JavaScript,web_dev,languages
+3404,345,Node.js,web_dev,backend_frameworks
+3405,345,CI/CD,web_dev,devops_tools
+3406,346,SQL,data_science,languages
+3407,346,Java,web_dev,languages
+3408,346,MySQL,web_dev,databases
+3409,346,Oracle,data_science,databases
+3410,346,SQL Server,data_science,databases
+3411,346,PHP,web_dev,languages
+3412,346,Ruby,web_dev,languages
+3413,346,React,web_dev,frontend_frameworks
+3414,346,Angular,web_dev,frontend_frameworks
+3415,346,Spring Boot,web_dev,backend_frameworks
+3416,346,Spring,web_dev,backend_frameworks
+3417,346,collaboration,general,soft_skills
+3418,346,attention to detail,general,soft_skills
+3419,346,organization,general,soft_skills
+3420,346,agile,general,soft_skills
+3421,349,Python,web_dev,languages
+3422,349,SQL,data_science,languages
+3423,349,Java,web_dev,languages
+3424,349,machine learning,data_science,concepts
+3425,349,data warehouse,data_science,concepts
+3426,349,compliance,cyber_security,concepts
+3427,349,collaboration,general,soft_skills
+3428,349,organization,general,soft_skills
+3429,349,proactive,general,soft_skills
+3430,349,decision making,general,soft_skills
+3431,350,Next.js,web_dev,frontend_frameworks
+3432,350,Node.js,web_dev,backend_frameworks
+3433,350,RESTful,web_dev,api_tools
+3434,350,agile,general,soft_skills
+3435,350,JavaScript,web_dev,languages
+3436,350,CI/CD,web_dev,devops_tools
+3437,351,SQL,data_science,languages
+3438,351,Java,web_dev,languages
+3439,351,MySQL,web_dev,databases
+3440,351,Oracle,data_science,databases
+3441,351,SQL Server,data_science,databases
+3442,351,Kotlin,web_dev,mobile
+3443,351,Swift,web_dev,mobile
+3444,351,Dart,web_dev,languages
+3445,351,Azure,web_dev,devops_tools
+3446,351,RESTful,web_dev,api_tools
+3447,351,Flutter,web_dev,mobile
+3448,351,attention to detail,general,soft_skills
+3449,351,agile,general,soft_skills
+3450,351,CI/CD,web_dev,devops_tools
+3451,352,Python,web_dev,languages
+3452,352,SQL,data_science,languages
+3453,352,machine learning,data_science,concepts
+3454,352,computer vision,data_science,concepts
+3455,352,regression,data_science,concepts
+3456,352,classification,data_science,concepts
+3457,352,JavaScript,web_dev,languages
+3458,352,Foundation,web_dev,css_styling
+3459,352,AWS,web_dev,devops_tools
+3460,352,Azure,web_dev,devops_tools
+3461,352,RESTful,web_dev,api_tools
+3462,352,compliance,cyber_security,concepts
+3463,352,communication,general,soft_skills
+3464,352,adaptability,general,soft_skills
+3465,352,collaboration,general,soft_skills
+3466,352,organization,general,soft_skills
+3467,352,creativity,general,soft_skills
+3468,353,SQL,data_science,languages
+3469,353,Java,web_dev,languages
+3470,353,MySQL,web_dev,databases
+3471,353,Oracle,data_science,databases
+3472,353,SQL Server,data_science,databases
+3473,353,Kotlin,web_dev,mobile
+3474,353,Swift,web_dev,mobile
+3475,353,Dart,web_dev,languages
+3476,353,Azure,web_dev,devops_tools
+3477,353,RESTful,web_dev,api_tools
+3478,353,Flutter,web_dev,mobile
+3479,353,attention to detail,general,soft_skills
+3480,353,agile,general,soft_skills
+3481,353,CI/CD,web_dev,devops_tools
+3482,354,SQL,data_science,languages
+3483,354,Java,web_dev,languages
+3484,354,MySQL,web_dev,databases
+3485,354,Oracle,data_science,databases
+3486,354,SQL Server,data_science,databases
+3487,354,Kotlin,web_dev,mobile
+3488,354,Swift,web_dev,mobile
+3489,354,Dart,web_dev,languages
+3490,354,Azure,web_dev,devops_tools
+3491,354,RESTful,web_dev,api_tools
+3492,354,Flutter,web_dev,mobile
+3493,354,communication,general,soft_skills
+3494,354,collaboration,general,soft_skills
+3495,354,organization,general,soft_skills
+3496,354,creativity,general,soft_skills
+3497,354,agile,general,soft_skills
+3498,354,CI/CD,web_dev,devops_tools
+3499,355,Python,web_dev,languages
+3500,355,SQL,data_science,languages
+3501,355,machine learning,data_science,concepts
+3502,355,computer vision,data_science,concepts
+3503,355,classification,data_science,concepts
+3504,355,JavaScript,web_dev,languages
+3505,355,AWS,web_dev,devops_tools
+3506,355,Azure,web_dev,devops_tools
+3507,355,RESTful,web_dev,api_tools
+3508,355,communication,general,soft_skills
+3509,355,adaptability,general,soft_skills
+3510,355,collaboration,general,soft_skills
+3511,355,organization,general,soft_skills
+3512,355,creativity,general,soft_skills
+3513,355,mentoring,general,soft_skills
+3514,356,SQL,data_science,languages
+3515,356,Java,web_dev,languages
+3516,356,MySQL,web_dev,databases
+3517,356,Oracle,data_science,databases
+3518,356,SQL Server,data_science,databases
+3519,356,PHP,web_dev,languages
+3520,356,Ruby,web_dev,languages
+3521,356,React,web_dev,frontend_frameworks
+3522,356,Angular,web_dev,frontend_frameworks
+3523,356,Spring Boot,web_dev,backend_frameworks
+3524,356,Spring,web_dev,backend_frameworks
+3525,356,agile,general,soft_skills
+3526,357,SQL,data_science,languages
+3527,357,Java,web_dev,languages
+3528,357,MySQL,web_dev,databases
+3529,357,Oracle,data_science,databases
+3530,357,SQL Server,data_science,databases
+3531,357,PHP,web_dev,languages
+3532,357,Ruby,web_dev,languages
+3533,357,React,web_dev,frontend_frameworks
+3534,357,Angular,web_dev,frontend_frameworks
+3535,357,Spring Boot,web_dev,backend_frameworks
+3536,357,Spring,web_dev,backend_frameworks
+3537,357,agile,general,soft_skills
+3538,358,SQL,data_science,languages
+3539,358,Java,web_dev,languages
+3540,358,MySQL,web_dev,databases
+3541,358,Oracle,data_science,databases
+3542,358,SQL Server,data_science,databases
+3543,358,PHP,web_dev,languages
+3544,358,Ruby,web_dev,languages
+3545,358,React,web_dev,frontend_frameworks
+3546,358,Angular,web_dev,frontend_frameworks
+3547,358,Spring Boot,web_dev,backend_frameworks
+3548,358,Spring,web_dev,backend_frameworks
+3549,358,organization,general,soft_skills
+3550,358,agile,general,soft_skills
+3551,359,Java,web_dev,languages
+3552,359,PostgreSQL,web_dev,databases
+3553,359,MySQL,web_dev,databases
+3554,359,Vertex AI,data_science,mlops
+3555,359,regression,data_science,concepts
+3556,359,JavaScript,web_dev,languages
+3557,359,TypeScript,web_dev,languages
+3558,359,PHP,web_dev,languages
+3559,359,Dart,web_dev,languages
+3560,359,Node.js,web_dev,backend_frameworks
+3561,359,Laravel,web_dev,backend_frameworks
+3562,359,SQLite,web_dev,databases
+3563,359,AWS,web_dev,devops_tools
+3564,359,Azure,web_dev,devops_tools
+3565,359,Flutter,web_dev,mobile
+3566,359,communication,general,soft_skills
+3567,359,presentation,general,soft_skills
+3568,359,organization,general,soft_skills
+3569,359,proactive,general,soft_skills
+3570,359,CI/CD,web_dev,devops_tools
+3571,360,Python,web_dev,languages
+3572,360,SQL,data_science,languages
+3573,360,Java,web_dev,languages
+3574,360,PostgreSQL,web_dev,databases
+3575,360,JavaScript,web_dev,languages
+3576,360,Node.js,web_dev,backend_frameworks
+3577,360,Docker,web_dev,devops_tools
+3578,360,Kubernetes,web_dev,devops_tools
+3579,360,AWS,web_dev,devops_tools
+3580,360,Azure,web_dev,devops_tools
+3581,360,GCP,web_dev,devops_tools
+3582,360,communication,general,soft_skills
+3583,360,analytical,general,soft_skills
+3584,360,interpersonal,general,soft_skills
+3585,360,organization,general,soft_skills
+3586,360,decision making,general,soft_skills
+3587,361,SQL,data_science,languages
+3588,361,SQL Server,data_science,databases
+3589,361,JavaScript,web_dev,languages
+3590,361,jQuery,web_dev,frontend_frameworks
+3591,361,Backbone,web_dev,frontend_frameworks
+3592,361,ASP.NET,web_dev,backend_frameworks
+3593,361,communication,general,soft_skills
+3594,361,teamwork,general,soft_skills
+3595,361,leadership,general,soft_skills
+3596,361,collaboration,general,soft_skills
+3597,361,organization,general,soft_skills
+3598,362,Java,web_dev,languages
+3599,362,PostgreSQL,web_dev,databases
+3600,362,MySQL,web_dev,databases
+3601,362,Vertex AI,data_science,mlops
+3602,362,regression,data_science,concepts
+3603,362,JavaScript,web_dev,languages
+3604,362,TypeScript,web_dev,languages
+3605,362,PHP,web_dev,languages
+3606,362,Dart,web_dev,languages
+3607,362,Node.js,web_dev,backend_frameworks
+3608,362,Laravel,web_dev,backend_frameworks
+3609,362,SQLite,web_dev,databases
+3610,362,AWS,web_dev,devops_tools
+3611,362,Azure,web_dev,devops_tools
+3612,362,Flutter,web_dev,mobile
+3613,362,communication,general,soft_skills
+3614,362,presentation,general,soft_skills
+3615,362,organization,general,soft_skills
+3616,362,proactive,general,soft_skills
+3617,362,CI/CD,web_dev,devops_tools
+3618,364,SQL,data_science,languages
+3619,364,SQL Server,data_science,databases
+3620,364,JavaScript,web_dev,languages
+3621,364,jQuery,web_dev,frontend_frameworks
+3622,364,ASP.NET,web_dev,backend_frameworks
+3623,364,communication,general,soft_skills
+3624,364,teamwork,general,soft_skills
+3625,364,leadership,general,soft_skills
+3626,364,collaboration,general,soft_skills
+3627,365,Java,web_dev,languages
+3628,365,PostgreSQL,web_dev,databases
+3629,365,MySQL,web_dev,databases
+3630,365,Vertex AI,data_science,mlops
+3631,365,regression,data_science,concepts
+3632,365,JavaScript,web_dev,languages
+3633,365,TypeScript,web_dev,languages
+3634,365,PHP,web_dev,languages
+3635,365,Dart,web_dev,languages
+3636,365,Node.js,web_dev,backend_frameworks
+3637,365,Laravel,web_dev,backend_frameworks
+3638,365,SQLite,web_dev,databases
+3639,365,AWS,web_dev,devops_tools
+3640,365,Azure,web_dev,devops_tools
+3641,365,Flutter,web_dev,mobile
+3642,365,communication,general,soft_skills
+3643,365,presentation,general,soft_skills
+3644,365,organization,general,soft_skills
+3645,365,proactive,general,soft_skills
+3646,365,CI/CD,web_dev,devops_tools
+3647,366,SQL,data_science,languages
+3648,366,SQL Server,data_science,databases
+3649,366,JavaScript,web_dev,languages
+3650,366,jQuery,web_dev,frontend_frameworks
+3651,366,ASP.NET,web_dev,backend_frameworks
+3652,366,communication,general,soft_skills
+3653,366,teamwork,general,soft_skills
+3654,366,leadership,general,soft_skills
+3655,366,collaboration,general,soft_skills
+3656,366,organization,general,soft_skills
+3657,368,JavaScript,web_dev,languages
+3658,368,leadership,general,soft_skills
+3659,368,collaboration,general,soft_skills
